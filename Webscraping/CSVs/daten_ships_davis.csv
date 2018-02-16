@@ -1,5 +1,5 @@
 Link	Renew	Shipname	Launch	H.	P.	Type	B.M.	Disp.	Guns	Fate	S.B.	Note
-ShowShip.php?id-10		Aboukir	1848	W	W	2nd rate	 2 decker	3080		90	1877	1 1858 screw
+ShowShip.php?id-10		Aboukir	1848	W	W	2nd rate, 2 decker	3080		90	1877	1	1858 screw
 	r	Abundance	1855									Alfred 1855
 		Abyssinia	1870	I	S	Breastwork monitor		2900	4	1903		
 ShowShip.php?id=1001		Acheron	1835	W	P	Sloop	720	1006		1855		
@@ -104,7 +104,7 @@ ShowShip.php?id=142		Ariel	1854	W	S	Sloop	486	625	9	1865	22
 		Ariel	1873	C	S	Gunboat	295	436	4	1889	23	1877 Coastguard
 ShowShip.php?id=1076		Armada	1810	W	W	3rd rate	1749		74	1863		
 ShowShip.php?id=2383		Armide	1806	W	W	5th rate	1104		38	1815		1806.09.26 captured from France off Rochefort
-ShowShip.php?id=73		Arrogant	1848	W	S	Frigate	1872	2690	46	1867	24	+//0Awv/9AKA-
+ShowShip.php?id=73		Arrogant	1848	W	S	Frigate	1872	2690	46	1867	24	
 ShowShip.php?id=2330		Arrow	1823	W	W	Cutter	157		10	1852		1831 Customs cutter
 ShowShip.php?id=1077		Arrow	1854	W	S	Gunvessel	477	586	2	1862	25	
 		Arrow	1871	I	S	Gunboat	245	241	1	1922	26	
@@ -148,7 +148,7 @@ ShowShip.php?id=1107		Barracouta	1851	W	P	Sloop	1053	1676	6	1881
 ShowShip.php?id=2496		Barrosa	1812	W	W	5th rate	947		36	1841		1823 h.s.
 ShowShip.php?id=101		Barrosa	1860	W	S	Corvette	1700	2302	21	1877	38	
 ShowShip.php?id=2332		Basilisk	1822	W	W	Cutter	161		6	1846		
-ShowShip.php?id=1108		Basilisk	1848	W	P	1st class sloop	1031	1710	6	1882		+//0Awv/9AKA-
+ShowShip.php?id=1108		Basilisk	1848	W	P	1st class sloop	1031	1710	6	1882		
 ShowShip.php?id=1109	r	Beacon	1832									Meteor 1823
 		Beacon	1855	W	W	Mortar vessel	117		1	18??		1855.10 = MV.16. 1862 dockyard lighter
 		Beacon	1856	W	S	Gunboat	232		4	1864		
@@ -284,7 +284,7 @@ ShowShip.php?id=1217		Carysfort	1878	S	S	Corvette		2380	14	1899
 		Castlereagh	1846	W	W	Survey schooner				1848		
 ShowShip.php?id=1220		Castor	1832	W	W	5th rate	1293	1808	26	1902		1860 t.s.
 ShowShip.php?id=2423		Celebes	1806	W	W	5th rate			36			1806.07.26 Dutch Pallas captured in East Indies. Originally renamed Macassar
-ShowShip.php?id=1221		Centaur	1845	W	P	2nd class frigate	1270	2100	6	1864		+//0Awv/9AKA-
+ShowShip.php?id=1221		Centaur	1845	W	P	2nd class frigate	1270	2100	6	1864		
 ShowShip.php?id=16		Centurion	1844	W	W	2nd rate	2580		80	1870	83	1855 screw
 ShowShip.php?id=1222		Cerberus	1827	W	W	5th rate	1079		46	1866		
 ShowShip.php?id=1223	r	Cerberus	1867									Volage 1869
@@ -471,7 +471,7 @@ ShowShip.php?id=2398		Dove	1823	W	W	Packet brig			6	1829		1823 Purchased
 ShowShip.php?id=1354		Dove	1855	W	S	Gunboat	232		4	1873	135	
 		Dover	1840	I	P	Packet	224			1866	136	1st iron vessel in RN. 1847 gunboat 1
 ShowShip.php?id=1357		Dragon	1798	W	W	3rd rate	1815		74	1850		1824 h.s. 1842 = Fame hulk
-ShowShip.php?id=1358		Dragon	1845	W	P	2nd class frigate	1270	2100	6	1865		+//0Awv/9AKA-
+ShowShip.php?id=1358		Dragon	1845	W	P	2nd class frigate	1270	2100	6	1865		
 ShowShip.php?id=2593		Dragon	1878	C	S	Sloop		1130	6	1892		
 		Drake	1834	W	W	Dockyard lighter	109			1867		1854 mortar vessel. 1855 = MV.1. 1856 = Sheppey dockyard lighter
 ShowShip.php?id=1360		Drake	1856	W	S	Gunboat	233		2	1869	138	
@@ -541,7 +541,7 @@ ShowShip.php?id=1406		Erebus	1826	W	W	Bomb	378		14	1848		1844 screw discovery ve
 ShowShip.php?id=1408	r	Erebus	1904									Invincible 1869
 ShowShip.php?id=1409		Erne	1856	W	S	Gunboat	232		4	1874	157	
 		Escort	1856	W	S	Gunboat	232		4	1865	158	
-ShowShip.php?id=115		Esk	1854	W	S	Corvette	1169	1900	20	1870	159	+//0Awv/9AKA-
+ShowShip.php?id=115		Esk	1854	W	S	Corvette	1169	1900	20	1870	159	
 ShowShip.php?id=2402		Espiegle	1812	W	W	Brig-sloop	387		18	1832		
 ShowShip.php?id=1412		Espiegle	1844	W	W	Brig	443		12	1861		
 ShowShip.php?id=1413		Espoir	1826	W	W	Brig-sloop	233		10	1857		
@@ -551,7 +551,7 @@ ShowShip.php?id=1415		Ethalion	1802	W	W	5th rate	996		36	1877		1823 h.s. 1835 le
 ShowShip.php?id=1417		Euphrates	1866	I	S	Troopship	4173	6211	3	1894	161	
 ShowShip.php?id=189		Eurotas	1829	W	W	5th rate	1170		46	1865	162	1856 mortar frigate 2 mortars
 ShowShip.php?id=1418		Euryalus	1803	W	W	5th rate	946		36	1860		1826 prison ship. 1859 = Africa
-ShowShip.php?id=83		Euryalus	1853	W	S	Frigate	2371	3125	51	1867	163	+//0Awv/9AKA-
+ShowShip.php?id=83		Euryalus	1853	W	S	Frigate	2371	3125	51	1867	163	
 ShowShip.php?id=2555		Euryalus	1877	I	S	Corvette	2690	4070	16	1897		
 ShowShip.php?id=1419		Eurydice	1843	W	W	6th rate	908		24	1878		1861 t.s. 1878.03.24 foundered off Isle of Wight
 ShowShip.php?id=1420	r	Excellent	1834									Boyne 1810
@@ -565,7 +565,7 @@ ShowShip.php?id=1424		Fair Rosamond	1830	W	W	Vessel				1845
 ShowShip.php?id=2340		Fairy	1826	W	W	Brig-sloop	233		10	1840		1832 survey vessel. 1840.11.13 wrecked on Sussex coast (63 died)
 ShowShip.php?id=1425		Fairy	1845	I	S	Yacht	312			1868	165	
 		Falcon	1820	W	W	Brig-sloop	237		10	1838		 
-ShowShip.php?id=154		Falcon	1854	W	S	Sloop	748	1139	17	1869	166	+//0Awv/9AKA-
+ShowShip.php?id=154		Falcon	1854	W	S	Sloop	748	1139	17	1869	166	
 		Falmouth	1807	W	W	Schooner	160			1883		1808 dockyard service. 1824 = mortar vessel. 1846 = lighter YC.1. 1870 = YC.46. 1870.11 = Falmouth
 	r	Falmouth	1870									Falmouth 1807
 ShowShip.php?id=1429	r	Fame	1842									Dragon 1798
@@ -652,11 +652,11 @@ ShowShip.php?id=1491		Garland	1846	W	P	Packet	295			1855
 		Garland	1856	W	S	Gunboat	212		2	1864		
 		Garnet	1856	W	S	Gunboat	233		2	1864		
 		Garnet	1877	C	P	Corvette	1864	2120	12	1904		
-ShowShip.php?id=1494		Geyser	1841	W	P	1st class sloop	1055	1379	6	1866	192	+//0Awv/9AKA-
+ShowShip.php?id=1494		Geyser	1841	W	P	1st class sloop	1055	1379	6	1866	192	
 ShowShip.php?id=51		Gibraltar	1860	W	S	2nd rate	3716	5724	101	1899	206	1872 t.s. 1889 = Grampian
 ShowShip.php?id=1495		Gladiator	1844	W	P	2nd class frigate	1190	1960	6	1879	193	
 ShowShip.php?id=86		Glasgow	1861	W	S	Frigate	3027	4020	51	1884	194	
-ShowShip.php?id=1496		Glatton	1855	W	S	Floating battery	1535		14	1864	195	+//0Awv/9AKA-
+ShowShip.php?id=1496		Glatton	1855	W	S	Floating battery	1535		14	1864	195	
 		Glatton	1871	I	S	Breastwork monitor		4910	4	1903	196	
 ShowShip.php?id=1498		Gleaner	1837	W	P	Gunvessel	371		3	1849		
 ShowShip.php?id=1499		Gleaner	1854	W	S	Gunboat	216		4	1868	197	
@@ -666,7 +666,7 @@ ShowShip.php?id=1500		Gloucester	1812	W	W	3rd rate	1770		74	1884		1832 40 gun 4t
 ShowShip.php?id=2410		Goldfinch	1808	W	W	Brig-sloop	237		10	1838		
 ShowShip.php?id=1503		Goldfinch	1856	W	S	Gunboat	232		4	1869	200	
 ShowShip.php?id=22		Goliath	1842	W	W	2nd rate	2596		80	1875	201	1857 screw. 1870 t.s. 1875.12.22 burnt by accident
-ShowShip.php?id=1506		Gorgon	1837	W	P	Frigate	1111	1610	6	1864		+//0Awv/9AKA-
+ShowShip.php?id=1506		Gorgon	1837	W	P	Frigate	1111	1610	6	1864		
 		Gorgon	1871	I	S	Coast defence monitor		3560	4	1903	203	
 ShowShip.php?id=1508		Goshawk	1856	W	S	Gunboat	232		4	1869	204	
 		Goshawk	1872	C	S	Gunboat		430	4	1906	205	1902 hulk
@@ -707,7 +707,7 @@ ShowShip.php?id=1538		Harpy	1825	W	W	Brig-sloop	232		10	1841
 ShowShip.php?id=1539		Harpy	1845	I	P	Gunboat	344	505	3	1909	218	1892 target
 ShowShip.php?id=2414		Harrier	1804	W	W	Brig-sloop	383		18	1809		1809.03 foundered in Indian Ocean 
 		Harrier	1831	W	W	Sloop	486		18	1840		
-ShowShip.php?id=158		Harrier	1854	W	S	Sloop	747	1047	17	1866	219	+//0Awv/9AKA-
+ShowShip.php?id=158		Harrier	1854	W	S	Sloop	747	1047	17	1866	219	
 		Hart	1868	C	S	Gunvessel	464	584	4	1888	220	
 ShowShip.php?id=63		Hastings	1819	W	W	3rd rate	1763		74	1886		Purchased ex-Indiaman. 1855 screw blockship 60 guns. 1870 coal hulk
 		Hasty	1812	W	W	Gun-brig	182		12	1870		1819 survey vessel. 1827 mud-engine
@@ -726,7 +726,7 @@ ShowShip.php?id=1552		Hebe	1826	W	W	5th rate	1078		46	1873		1839 r.s. 1861 hulk
 ShowShip.php?id=1553		Hecate	1839	W	P	2nd class sloop	817	1096	4	1865		
 		Hecate	1871	I	S	Coast defence monitor		3480	4	1903		
 ShowShip.php?id=2415		Hecla	1815	W	W	Bomb	375		10	1831		1819 artic discovery vessel
-ShowShip.php?id=1555		Hecla	1839	W	P	2nd class sloop	817	1096	4	1863		+//0Awv/9AKA-
+ShowShip.php?id=1555		Hecla	1839	W	P	2nd class sloop	817	1096	4	1863		
 ShowShip.php?id=1556		Hecla	1855	I	S	Storeship	700			1866		Transferred from Treasury Dept. 1855.06 = Wye
 ShowShip.php?id=2549		Hecla	1878	I	S	Torpedo depot ship		6400	6	1926		
 ShowShip.php?id=1557		Hector	1862	I	S	Broadside ironclad frigate		6710	18	1905	226	1900 part of Vernon torpedo school
@@ -774,7 +774,7 @@ ShowShip.php?id=1587		Hussar	1807	W	W	5th rate	1077		38	1861		1833 h.s. 1861 tar
 ShowShip.php?id=1588		Hyacinth	1829	W	W	Sloop	435		18	1871		1860 c.h.
 ShowShip.php?id=1589		Hyaena	1856	W	S	Gunboat	232		4	1870	245	
 		Hyaena	1873	I	S	Gunboat		254	1	1906		
-ShowShip.php?id=1591		Hydra	1838	W	P	2nd class sloop	817	1096	4	1870	243	+//0Awv/9AKA-
+ShowShip.php?id=1591		Hydra	1838	W	P	2nd class sloop	817	1096	4	1870	243	
 		Hydra	1871	I	S	Coast defence monitor		3480	4	1903	244	
 ShowShip.php?id=2483		Hyperion	1807	W	W	5th rate	978		32	1833		
 ShowShip.php?id=1593		Icarus	1814	W	W	Brig-sloop	234		18	1861		
@@ -928,7 +928,7 @@ ShowShip.php?id=1713		Mackerel	1856	W	S	Gunboat	232		4	1862
 ShowShip.php?id=1714		Madagascar	1822	W	W	5th rate	1167		46	1863		1853 harbour storeship
 ShowShip.php?id=1716		Maeander	1840	W	W	5th rate	1221		44	1870		1870.07 wrecked at Ascension
 ShowShip.php?id=2425		Magicienne	1812	W	W	5th rate	949		36	1845		1831 24 gun 6th rate
-ShowShip.php?id=1717		Magicienne	1849	W	P	2nd class frigate	1255	2300	16	1865	293	+//0Awv/9AKA-
+ShowShip.php?id=1717		Magicienne	1849	W	P	2nd class frigate	1255	2300	16	1865	293	
 ShowShip.php?id=1719		Magnet	1823	W	W	Packet brig	237		3	1847		
 		Magnet	1855	W	W	Mortar vessel	155		1	1867		1855.10 = MV.15. 1857 dockyard craft
 ShowShip.php?id=1721		Magnet	1856	W	S	Gunboat	232		4	1874	294	
@@ -993,7 +993,7 @@ ShowShip.php?id=90		Mersey	1858	W	S	Frigate	3733	5643	40	1875
 ShowShip.php?id=1765		Messenger	1830	W	P	Packet	733	912		1861		
 ShowShip.php?id=1766		Meteor	1823	W	W	Bomb	378		14	1846		1832 = Beacon survey ship
 ShowShip.php?id=1767		Meteor	1824	W	P	Auxiliary vessel	296	349	2	1849		
-ShowShip.php?id=1768		Meteor	1855	W	S	Floating battery	1469		14	1861		+//0Awv/9AKA-
+ShowShip.php?id=1768		Meteor	1855	W	S	Floating battery	1469		14	1861		
 		Midge	1856	W	S	Gunboat	212		2	1864		
 ShowShip.php?id=1769		Midge	1868	C	S	Gunvessel		603	4	1907	308	
 ShowShip.php?id=1772		Milford	1809	W	W	3rd rate	1919		78	1846		1825 h.s.
@@ -1218,7 +1218,7 @@ ShowShip.php?id=35		Princess Royal	1853	W	S	2nd rate	3129	4540	91	1872	374	Laid 
 ShowShip.php?id=1922		Procris	1856	W	S	Gunboat	232		4	1893	375	1869 hulk
 		Progresso	1844	W	W	Tankvessel				1869		ex-slaver purchased
 ShowShip.php?id=1924		Prometheus	1807	W	W	Fireship	432			1852		1819 h.s. 1839 = Veteran
-ShowShip.php?id=1925		Prometheus	1839	W	P	Sloop	800	878	5	1863		+//0Awv/9AKA-
+ShowShip.php?id=1925		Prometheus	1839	W	P	Sloop	800	878	5	1863		
 ShowShip.php?id=2540		Prompt	1842	W	W		61			1845		
 		Prompt	1845	W	W	Schooner				1847		ex-slaver purchased
 		Prompt	1855	W	W	Mortar vessel	155		1	1865		1855.10 = MV.21
@@ -1229,7 +1229,7 @@ ShowShip.php?id=1931		Prospero	1837	W	P	Packet	249			1866
 		Providence	1866	W	W	Coastguard cutter	40			1870		
 ShowShip.php?id=1933		Psyche	1862	W	P	Dispatch vessel	835	985	2	1870	378	1870.12.15 wrecked Catania
 ShowShip.php?id=1934		Pylades	1824	W	W	Sloop	433		18	1845		
-ShowShip.php?id=124		Pylades	1854	W	S	Corvette	1278	1991	21	1875		+//0Awv/9AKA-
+ShowShip.php?id=124		Pylades	1854	W	S	Corvette	1278	1991	21	1875		
 ShowShip.php?id=2590		Pylades	1884	C	S	Gunvessel		1420	12	1906		1884 reclassed as corvette
 ShowShip.php?id=2510		Pyramus	1810	W	W	5th rate	920		36	1879		1832 r.s.
 ShowShip.php?id=1935		Quail	1830	W	W	Cutter	108		4	1859		To Liberian govt
@@ -1357,7 +1357,7 @@ ShowShip.php?id=67		Russell	1822	W	W	3rd rate	1751		74	1865		1855 screw blockshi
 ShowShip.php?id=2021		Salamander	1832	W	P	2nd class sloop	818	1014	4	1883		
 ShowShip.php?id=2022		Salamis	1863	W	P	Dispatch vessel	835	985	2	1873	412	
 ShowShip.php?id=2023		Samarang	1822	W	W	6th rate	500		28	1883		1847 guardship
-ShowShip.php?id=2024		Sampson	1844	W	P	2nd class frigate	1299	2100	4	1864		+//0Awv/9AKA-
+ShowShip.php?id=2024		Sampson	1844	W	P	2nd class frigate	1299	2100	4	1864		
 		Sampson	1877	I	P	Tug	375	530	0	1923		1918.07=Orient
 ShowShip.php?id=2025		San Josef	1797	W	W	1st rate	2457		114	1849		1797.02.14 captured at St Vincent (Spanish). 1839 gunnery training ship
 ShowShip.php?id=2026		Sandfly	1855	W	S	Gunboat	232		4	1867	413	
@@ -1391,7 +1391,7 @@ ShowShip.php?id=2044		Seagull	1831	W	W	Schooner	279		6	1852
 ShowShip.php?id=2045		Seagull	1855	W	S	Gunboat	232		4	1864	421	
 		Seagull	1868	W	S	Gunvessel	663	805	3	1887	422	
 ShowShip.php?id=197		Seahorse	1830	W	W	5th rate	1215		46	1902		1847 screw frigate. 1856 screw mortar frigate. 1870 = Lavinia c.h.
-ShowShip.php?id=2594		Seahorse	1880	S	S	Tug	319	521	3	1920		+ACI-Steel twin screw special service steamer+ACI-
+ShowShip.php?id=2594		Seahorse	1880	S	S	Tug	319	521	3	1920		Steel twin screw special service steamer
 ShowShip.php?id=2047		Sealark	1843	W	W	Brig	319		10	1898		1853 training brig
 		Security	1785	W	W	Storeship	142			1852		18?? dockyard service
 ShowShip.php?id=2515		Semiramis	1808	W	W	5th rate	944		36	1844		
@@ -1560,7 +1560,7 @@ ShowShip.php?id=2178		Thistle	1855	W	S	Gunboat	232		3	1863
 ShowShip.php?id=2180		Thrasher	1856	W	S	Gunboat	232		4	1883	475	
 		Thrush	1856	W	S	Gunboat	233		2	1864		
 ShowShip.php?id=2182		Thunder	1829	W	W	Bomb	372		12	1851		1833 survey vessel
-ShowShip.php?id=2183		Thunder	1855	W	S	Ironclad floating battery	1469		14	1874	476	+//0Awv/9AKA-
+ShowShip.php?id=2183		Thunder	1855	W	S	Ironclad floating battery	1469		14	1874	476	
 ShowShip.php?id=2184		Thunderbolt	1842	W	P	1st class sloop	1059	1669	6	1847		1847.02.03 wrecked Cape Recife S. Africa
 		Thunderbolt	1856	I	S	Floating battery	1954		16	1848		1873 floating pier-head.1916-1919 = Daedalus depot ship. 1948 rammed and sunk
 ShowShip.php?id=2186		Thunderer	1831	W	W	2nd rate	2279		84	1901		1863 target. 1869 = Comet. 1870 = Nettle
@@ -1632,7 +1632,7 @@ ShowShip.php?id=2237	r	Vernon II	1904									Marlborough 1855
 ShowShip.php?id=2238	r	Vernon III	1904									Warrior 1860
 ShowShip.php?id=2239		Vestal	1833	W	W	6th rate	913		26	1862		
 ShowShip.php?id=184		Vestal	1865	W	S	Sloop	1081	1597	4	1884	489	
-ShowShip.php?id=2240		Vesuvius	1839	W	P	1st class sloop	970	1283	6	1866	490	+//0Awv/9AKA-
+ShowShip.php?id=2240		Vesuvius	1839	W	P	1st class sloop	970	1283	6	1866	490	
 		Vesuvius	1874	I	S	Torpedo vessel		244		1923		4TT. Foundered after sale
 ShowShip.php?id=2242	r	Veteran	1839									Prometheus 1807
 ShowShip.php?id=2371		Victor	1814	W	W	Sloop	382		18	1842	0	Sailed from Vera Cruz for Halifax+ADs- never seen again presumed foundered with all hands (130)
@@ -1665,11 +1665,11 @@ ShowShip.php?id=2262		Vivid	1848	W	P	Packet	352	350	2	1894
 	r	Vivid (old)	1920									Cuckoo 1873
 ShowShip.php?id=2265		Vixen	1841	W	P	1st class sloop	1054	1379	6	1862	499	
 ShowShip.php?id=2266		Vixen	1865	C	S	Armoured gunboat	754	1230	4	1895	500	
-ShowShip.php?id=2267		Volage	1825	W	W	6th rate	521		28	1874		1847 survey ship. 1855 floating powder dep+//0Aw//9ALQ-t.
+ShowShip.php?id=2267		Volage	1825	W	W	6th rate	521		28	1874		1847 survey ship. 1855 floating powder depot.
 ShowShip.php?id=2268		Volage	1869	I	S	Corvette		3080	10	1904	502	Ordered as Cerberus
 ShowShip.php?id=2269		Volcano	1836	W	P	Sloop	720	1006	2	1894	501	1854? ''floating factory'' (repair ship)'
 ShowShip.php?id=2271		Vulcan	1849	I	S	Frigate	1747			1867	503	
-ShowShip.php?id=2272		Vulture	1843	W	P	2nd class frigate	1190	1960	6	1866		+//0Awv/9AKA-
+ShowShip.php?id=2272		Vulture	1843	W	P	2nd class frigate	1190	1960	6	1866		
 		Vulture	1869	W	S	Gunvessel	664	805	3	1885	504	
 		Wallace	1855	I	P	Vessel	128			1869		
 ShowShip.php?id=2275		Wanderer	1835	W	W	Brig-sloop	428		16	1850		
