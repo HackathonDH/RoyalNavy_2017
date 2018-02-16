@@ -47,7 +47,7 @@ ShowShip.php?id=1036		Albatross	1842	W	W	Brig	484		16	1860
 		Albatross	1873	C	S	Sloop	727	940	4	1889		
 ShowShip.php?id=1038		Albert	1840	I	P	Exploration vessel	457	340	3	1850		1843.07.13 wrecked. Later salved and transferred to Gambia govt.
 		Alberta	1863	W	P	Yacht	370	391		1912		
-ShowShip.php?id=11		Albion	1842	W	W	2nd rate, 2 decker	3111		90	1884		 1861 screw
+ShowShip.php?id=11		Albion	1842	W	W	2nd rate, 2 decker	3111		90	1884		1861 screw
 ShowShip.php?id=1040		Alecto	1839	W	P	Sloop	800	878	4	1865		
 ShowShip.php?id=2379		Alert	1813	W	W	Brig-sloop	388		18	1832		
 ShowShip.php?id=1041		Alert	1835	W	W	Packet brig	358		8	1851		
@@ -56,7 +56,7 @@ ShowShip.php?id=139		Alert	1856	W	S	Sloop	751	1044	17	1896		1878 survey ship. 18
 ShowShip.php?id=1043		Alexandra	1875	I	S	Central battery ironclad		9490	22	1908		Laid down as Superb. 1903 h.s.
 		Alexandre	1806	W	W	2nd rate	2231		80	1822		1806.02.06 captured from France off San Domingo. 1811 h.s.
 ShowShip.php?id=1044	r	Alfred	1819									Asia 1811
-		Alfred	1855	I	S	Storeship, bakery	617			1856		 1855.02 = Abundance
+		Alfred	1855	I	S	Storeship, bakery	617			1856		1855.02 = Abundance
 ShowShip.php?id=2329		Algerine	1829	W	W	Brig-sloop	231	297	10	1844		
 ShowShip.php?id=1046		Algerine	1857	W	S	Gunboat	299		1	1894	13	
 		Algerine	1880	C	S	Gunvessel		835	3	1892		
@@ -564,7 +564,7 @@ ShowShip.php?id=1422		Express	1835	W	W	Packet brig	362			1862
 ShowShip.php?id=1424		Fair Rosamond	1830	W	W	Vessel				1845		
 ShowShip.php?id=2340		Fairy	1826	W	W	Brig-sloop	233		10	1840		1832 survey vessel. 1840.11.13 wrecked on Sussex coast (63 died)
 ShowShip.php?id=1425		Fairy	1845	I	S	Yacht	312			1868	165	
-		Falcon	1820	W	W	Brig-sloop	237		10	1838		 
+		Falcon	1820	W	W	Brig-sloop	237		10	1838		
 ShowShip.php?id=154		Falcon	1854	W	S	Sloop	748	1139	17	1869	166	
 		Falmouth	1807	W	W	Schooner	160			1883		1808 dockyard service. 1824 = mortar vessel. 1846 = lighter YC.1. 1870 = YC.46. 1870.11 = Falmouth
 	r	Falmouth	1870									Falmouth 1807
@@ -1122,7 +1122,7 @@ ShowShip.php?id=1854		Partridge	1856	W	S	Gunboat	232		4	1864
 ShowShip.php?id=2440		Paz	1807	W	W	Schooner			12	1814		1807.02.03 Captured from Spanish at Montevideo
 ShowShip.php?id=1855		Peacock	1856	W	S	Gunboat	232		4	1869	348	
 ShowShip.php?id=1856		Pearl	1828	W	W	Sloop	558		20	1851		
-ShowShip.php?id=122		Pearl	1855	W	S	Corvette	1469	2187	21	1884	349	+//0Awv/9AKA-
+ShowShip.php?id=122		Pearl	1855	W	S	Corvette	1469	2187	21	1884	349	
 ShowShip.php?id=2504		Pearlen	1807	W	W	5th rate	1204		38	1846		1807.09.07 captured from Danes at Copenhagen. 1811 = Perlen. 1813.03 lazaretto. 1836 = Perlin
 		Pegasus	1878	C	S	Sloop		1130	6	1892		
 ShowShip.php?id=1858		Pelican	1812	W	W	Brig-sloop	385		18	1865		1863 = WV.29
@@ -1168,7 +1168,7 @@ ShowShip.php?id=2353		Pickle	1827	W	W	Schooner	118		3	1847
 		Pickle	1872	I	S	Gunboat		254	1	1906	363	
 ShowShip.php?id=1882	r	Pigeon	1829									Variable 1827
 		Pigeon	1860	W	S	Gunboat	268	330	2	1876		
-ShowShip.php?id=1884		Pigmy	1837	W	P	Packet	227			1879	364	 
+ShowShip.php?id=1884		Pigmy	1837	W	P	Packet	227			1879	364	
 ShowShip.php?id=2444		Pike	1813	W	W	Schooner	251		14	1836		Captured American Dart. 1836.02.05 wrecked off Jamaica
 ShowShip.php?id=1885		Pike	1837	W	P	Packet	111			1868		
 		Pike	1872	I	S	Gunboat		254	1	1920		1908 boom defence vessel
