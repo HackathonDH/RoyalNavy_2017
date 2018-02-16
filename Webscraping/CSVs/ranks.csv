@@ -54,1266 +54,1252 @@
 52,p_0_9,16_8_1863,Captain
 53,p_0_10,30_11_1850,Lieutenant
 54,p_0_10,28_5_1858,Commander
-55,p_0_11,24_2_1863,Lieutenant
-56,p_0_11,23_2_1866,Captain (from Lieutenant)
-57,p_0_11,28_12_1878,Rear-Admiral
-58,p_0_11,30_11_1882,Vice-Admiral
-59,p_0_11,18_10_1887,Admiral
-60,p_0_11,3_6_1893,Admiral of the Fleet
-61,p_0_12,4_10_1825,Lieutenant
-62,p_0_12,28_6_1838,Commander
-63,p_0_13,1_8_1822,Entered Navy
-64,p_0_13,24_2_1829,Lieutenant
-65,p_0_13,23_11_1841,Commander
-66,p_0_13,9_11_1846,Captain
-67,p_0_14,2_10_1805,Entered Navy
-68,p_0_14,2_3_1815,Lieutenant
-69,p_0_14,20_6_1838,Commander
-70,p_0_14,31_1_1842,Captain
-71,p_0_14,12_4_1862,Retired Rear-Admiral
-72,p_0_15,22_3_1856,Lieutenant
-73,p_0_16,17_9_1808,Entered Navy
-74,p_0_16,1_3_1823,Lieutenant
-75,p_0_16,25_2_1842,Commander
-76,p_0_16,1_11_1849,Captain
-77,p_0_16,6_4_1866,Retired Rear-Admiral
-78,p_0_16,30_4_1873,Retired Vice-Admiral
-79,p_0_16,21_3_1878,Retired Admiral
-80,p_0_17,8_3_1849,Lieutenant
-81,p_0_17,5_9_1859,Commander
-82,p_0_17,11_4_1866,Captain
-83,p_0_18,1847,Entered Navy
-84,p_0_18,3_11_1855,Lieutenant
-85,p_0_18,17_12_1861,Commander
-86,p_0_18,17_6_1870,Retired Captain
-87,p_0_19,13_1_1854,Lieutenant
-88,p_0_19,16_4_1862,Commander
-89,p_0_20,7_6_1859,Entered Navy
-90,p_0_20,12_9_1865,Lieutenant
-91,p_0_20,22_5_1872,Commander
-92,p_0_21,16_6_1824,Entered Navy
-93,p_0_21,12_3_1833,Lieutenant
-94,p_0_21,30_6_1838,Commander
-95,p_0_21,8_6_1841,Captain
-96,p_0_21,29_7_1861,Retired Rear-Admiral
-97,p_0_21,6_4_1866,Retired Vice-Admiral
-98,p_0_21,20_10_1872,Retired Admiral
-99,p_0_22,11_1805,Entered Navy
-100,p_0_22,16_5_1811,Lieutenant
-101,p_0_22,1_4_1852,Retired Commander
-102,p_0_23,2_4_1845,Lieutenant
-103,p_0_23,12_8_1853,Commander
-104,p_0_23,31_1_1861,Captain
-105,p_0_23,1875,Retired Captain
-106,p_0_23,1_4_1877,Retired Rear-Admiral
-107,p_0_23,6_5_1882,Retired Vice-Admiral
-108,p_0_24,3_10_1825,Lieutenant
-109,p_0_25,27_12_1838,Lieutenant
-110,p_0_25,1_10_1860,Retired Lieutenant
-111,p_0_25,1_7_1864,Retired Commander
-112,p_0_26,3_12_1845,Lieutenant
-113,p_0_26,16_5_1855,Commander
-114,p_0_26,6_8_1860,Captain
-115,p_0_27,1788,Entered Navy
-116,p_0_27,28_2_1800,Lieutenant
-117,p_0_27,1_11_1805,Commander
-118,p_0_27,11_1_1810,Captain
-119,p_0_27,9_11_1846,Rear-Admiral
-120,p_0_27,17_9_1853,Vice-Admiral
-121,p_0_28,7_1845,Entered Navy
-122,p_0_28,8_3_1854,Lieutenant
-123,p_0_28,1_4_1861,Commander
-124,p_0_28,15_4_1867,Captain
-125,p_0_28,30_3_1885,Retired Rear-Admiral
-126,p_0_29,13_12_1797,Lieutenant
-127,p_0_29,10_10_1804,Commander
-128,p_0_29,10_5_1810,Captain
-129,p_0_29,9_11_1846,Rear-Admiral
-130,p_0_30,11_2_1822,Entered Navy
-131,p_0_30,28_4_1830,Lieutenant
-132,p_0_30,23_11_1841,Commander
-133,p_0_30,11_11_1846,Captain
-134,p_0_31,8_4_1813,Entered Navy
-135,p_0_31,9_9_1822,Lieutenant
-136,p_0_31,26_5_1831,Commander
-137,p_0_31,28_6_1838,Captain
-138,p_0_31,28_11_1857,Rear-Admiral
-139,p_0_31,20_10_1864,Vice-Admiral
-140,p_0_32,30_6_1803,Entered Navy
-141,p_0_32,10_2_1815,Lieutenant
-142,p_0_32,6_2_1857,Retired Commander
-143,p_0_33,23_11_1841,Lieutenant
-144,p_0_33,22_11_1856,Commander
-145,p_0_33,1_1_1867,Retired Commander
-146,p_0_34,13_5_1823,Entered Navy
-147,p_0_34,15_2_1832,Lieutenant
-148,p_0_34,28_6_1838,Commander
-149,p_0_34,10_12_1845,Captain
-150,p_0_34,3_12_1863,Retired Rear-Admiral
-151,p_0_34,1_4_1873,Retired Vice-Admiral
-152,p_0_34,22_1_1877,Retired Admiral
-153,p_0_35,1834,Entered Navy
-154,p_0_35,27_8_1844,Lieutenant
-155,p_0_35,3_12_1851,Commander
-156,p_0_36,5_5_1827,Entered Navy
-157,p_0_36,18_10_1837,Lieutenant
-158,p_0_36,21_12_1841,Commander
-159,p_0_36,13_11_1845,Captain
-160,p_0_36,30_11_1863,Rear-Admiral
-161,p_0_36,1_4_1870,Vice-Admiral
-162,p_0_36,29_5_1873,Retired Vice-Admiral
-163,p_0_36,22_1_1877,Retired Admiral
-164,p_0_37,30_1_1812,Entered Navy
-165,p_0_37,20_11_1826,Lieutenant
-166,p_0_38,12_1845,Entered Navy
-167,p_0_38,28_2_1854,Lieutenant
-168,p_0_38,3_7_1857,Commander
-169,p_0_38,16_2_1864,Captain
-170,p_0_38,28_12_1879,Rear-Admiral
-171,p_0_38,18_1_1886,Vice-Admiral
-172,p_0_38,14_2_1892,Admiral
-173,p_0_38,16_9_1897,Retired Admiral
-174,p_0_39,23_8_1808,Entered Navy
-175,p_0_39,7_3_1815,Lieutenant
-176,p_0_39,6_7_1836,Commander
-177,p_0_39,9_11_1846,Captain
-178,p_0_40,7_6_1846,Lieutenant
-179,p_0_40,23_9_1850,Commander
-180,p_0_40,10_12_1866,Retired Captain
-181,p_0_41,2_8_1811,Entered Royal Naval Colle
-182,p_0_41,19_7_1820,Lieutenant
-183,p_0_41,22_2_1838,Commander
-184,p_0_41,10_7_1843,Captain
-185,p_0_41,30_1_1863,Retired Rear-Admiral
-186,p_0_41,26_5_1869,Retired Vice-Admiral
-187,p_0_41,30_7_1875,Retired Admiral
-188,p_0_42,1824,Entered Navy
-189,p_0_42,18_10_1839,Lieutenant
-190,p_0_42,8_5_1849,Commander
-191,p_0_43,25_10_1806,Entered Navy
-192,p_0_43,10_11_1813,Lieutenant
-193,p_0_43,23_11_1841,Commander
-194,p_0_43,9_1_1854,Retired Captain
-195,p_0_44,23_12_1850,Lieutenant
-196,p_0_44,3_11_1859,Commander
-197,p_0_45,3_11_1846,Lieutenant
-198,p_0_45,10_5_1856,Commander
-199,p_0_46,22_12_1826,Entered Navy
-200,p_0_46,28_6_1838,Lieutenant
-201,p_0_46,18_11_1845,Commander
-202,p_0_46,29_9_1850,Captain
-203,p_0_47,14_11_1812,Entered Navy
-204,p_0_47,1_7_1822,Lieutenant
-205,p_0_47,10_1_1837,Commander
-206,p_0_47,8_6_1841,Captain
-207,p_0_48,12_5_1797,Entered Navy
-208,p_0_48,7_1_1806,Lieutenant
-209,p_0_48,10_8_1814,Commander
-210,p_0_48,17_12_1816,Captain
-211,p_0_48,1_10_1846,Retired Captain
-212,p_0_48,8_7_1851,Retired Rear-Admiral
-213,p_0_48,22_8_1857,Retired Vice-Admiral
-214,p_0_49,8_1828,Entered Royal Naval Colle
-215,p_0_49,23_11_1841,Lieutenant
-216,p_0_49,5_1_1852,Commander
-217,p_0_49,2_5_1857,Captain
-218,p_0_49,13_4_1870,Retired Captain
-219,p_0_49,20_4_1875,Retired Rear-Admiral
-220,p_0_49,2_8_1879,Retired Vice-Admiral
-221,p_0_50,3_1_1827,Entered Navy
-222,p_0_50,26_10_1840,Lieutenant
-223,p_0_50,5_2_1851,Commander
-224,p_0_50,10_10_1855,Captain
-225,p_0_50,1_1_1874,Retired Rear-Admiral
-226,p_0_50,30_1_1879,Retired Vice-Admiral
-227,p_0_51,3_2_1855,Lieutenant
-228,p_0_51,24_6_1862,Commander
-229,p_0_51,14_8_1868,Captain
-230,p_0_51,1_1_1886,Rear-Admiral
-231,p_0_51,16_9_1891,Vice-Admiral
-232,p_0_51,28_12_1891,Retired Vice-Admiral
-233,p_0_51,23_8_1897,Retired Admiral
-234,p_0_52,14_2_1811,Entered Navy
-235,p_0_52,1_6_1826,Lieutenant
-236,p_0_52,28_6_1838,Commander
-237,p_0_52,20_6_1846,Captain
-238,p_0_52,9_2_1864,Retired Rear-Admiral
-239,p_0_52,14_7_1871,Retired Vice-Admiral
-240,p_0_52,1_8_1877,Retired Admiral
-241,p_0_53,18_5_1842,Lieutenant
-242,p_0_53,22_11_1856,Commander
-243,p_0_54,12_1865,Entered Navy
-244,p_0_54,8_4_1873,Lieutenant
-245,p_0_54,29_6_1883,Commander
-246,p_0_54,30_12_1889,Captain
-247,p_0_54,6_8_1903,Rear-Admiral
-248,p_0_54,26_5_1905,Retired Rear-Admiral
-249,p_0_54,16_2_1907,Retired Vice-Admiral
-250,p_0_54,12_4_1911,Retired Admiral
-251,p_0_55,2_3_1812,Entered Navy
-252,p_0_55,8_10_1824,Lieutenant
-253,p_0_55,28_6_1838,Commander
-254,p_0_55,9_11_1846,Captain
-255,p_0_55,5_9_1857,Retired Captain
-256,p_0_55,16_9_1864,Retired Rear-Admiral
-257,p_0_55,14_6_1871,Retired Vice-Admiral
-258,p_0_55,1_8_1877,Retired Admiral
-259,p_0_56,2_9_1831,Entered Navy
-260,p_0_56,8_10_1841,Lieutenant
-261,p_0_56,15_2_1848,Commander
-262,p_0_57,1844,Entered Navy
-263,p_0_57,28_2_1854,Lieutenant
-264,p_0_57,11_9_1865,Commander
-265,p_0_57,1_10_1873,Retired Captain
-266,p_0_58,22_6_1832,Entered Navy
-267,p_0_58,20_12_1838,Lieutenant
-268,p_0_58,3_5_1853,Commander
-269,p_0_59,9_11_1854,Lieutenant
-270,p_0_60,2_3_1858,Lieutenant
-271,p_0_60,14_9_1867,Commander
-272,p_0_60,2_8_1875,Captain
-273,p_0_61,19_4_1810,Entered Navy
-274,p_0_61,8_4_1818,Lieutenant
-275,p_0_61,8_7_1827,Commander
-276,p_0_61,8_7_1828,Captain
-277,p_0_61,7_2_1855,Rear-Admiral
-278,p_0_61,5_8_1861,Vice-Admiral
-279,p_0_61,5_5_1865,Admiral
-280,p_0_62,3_11_1801,Entered Navy
-281,p_0_62,2_1_1810,Lieutenant
-282,p_0_62,23_11_1841,Commander
-283,p_0_63,4_1845,Entered Navy
-284,p_0_63,25_10_1853,Lieutenant
-285,p_0_63,26_2_1858,Commander
-286,p_0_63,16_2_1864,Captain
-287,p_0_63,9_1_1880,Retired Rear-Admiral
-288,p_0_64,8_11_1829,Entered Navy
-289,p_0_64,27_6_1841,Lieutenant
-290,p_0_64,11_11_1846,Commander
-291,p_0_65,17_5_1830,Entered Navy
-292,p_0_65,8_10_1841,Lieutenant
-293,p_0_65,9_11_1846,Commander
-294,p_0_66,4_7_1810,Entered Navy
-295,p_0_66,22_12_1821,Lieutenant
-296,p_0_66,1851,Retired Lieutenant
-297,p_0_67,16_10_1783,Lieutenant
-298,p_0_67,28_6_1800,Commander
-299,p_0_67,10_2_1801,Captain
-300,p_0_68,28_4_1821,Entered Navy
-301,p_0_68,13_3_1832,Lieutenant
-302,p_0_68,15_11_1845,Commander
-303,p_0_69,23_11_1841,Lieutenant
-304,p_0_69,16_10_1848,Commander
-305,p_0_69,5_2_1858,Captain
-306,p_0_70,18_11_1846,Lieutenant
-307,p_0_70,30_8_1856,Commander
-308,p_0_70,15_4_1862,Captain
-309,p_0_70,31_3_1877,Retired Captain
-310,p_0_71,7_7_1806,Entered Navy
-311,p_0_71,10_3_1815,Lieutenant
-312,p_0_71,25_1_1822,Commander
-313,p_0_71,8_5_1827,Captain
-314,p_0_71,11_9_1854,Rear-Admiral
-315,p_0_72,21_7_1818,Lieutenant
-316,p_0_72,16_3_1829,Commander
-317,p_0_72,6_5_1841,Captain
-318,p_0_72,11_2_1861,Rear-Admiral
-319,p_0_72,2_4_1866,Vice-Admiral
-320,p_0_72,1866,Retired Vice-Admiral
-321,p_0_72,20_10_1872,Retired Admiral
-322,p_0_73,19_3_1830,Entered Navy
-323,p_0_73,1_11_1843,Lieutenant
-324,p_0_73,15_2_1848,Commander
-325,p_0_74,2_5_1812,Entered Navy
-326,p_0_74,9_11_1821,Lieutenant
-327,p_0_74,23_7_1830,Commander
-328,p_0_75,9_11_1854,Lieutenant
-329,p_0_76,3_1797,Entered Navy
-330,p_0_76,9_12_1803,Lieutenant
-331,p_0_76,15_6_1814,Commander
-332,p_0_76,16_9_1828,Captain
-333,p_0_76,2_5_1855,Rear-Admiral
-334,p_0_76,15_1_1862,Vice-Admiral
-335,p_0_76,2_11_1863,Retired Vice-Admiral
-336,p_0_76,12_9_1865,Retired Admiral
-337,p_0_77,6_6_1842,Lieutenant
-338,p_0_77,10_5_1856,Commander
-339,p_0_77,1_4_1870,Retired Commander
-340,p_0_78,23_5_1854,Lieutenant
-341,p_0_78,16_12_1865,Commander
-342,p_0_79,12_7_1849,Lieutenant
-343,p_0_80,6_1802,Entered Navy
-344,p_0_80,9_7_1808,Lieutenant
-345,p_0_80,19_12_1810,Commander
-346,p_0_80,7_6_1814,Captain
-347,p_0_80,30_10_1849,Rear-Admiral
-348,p_0_80,21_10_1856,Vice-Admiral
-349,p_0_80,15_1_1862,Admiral
-350,p_0_81,7_10_1820,Entered Navy
-351,p_0_81,28_8_1841,Lieutenant
-352,p_0_82,2_11_1853,Lieutenant
-353,p_0_82,30_1_1861,Commander
-354,p_0_83,5_11_1797,Entered Navy
-355,p_0_83,24_9_1806,Lieutenant
-356,p_0_83,3_8_1829,Commander
-357,p_0_83,4_2_1858,Retired Captain
-358,p_0_84,19_2_1842,Entered Navy
-359,p_0_84,13_12_1848,Lieutenant
-360,p_0_84,6_8_1860,Commander
-361,p_0_84,3_4_1868,Captain
-362,p_0_84,16_9_1876,Retired Captain
-363,p_0_85,1828,Entered Navy
-364,p_0_85,23_11_1841,Lieutenant
-365,p_0_85,6_9_1852,Commander
-366,p_0_85,21_7_1860,Captain
-367,p_0_85,1_4_1870,Retired Captain
-368,p_0_85,31_12_1876,Retired Rear-Admiral
-369,p_0_86,30_12_1813,Entered Navy
-370,p_0_86,3_1_1826,Lieutenant
-371,p_0_86,4_11_1840,Commander
-372,p_0_86,1_4_1856,Retired Captain
-373,p_0_87,23_10_1851,Lieutenant
-374,p_0_88,23_9_1820,Entered Navy
-375,p_0_88,28_7_1832,Lieutenant
-376,p_0_88,6_7_1841,Commander
-377,p_0_89,2_12_1830,Entered Navy
-378,p_0_89,16_7_1840,Lieutenant
-379,p_0_89,30_12_1842,Commander
-380,p_0_89,13_11_1850,Captain
-381,p_0_89,20_3_1867,Retired Rear-Admiral
-382,p_0_90,2_3_1825,Mate
-383,p_0_90,17_8_1831,Lieutenant
-384,p_0_90,3_7_1840,Commander
-385,p_0_90,1_4_1856,Retired Captain
-386,p_0_91,9_9_1812,Entered Navy
-387,p_0_91,7_11_1827,Lieutenant
-388,p_0_91,16_8_1841,Commander
-389,p_0_91,4_10_1843,Captain
-390,p_0_91,6_2_1863,Retired Rear-Admiral
-391,p_0_91,2_7_1869,Retired Vice-Admiral
-392,p_0_91,11_12_1875,Retired Admiral
-393,p_0_92,27_3_1826,Lieutenant
-394,p_0_93,25_5_1857,Lieutenant
-395,p_0_93,25_10_1867,Commander
-396,p_0_93,25_8_1877,Captain
-397,p_0_93,2_1890,Retired Captain
-398,p_0_94,6_12_1821,Entered Navy
-399,p_0_94,8_8_1828,Lieutenant
-400,p_0_94,22_11_1830,Commander
-401,p_0_94,28_6_1838,Captain
-402,p_0_95,22_7_1814,Entered Navy
-403,p_0_95,30_11_1821,Lieutenant
-404,p_0_95,1_12_1823,Commander
-405,p_0_95,28_4_1827,Captain
-406,p_0_96,4_1813,Entered Navy
-407,p_0_96,19_7_1823,Lieutenant
-408,p_0_96,15_1_1830,Commander
-409,p_0_96,6_5_1841,Captain
-410,p_0_96,4_6_1861,Retired Rear-Admiral
-411,p_0_96,2_4_1866,Retired Vice-Admiral
-412,p_0_96,20_10_1872,Retired Admiral
-413,p_0_97,1846,Entered Navy
-414,p_0_97,2_9_1854,Lieutenant
-415,p_0_97,26_6_1860,Commander
-416,p_0_97,14_9_1867,Captain
-417,p_0_98,8_2_1848,Entered Navy
-418,p_0_98,5_1_1856,Lieutenant
-419,p_0_98,26_6_1866,Commander
-420,p_0_98,26_6_1881,Retired Captain
-421,p_0_99,6_4_1827,Entered Royal Naval Colle
-422,p_0_99,28_6_1838,Lieutenant
-423,p_0_99,27_11_1846,Commander
-424,p_0_99,7_7_1868,Retired Captain
-425,p_0_100,25_6_1847,Lieutenant
-426,p_0_100,26_1_1855,Commander
-427,p_0_100,28_8_1861,Captain
-428,p_0_100,1_4_1870,Retired Captain
-429,p_0_101,31_5_1824,Lieutenant
-430,p_0_101,23_11_1841,Commander
-431,p_0_102,22_9_1855,Lieutenant
-432,p_0_102,1_3_1865,Commander
-433,p_0_102,2_9_1872,Captain
-434,p_0_102,21_4_1882,Retired Captain
-435,p_0_102,1_1_1889,Retired Rear-Admiral
-436,p_0_103,7_5_1827,Lieutenant
-437,p_0_104,21_6_1832,Entered Navy
-438,p_0_104,2_6_1843,Lieutenant
-439,p_0_104,16_4_1852,Commander
-440,p_0_104,25_3_1863,Captain
-441,p_0_104,5_11_1868,Retired Captain
-442,p_0_104,31_12_1878,Retired Rear-Admiral
-443,p_0_104,30_10_1884,Retired Vice-Admiral
-444,p_0_105,12_4_1836,Lieutenant
-445,p_0_105,15_5_1848,Commander
-446,p_0_105,22_11_1856,Captain
-447,p_0_105,22_8_1867,Retired Captain
-448,p_0_105,1_1_1875,Retired Rear-Admiral
-449,p_0_105,15_6_1879,Retired Vice-Admiral
-450,p_0_105,30_3_1885,Retired Admiral
-451,p_0_106,25_8_1805,Entered Navy
-452,p_0_106,30_12_1813,Lieutenant
-453,p_0_106,8_12_1829,Commander
-454,p_0_106,9_11_1846,Captain
-455,p_0_107,7_11_1826,Entered Navy
-456,p_0_107,11_6_1841,Lieutenant
-457,p_0_107,13_6_1849,Commander
-458,p_0_107,7_4_1855,Captain
-459,p_0_107,6_4_1873,Retired Rear-Admiral
-460,p_0_107,21_3_1878,Retired Vice-Admiral
-461,p_0_108,5_5_1821,Entered Navy
-462,p_0_108,15_8_1831,Lieutenant
-463,p_0_108,10_5_1839,Commander
-464,p_0_108,9_11_1846,Captain
-465,p_0_108,28_10_1864,Retired Rear-Admiral
-466,p_0_108,14_7_1871,Retired Vice-Admiral
-467,p_0_109,28_11_1863,Lieutenant
-468,p_0_109,1_9_1874,Commander
-469,p_0_109,30_6_1882,Captain
-470,p_0_109,10_5_1897,Rear-Admiral
-471,p_0_110,8_7_1848,Entered Navy
-472,p_0_110,22_9_1855,Lieutenant
-473,p_0_110,9_11_1863,Commander
-474,p_0_110,4_4_1870,Captain
-475,p_0_110,1_1_1887,Rear-Admiral
-476,p_0_110,25_7_1892,Vice-Admiral
-477,p_0_110,10_3_1894,Retired Vice-Admiral
-478,p_0_110,19_3_1898,Retired Admiral
-479,p_0_111,9_11_1846,Lieutenant
-480,p_0_111,21_11_1859,Commander
-481,p_0_111,11_4_1866,Captain
-482,p_0_111,9_1_1873,Retired Captain
-483,p_0_111,8_1_1883,Retired Rear-Admiral
-484,p_0_111,15_12_1888,Retired Vice-Admiral
-485,p_0_112,13_12_1821,Lieutenant
-486,p_0_112,11_2_1829,Commander
-487,p_0_112,23_11_1841,Captain
-488,p_0_112,12_4_1862,Retired Rear-Admiral
-489,p_0_112,24_5_1867,Retired Vice-Admiral
-490,p_0_112,30_7_1875,Retired Admiral
-491,p_0_113,4_6_1846,Entered Navy
-492,p_0_113,13_11_1854,Lieutenant
-493,p_0_113,11_4_1866,Commander
-494,p_0_113,11_4_1881,Retired Captain
-495,p_0_114,7_1800,Entered Navy
-496,p_0_114,26_8_1808,Lieutenant
-497,p_0_114,9_9_1822,Commander
-498,p_0_114,12_9_1827,Captain
-499,p_0_115,12_10_1831,Entered Navy
-500,p_0_115,10_5_1839,Lieutenant
-501,p_0_115,7_3_1842,Commander
-502,p_0_115,1_1_1863,Captain
-503,p_0_115,31_12_1878,Retired Rear-Admiral
-504,p_0_115,30_10_1884,Retired Vice-Admiral
-505,p_0_116,27_10_1847,Lieutenant
-506,p_0_116,13_11_1854,Commander
-507,p_0_116,31_1_1861,Captain
-508,p_0_117,1852,Entered Navy
-509,p_0_117,19_5_1859,Lieutenant
-510,p_0_117,26_6_1866,Commander
-511,p_0_117,29_5_1872,Captain
-512,p_0_117,19_6_1888,Rear-Admiral
-513,p_0_117,5_11_1894,Vice-Admiral
-514,p_0_117,26_10_1899,Admiral
-515,p_0_117,21_1_1903,Retired Admiral
-516,p_0_118,5_1803,Entered Navy
-517,p_0_118,7_2_1815,Lieutenant
-518,p_0_118,17_1_1845,Commander
-519,p_0_119,9_9_1796,Entered Navy
-520,p_0_119,30_8_1803,Lieutenant
-521,p_0_119,22_1_1806,Commander
-522,p_0_119,13_10_1807,Captain
-523,p_0_119,23_11_1841,Rear-Admiral
-524,p_0_119,8_3_1852,Vice-Admiral
-525,p_0_119,28_11_1857,Admiral
-526,p_0_119,15_1_1869,Admiral of the Fleet
-527,p_0_120,2_12_1830,Entered Navy
-528,p_0_120,19_4_1840,Lieutenant
-529,p_0_120,27_9_1851,Commander
-530,p_0_120,10_5_1856,Captain
-531,p_0_121,14_4_1855,Lieutenant
-532,p_0_121,6_8_1860,Commander
-533,p_0_121,11_4_1866,Captain
-534,p_0_121,17_2_1884,Retired Rear-Admiral
-535,p_0_122,1_7_1798,Entered Navy
-536,p_0_122,8_1_1807,Lieutenant
-537,p_0_122,1_3_1815,Commander
-538,p_0_122,23_6_1823,Captain
-539,p_0_122,5_3_1853,Rear-Admiral
-540,p_0_123,29_12_1827,Entered Navy
-541,p_0_123,4_11_1840,Lieutenant
-542,p_0_124,28_9_1825,Entered Navy
-543,p_0_124,23_11_1841,Lieutenant
-544,p_0_124,12_7_1850,Commander
-545,p_0_124,10_5_1856,Captain
-546,p_0_125,1_5_1796,Entered Navy
-547,p_0_125,14_1_1803,Lieutenant
-548,p_0_125,11_5_1815,Commander
-549,p_0_125,23_12_1842,Captain
-550,p_0_126,4_9_1823,Entered Navy
-551,p_0_126,5_10_1830,Lieutenant
-552,p_0_126,7_2_1842,Commander
-553,p_0_126,8_8_1857,Captain
-554,p_0_126,20_4_1875,Retired Rear-Admiral
-555,p_0_126,2_8_1879,Retired Vice-Admiral
-556,p_0_127,20_4_1855,Lieutenant
-557,p_0_127,16_12_1865,Commander
-558,p_0_127,6_9_1878,Retired Captain
-559,p_0_128,20_9_1843,Lieutenant
-560,p_0_128,1_4_1870,Retired Commander
-561,p_0_129,13_8_1845,Lieutenant
-562,p_0_130,9_2_1846,Lieutenant
-563,p_0_130,14_5_1853,Commander
-564,p_0_130,17_10_1857,Captain
-565,p_0_130,30_7_1875,Rear-Admiral
-566,p_0_130,9_1_1880,Vice-Admiral
-567,p_0_130,1_6_1885,Admiral
-568,p_0_130,1_7_1885,Retired Admiral
-569,p_0_131,10_3_1806,Entered Navy
-570,p_0_131,18_2_1815,Lieutenant
-571,p_0_132,5_3_1805,Entered Navy
-572,p_0_132,5_2_1813,Lieutenant
-573,p_0_132,28_9_1824,Commander
-574,p_0_132,14_8_1827,Captain
-575,p_0_133,15_3_1865,Lieutenant
-576,p_0_133,18_3_1876,Commander
-577,p_0_133,8_4_1881,Captain
-578,p_0_133,10_10_1896,Rear-Admiral
-579,p_0_133,7_12_1901,Vice-Admiral
-580,p_0_134,25_2_1852,Lieutenant
-581,p_0_134,16_4_1862,Commander
-582,p_0_134,3_4_1868,Captain
-583,p_0_135,7_2_1826,Entered Navy
-584,p_0_135,8_11_1841,Lieutenant
-585,p_0_136,23_12_1845,Lieutenant
-586,p_0_136,5_2_1858,Commander
-587,p_0_136,9_5_1863,Captain
-588,p_0_136,31_12_1878,Rear-Admiral
-589,p_0_136,30_10_1884,Vice-Admiral
-590,p_0_136,14_7_1889,Admiral
-591,p_0_136,1890,Retired Admiral
-592,p_0_137,1794,Entered Navy
-593,p_0_137,3_8_1805,Lieutenant
-594,p_0_137,13_10_1807,Commander
-595,p_0_137,7_6_1814,Captain
-596,p_0_137,15_9_1849,Rear-Admiral
-597,p_0_138,1848,Entered Navy
-598,p_0_138,5_1_1856,Lieutenant
-599,p_0_138,3_6_1866,Commander
-600,p_0_138,27_4_1875,Captain
-601,p_0_138,21_8_1889,Retired Captain
-602,p_0_138,1896,Retired Rear-Admiral
-603,p_0_139,19_4_1854,Lieutenant
-604,p_0_139,16_4_1862,Commander
-605,p_0_140,23_11_1841,Lieutenant
-606,p_0_141,3_12_1852,Lieutenant
-607,p_0_141,25_3_1863,Commander
-608,p_0_142,9_12_1845,Lieutenant
-609,p_0_142,9_7_1861,Commander
-610,p_0_142,1_4_1870,Retired Commander
-611,p_0_142,9_7_1876,Retired Captain
-612,p_0_143,27_11_1854,Lieutenant
-613,p_0_143,24_6_1862,Commander
-614,p_0_143,16_10_1868,Captain
-615,p_0_143,1_1_1886,Rear-Admiral
-616,p_0_143,28_12_1891,Vice-Admiral
-617,p_0_143,5_11_1894,Retired Vice-Admiral
-618,p_0_143,23_8_1897,Retired Admiral
-619,p_0_144,11_1819,Entered Navy
-620,p_0_144,11_8_1827,Lieutenant
-621,p_0_144,11_1_1837,Commander
-622,p_0_144,9_11_1846,Captain
-623,p_0_145,31_3_1845,Entered Navy
-624,p_0_145,30_1_1861,Commander
-625,p_0_145,4_4_1870,Captain
-626,p_0_145,26_9_1876,Retired Captain
-627,p_0_145,1_1_1887,Retired Rear-Admiral
-628,p_0_146,6_4_1820,Entered Navy
-629,p_0_146,30_4_1827,Lieutenant
-630,p_0_146,22_2_1841,Commander
-631,p_0_146,27_6_1846,Captain
-632,p_0_146,9_2_1864,Retired Rear-Admiral
-633,p_0_146,14_7_1871,Retired Vice-Admiral
-634,p_0_146,1_8_1877,Retired Admiral
-635,p_0_147,25_11_1854,Lieutenant
-636,p_0_147,13_12_1859,Commander
-637,p_0_148,9_2_1815,Entered Navy
-638,p_0_148,12_5_1827,Lieutenant
-639,p_0_148,7_3_1842,Commander
-640,p_0_148,30_11_1850,Captain
-641,p_0_148,20_3_1867,Retired Rear-Admiral
-642,p_0_149,16_8_1825,Entered Navy
-643,p_0_149,29_6_1833,Lieutenant
-644,p_0_149,4_11_1840,Commander
-645,p_0_149,18_12_1845,Captain
-646,p_0_149,3_12_1863,Retired Rear-Admiral
-647,p_0_149,1_4_1870,Retired Vice-Admiral
-648,p_0_149,22_1_1877,Retired Admiral
-649,p_0_150,1835,Entered Navy
-650,p_0_150,1_9_1845,Lieutenant
-651,p_0_150,10_5_1856,Commander
-652,p_0_150,10_5_1871,Retired Captain
-653,p_0_151,26_11_1859,Lieutenant
-654,p_0_151,16_8_1869,Commander
-655,p_0_151,14_8_1878,Captain
-656,p_0_152,5_11_1855,Lieutenant
-657,p_0_152,12_12_1863,Commander
-658,p_0_153,11_6_1852,Lieutenant
-659,p_0_153,9_1_1856,Commander
-660,p_0_153,15_4_1862,Captain
-661,p_0_154,11_1817,Entered Navy
-662,p_0_154,8_4_1825,Lieutenant
-663,p_0_154,20_2_1830,Commander
-664,p_0_154,22_11_1832,Captain
-665,p_0_155,1_11_1815,Lieutenant
-666,p_0_155,23_3_1835,Commander
-667,p_0_156,3_6_1819,Entered Navy
-668,p_0_156,17_4_1827,Lieutenant
-669,p_0_156,11_8_1841,Commander
-670,p_0_157,3_10_1820,Entered Royal Naval Colle
-671,p_0_157,20_10_1829,Lieutenant
-672,p_0_157,4_11_1840,Commander
-673,p_0_158,1849,Entered Navy
-674,p_0_158,27_5_1857,Lieutenant
-675,p_0_158,16_9_1862,Commander
-676,p_0_158,4_12_1868,Captain
-677,p_0_158,1_10_1873,Retired Captain
-678,p_0_158,9_3_1886,Retired Rear-Admiral
-679,p_0_159,1_3_1820,Entered Navy
-680,p_0_159,15_3_1828,Lieutenant
-681,p_0_159,23_11_1841,Commander
-682,p_0_160,28_2_1854,Lieutenant
-683,p_0_160,11_9_1860,Commander
-684,p_0_160,11_4_1866,Captain
-685,p_0_161,9_11_1855,Mate
-686,p_0_161,17_12_1857,Lieutenant
-687,p_0_161,9_4_1866,Commander
-688,p_0_161,18_9_1873,Captain
-689,p_0_162,1803,Entered Navy
-690,p_0_162,5_1_1810,Lieutenant
-691,p_0_162,27_5_1814,Commander
-692,p_0_162,16_11_1821,Captain
-693,p_0_162,30_7_1852,Rear-Admiral
-694,p_0_162,2_10_1857,Vice-Admiral
-695,p_0_162,27_4_1863,Admiral
-696,p_0_163,9_1859,Entered Navy
-697,p_0_163,13_2_1866,Lieutenant
-698,p_0_163,1_10_1874,Commander
-699,p_0_163,29_6_1883,Captain
-700,p_0_163,7_6_1894,Rear Admiral
-701,p_0_164,5_3_1852,Lieutenant
-702,p_0_164,3_4_1855,Commander
-703,p_0_164,15_4_1862,Captain
-704,p_0_164,1_10_1873,Retired Captain
-705,p_0_164,31_12_1877,Retired Rear-Admiral
-706,p_0_165,10_8_1859,Lieutenant
-707,p_0_165,26_5_1871,Commander
-708,p_0_166,12_4_1860,Mate
-709,p_0_166,22_5_1861,Lieutenant
-710,p_0_166,30_1_1873,Retired Commander
-711,p_0_167,6_12_1847,Lieutenant
-712,p_0_167,6_8_1860,Commander
-713,p_0_167,11_4_1866,Captain
-714,p_0_168,12_8_1852,Entered Navy
-715,p_0_168,28_6_1859,Lieutenant
-716,p_0_168,18_6_1866,Commander
-717,p_0_168,22_1_1877,Captain
-718,p_0_168,1_1_1892,Rear-Admiral
-719,p_0_169,8_1817,Entered Royal Naval College
-720,p_0_169,17_4_1827,Lieutenant
-721,p_0_169,4_5_1836,Commander
-722,p_0_169,6_11_1845,Captain
-723,p_0_169,14_11_1863,Rear-Admiral
-724,p_0_169,1_4_1870,Retired Vice-Admiral
-725,p_0_169,22_1_1877,Retired Admiral
-726,p_0_170,1845,Entered Navy
-727,p_0_170,11_1_1854,Lieutenant
-728,p_0_170,27_2_1856,Commander
-729,p_0_170,15_4_1862,Captain
-730,p_0_171,10_4_1855,Lieutenant
-731,p_0_171,10_6_1863,Commander
-732,p_0_171,10_12_1869,Captain
-733,p_0_171,1_1_1887,Rear-Admiral
-734,p_0_171,26_3_1892,Vice-Admiral
-735,p_0_171,11_12_1897,Admiral
-736,p_0_171,30_6_1899,Retired Admiral
-737,p_0_172,6_9_1852,Lieutenant
-738,p_0_173,1_1_1855,Lieutenant
-739,p_0_173,1_1_1863,Commander
-740,p_0_174,22_1_1812,Lieutenant
-741,p_0_174,26_8_1829,Commander
-742,p_0_174,28_6_1838,Captain
-743,p_0_174,2_10_1857,Rear-Admiral
-744,p_0_174,28_3_1864,Vice-Admiral
-745,p_0_174,11_11_1864,Retired Vice-Admiral
-746,p_0_174,10_9_1869,Retired Admiral
-747,p_0_175,13_11_1854,Lieutenant
-748,p_0_175,16_4_1862,Commander
-749,p_0_176,8_9_1828,Lieutenant
-750,p_0_176,22_11_1844,Commander
-751,p_0_177,28_6_1838,Lieutenant
-752,p_0_177,22_11_1848,Commander
-753,p_0_178,17_5_1849,Lieutenant
-754,p_0_178,9_8_1854,Commander
-755,p_0_179,11_11_1848,Lieutenant
-756,p_0_179,25_3_1863,Commander
-757,p_0_179,1_10_1873,Retired Captain
-758,p_0_180,9_1790,Entered Royal Naval Acade
-759,p_0_180,7_3_1797,Lieutenant
-760,p_0_180,22_10_1810,Commander
-761,p_0_180,20_9_1815,Captain
-762,p_0_180,1_10_1846,Retired Captain
-763,p_0_181,1847,Entered Navy
-764,p_0_181,11_1_1854,Lieutenant
-765,p_0_181,10_5_1856,Commander
-766,p_0_181,15_5_1861,Captain
-767,p_0_182,8_1856,Entered Navy
-768,p_0_182,9_11_1864,Lieutenant
-769,p_0_182,9_8_1877,Commander
-770,p_0_182,31_12_1883,Captain
-771,p_0_183,28_6_1838,Lieutenant
-772,p_0_183,9_11_1846,Commander
-773,p_0_183,13_11_1854,Captain
-774,p_0_184,6_1_1807,Entered Navy
-775,p_0_184,4_7_1814,Lieutenant
-776,p_0_184,24_12_1829,Commander
-777,p_0_184,10_12_1835,Captain
-778,p_0_185,2_9_1808,Entered Navy
-779,p_0_185,10_11_1824,Lieutenant
-780,p_0_185,28_6_1838,Commander
-781,p_0_185,9_11_1846,Captain
-782,p_0_185,16_9_1864,Retired Rear-Admiral
-783,p_0_186,15_12_1823,Entered Navy
-784,p_0_186,15_1_1838,Lieutenant
-785,p_0_186,23_8_1865,Retired Commander
-786,p_0_187,10_2_1792,Entered Navy
-787,p_0_187,20_2_1805,Lieutenant
-788,p_0_187,5_10_1814,Commander
-789,p_0_187,9_11_1846,Captain
-790,p_0_187,15_6_1864,Retired Rear-Admiral
-791,p_0_188,19_10_1849,Lieutenant
-792,p_0_188,31_1_1861,Commander
-793,p_0_189,13_11_1850,Lieutenant
-794,p_0_189,1_4_1861,Commander
-795,p_0_189,18_5_1870,Retired Captain
-796,p_0_190,14_7_1804,Entered Navy
-797,p_0_190,16_8_1811,Lieutenant
-798,p_0_190,26_12_1822,Commander
-799,p_0_190,3_7_1840,Captain
-800,p_0_191,27_3_1846,Lieutenant
-801,p_0_191,9_7_1854,Commander
-802,p_0_191,1_1_1869,Captain
-803,p_0_191,15_6_1870,Retired Captain
-804,p_0_192,20_6_1807,Entered Navy
-805,p_0_192,29_1_1822,Lieutenant
-806,p_0_192,1_10_1860,Retired Commander
-807,p_0_193,26_1_1855,Lieutenant
-808,p_0_194,28_3_1821,Entered Navy
-809,p_0_194,5_1_1830,Lieutenant
-810,p_0_194,7_3_1832,Commander
-811,p_0_194,23_11_1841,Captain
-812,p_0_195,5_2_1804,Entered Navy
-813,p_0_195,10_12_1808,Lieutenant
-814,p_0_195,9_11_1846,Commander
-815,p_0_196,6_1_1829,Lieutenant
-816,p_0_196,10_1_1837,Commander
-817,p_0_197,18_5_1827,Entered Navy
-818,p_0_197,17_11_1834,Lieutenant
-819,p_0_197,9_11_1846,Commander
-820,p_0_197,1_7_1864,Retired Captain
-821,p_0_198,3_1798,Entered Navy
-822,p_0_198,5_5_1804,Lieutenant
-823,p_0_198,12_12_1809,Commander
-824,p_0_198,9_3_1814,Captain
-825,p_0_198,1_10_1846,Retired Captain
-826,p_0_198,3_3_1849,Retired Rear-Admiral
-827,p_0_198,31_1_1856,Retired Vice-Admiral
-828,p_0_199,10_9_1846,Lieutenant
-829,p_0_199,10_5_1856,Commander
-830,p_0_199,15_5_1861,Captain
-831,p_0_200,11_1817,Entered Navy
-832,p_0_200,6_4_1825,Lieutenant
-833,p_0_200,20_9_1836,Commander
-834,p_0_201,1841,Entered Navy
-835,p_0_201,12_6_1849,Lieutenant
-836,p_0_201,10_5_1856,Commander
-837,p_0_201,15_5_1861,Captain
-838,p_0_201,5_8_1877,Retired Rear-Admiral
-839,p_1_0,12_8_1824,Entered Navy
-840,p_1_0,28_6_1838,Lieutenant
-841,p_1_0,7_3_1842,Commander
-842,p_1_0,11_10_1847,Captain
-843,p_1_0,2_12_1865,Retired Rear-Admiral
-844,p_1_0,2_11_1871,Retired Vice-Admiral
-845,p_1_0,1_8_1877,Retired Admiral
-846,p_1_1,22_4_1828,Entered Navy
-847,p_1_1,26_11_1841,Lieutenant
-848,p_1_1,23_12_1847,Commander
-849,p_1_1,12_8_1853,Captain
-850,p_1_2,13_2_1853,Mate
-851,p_1_2,13_11_1854,Lieutenant
-852,p_1_2,11_9_1865,Commander
-853,p_1_3,13_11_1806,Entered Navy
-854,p_1_3,25_2_1815,Lieutenant
-855,p_1_3,1_1_1829,Commander
-856,p_1_3,1851,Retired Captain
-857,p_1_4,1844,Entered Navy
-858,p_1_4,25_5_1852,Lieutenant
-859,p_1_4,26_2_1858,Commander
-860,p_1_4,25_3_1863,Captain
-861,p_1_5,24_1_1838,Lieutenant
-862,p_1_5,9_11_1846,Commander
-863,p_1_5,10_6_1853,Captain
-864,p_1_6,1829,Entered Navy
-865,p_1_6,11_5_1837,Lieutenant
-866,p_1_6,27_4_1846,Commander
-867,p_1_6,13_9_1854,Captain
-868,p_1_6,1_4_1870,Rear-Admiral
-869,p_1_7,4_3_1858,Lieutenant
-870,p_1_7,19_7_1866,Commander
-871,p_1_7,18??,Captain
-872,p_1_8,25_5_1852,Lieutenant
-873,p_1_8,1_4_1858,Commander
-874,p_1_9,1_6_1799,Entered Navy
-875,p_1_9,17_6_1807,Lieutenant
-876,p_1_9,28_11_1820,Commander
-877,p_1_9,22_10_1827,Captain
-878,p_1_10,1848,Entered Navy
-879,p_1_10,23_10_1849,Lieutenant
-880,p_1_10,7_12_1855,Commander
-881,p_1_10,19_9_1865,Captain
-882,p_1_10,1_4_1870,Retired Captain
-883,p_1_10,30_12_1878,Retired Rear-Admiral
-884,p_1_11,10_11_1816,Entered Navy
-885,p_1_11,1_7_1823,Lieutenant
-886,p_1_11,28_6_1838,Commander
-887,p_1_11,9_11_1846,Captain
-888,p_1_11,16_9_1864,Retired Rear-Admiral
-889,p_1_11,14_7_1871,Retired Vice-Admiral
-890,p_1_11,1_8_1877,Retired Admiral
-891,p_1_12,6_12_1822,Entered Navy
-892,p_1_12,14_10_1832,Lieutenant
-893,p_1_12,3_11_1842,Commander
-894,p_1_13,22_6_1832,Entered Navy
-895,p_1_13,8_6_1841,Lieutenant
-896,p_1_13,9_11_1846,Commander
-897,p_1_14,1842,Entered Navy
-898,p_1_14,2_6_1851,Lieutenant
-899,p_1_14,9_7_1861,Commander
-900,p_1_14,16_12_1870,Captain
-901,p_1_14,1_8_1873,Retired Captain
-902,p_1_15,21_4_1832,Lieutenant
-903,p_1_15,28_6_1838,Commander
-904,p_1_15,10_6_1845,Captain
-905,p_1_15,27_4_1863,Rear-Admiral
-906,p_1_15,21_1_1870,Vice-Admiral
-907,p_1_15,1873,Retired Vice-Admiral
-908,p_1_15,18_6_1876,Retired Admiral
-909,p_1_16,15_10_1813,Entered Navy
-910,p_1_16,10_8_1824,Lieutenant
-911,p_1_16,30_4_1827,Commander
-912,p_1_16,2_7_1846,Captain
-913,p_1_17,1847,Entered Navy
-914,p_1_17,22_9_1854,Lieutenant
-915,p_1_17,16_6_1859,Commander
-916,p_1_17,11_4_1866,Captain
-917,p_1_17,29_12_1882,Rear-Admiral
-918,p_1_17,8_11_1888,Vice-Admiral
-919,p_1_17,28_5_1894,Admiral
-920,p_1_17,11_3_1896,Retired Admiral
-921,p_1_18,10_1852,Entered Navy
-922,p_1_18,11_2_1860,Lieutenant
-923,p_1_18,29_12_1871,Commander
-924,p_1_18,31_10_1879,Captain
-925,p_1_18,6_7_1889,Retired Rear Admiral
-926,p_1_18,1_1_1901,Retired Vice Admiral
-927,p_1_18,16_6_1904,Retired Admiral
-928,p_1_19,26_3_1811,Entered Navy
-929,p_1_19,12_9_1821,Lieutenant
-930,p_1_19,9_11_1846,Commander
-931,p_1_20,20_5_1802,Entered Navy
-932,p_1_20,9_2_1815,Lieutenant
-933,p_1_21,1844,Entered Navy
-934,p_1_21,2_10_1850,Mate
-935,p_1_21,22_10_1853,Lieutenant
-936,p_1_21,24_6_1862,Commander
-937,p_1_21,1_6_1869,Captain
-938,p_1_21,9_3_1886,Retired Rear-Admiral
-939,p_1_22,18_4_1806,Lieutenant
-940,p_1_22,14_7_1815,Commander
-941,p_1_22,25_4_1831,Captain
-942,p_1_22,31_1_1856,Rear-Admiral
-943,p_1_22,6_2_1863,Vice-Admiral
-944,p_1_22,20_11_1866,Retired Admiral
-945,p_1_23,10_8_1820,Entered Navy
-946,p_1_23,13_12_1830,Lieutenant
-947,p_1_23,10_12_1835,Commander
-948,p_1_23,1_4_1856,Retired Captain
-949,p_1_24,1843,Entered Navy
-950,p_1_24,19_8_1850,Lieutenant
-951,p_1_24,17_9_1858,Commander
-952,p_1_24,11_4_1866,Captain
-953,p_1_24,30_12_1882,Rear-Admiral
-954,p_1_24,27_12_1886,Retired Rear-Admiral
-955,p_1_24,18_11_1888,Retired Vice-Admiral
-956,p_1_24,28_5_1894,Retired Admiral
-957,p_1_25,1848,Lieutenant
-958,p_1_25,29_9_1855,Commander
-959,p_1_25,5_3_1863,Captain
-960,p_1_25,30_12_1878,Retired Rear-Admiral
-961,p_1_25,30_10_1884,Retired Vice-Admiral
-962,p_1_26,3_2_1855,Lieutenant
-963,p_1_27,4_5_1846,Lieutenant
-964,p_1_27,15_5_1861,Commander
-965,p_1_28,8_1832,Entered Navy
-966,p_1_28,14_6_1841,Lieutenant
-967,p_1_28,30_1_1845,Commander
-968,p_1_28,5_6_1848,Captain
-969,p_1_28,2_4_1866,Rear-Admiral
-970,p_1_28,20_10_1872,Vice-Admiral
-971,p_1_28,16_9_1877,Admiral
-972,p_1_28,27_10_1884,Retired Admiral
-973,p_1_29,25_10_1800,Entered Royal Naval Colle
-974,p_1_29,5_11_1806,Lieutenant
-975,p_1_29,28_5_1813,Commander
-976,p_1_29,25_7_1825,Captain
-977,p_1_29,12_1_1854,Rear-Admiral
-978,p_1_29,24_11_1858,Vice-Admiral
-979,p_1_29,3_12_1863,Admiral
-980,p_1_30,10_12_1852,Lieutenant
-981,p_1_30,26_1_1855,Commander
-982,p_1_30,23_1_1869,Retired Commander
-983,p_1_30,26_1_1870,Retired Captain
-984,p_1_31,13_11_1854,Lieutenant
-985,p_1_31,11_9_1865,Commander
-986,p_1_31,1_10_1873,Retired Captain
-987,p_1_32,5_8_1827,Entered Navy
-988,p_1_32,15_11_1834,Lieutenant
-989,p_1_32,24_3_1845,Commander
-990,p_1_32,6_4_1853,Captain
-991,p_1_32,17_3_1869,Retired Rear-Admiral
-992,p_1_32,30_7_1875,Retired Vice-Admiral
-993,p_1_32,2_8_1879,Retired Admiral
-994,p_1_33,4_11_1840,Lieutenant
-995,p_1_33,22_10_1844,Commander
-996,p_1_33,21_2_1856,Captain
-997,p_1_33,19_1_1874,Rear-Admiral
-998,p_1_34,15_1_1850,Lieutenant
-999,p_1_34,20_8_1854,Commander
-1000,p_1_35,1800,Lieutenant
-1001,p_1_35,6_6_1804,Commander
-1002,p_1_35,12_8_1812,Captain
-1003,p_1_36,29_8_1823,Entered Navy
-1004,p_1_36,16_12_1829,Lieutenant
-1005,p_1_36,8_10_1841,Commander
-1006,p_1_36,9_11_1846,Captain
-1007,p_1_37,2_11_1841,Entered Navy
-1008,p_1_37,11_11_1848,Lieutenant
-1009,p_1_37,17_6_1859,Commander
-1010,p_1_37,11_4_1866,Captain
-1011,p_1_37,1_1_1881,Retired Captain
-1012,p_1_37,31_12_1882,Retired Rear-Admiral
-1013,p_1_37,15_12_1888,Retired Vice-Admiral
-1014,p_1_38,7_6_1827,Entered Navy
-1015,p_1_38,19_1_1838,Lieutenant
-1016,p_1_38,5_11_1840,Commander
-1017,p_1_38,1_1_1855,Captain
-1018,p_1_39,1846,Entered Navy
-1019,p_1_39,6_3_1854,Lieutenant
-1020,p_1_39,16_4_1862,Commander
-1021,p_1_39,16_4_1868,Captain
-1022,p_1_39,1_1_1886,Rear-Admiral
-1023,p_1_39,27_8_1891,Retired Rear-Admiral
-1024,p_1_39,16_9_1891,Retired Vice-Admiral
-1025,p_1_39,23_8_1897,Retired Admiral
-1026,p_1_40,11_12_1850,Lieutenant
-1027,p_1_41,2_10_1850,Lieutenant
-1028,p_1_41,4_1_1864,Commander
-1029,p_1_41,1_10_1873,Retired Captain
-1030,p_1_42,1841,Entered Navy
-1031,p_1_42,8_3_1849,Lieutenant
-1032,p_1_42,9_8_1858,Commander
-1033,p_1_42,9_3_1863,Captain
-1034,p_1_42,31_12_1878,Retired Rear-Admiral
-1035,p_1_42,30_10_1884,Retired Vice-Admiral
-1036,p_1_42,1889,Retired Admiral
-1037,p_1_43,13_4_1810,Entered Navy
-1038,p_1_43,9_9_1820,Lieutenant
-1039,p_1_43,22_10_1827,Commander
-1040,p_1_43,23_11_1841,Captain
-1041,p_1_44,16_4_1861,Lieutenant
-1042,p_1_44,8_12_1868,Commander
-1043,p_1_44,7_1_1878,Captain
-1044,p_1_44,1_1_1893,Rear-Admiral
-1045,p_1_44,30_6_1899,Vice-Admiral
-1046,p_1_44,11_7_1899,Retired Vice-Admiral
-1047,p_1_45,17_11_1845,Entered Navy
-1048,p_1_45,12_9_1852,Lieutenant
-1049,p_1_45,26_2_1858,Commander
-1050,p_1_45,22_7_1859,Captain
-1051,p_1_45,31_12_1876,Rear-Admiral
-1052,p_1_45,26_7_1881,Vice-Admiral
-1053,p_1_45,2_6_1886,Admiral
-1054,p_1_45,22_2_1895,Admiral of the Fleet
-1055,p_1_46,5_1_1856,Lieutenant
-1056,p_1_47,28_2_1810,Entered Navy
-1057,p_1_47,4_2_1821,Lieutenant
-1058,p_1_47,4_11_1840,Commander
-1059,p_1_47,23_12_1847,Captain
-1060,p_1_47,2_12_1865,Retired Rear-Admiral
-1061,p_1_48,2_1827,Entered Royal Naval Colle
-1062,p_1_48,12_11_1834,Lieutenant
-1063,p_1_48,3_6_1840,Commander
-1064,p_1_49,24_6_1781,Entered navy
-1065,p_1_49,6_7_1797,Lieutenant
-1066,p_1_49,22_10_1805,Commander
-1067,p_1_49,4_2_1808,Captain
-1068,p_1_50,1_5_1847,Lieutenant
-1069,p_1_50,3_6_1865,Commander
-1070,p_1_51,12_1852,Entered Navy
-1071,p_1_51,18_7_1859,Lieutenant
-1072,p_1_51,4_4_1870,Commander
-1073,p_1_51,27_2_1879,Captain
-1074,p_1_51,10_3_1894,Rear-Admiral
-1075,p_1_51,19_7_1899,Retired Rear-Admiral
-1076,p_1_51,1_1_1901,Retired Vice-Admiral
-1077,p_1_52,24_2_1829,Entered Navy
-1078,p_1_52,7_5_1838,Lieutenant
-1079,p_1_52,7_3_1842,Commander
-1080,p_1_52,18_8_1847,Captain
-1081,p_1_52,12_9_1865,Rear-Admiral
-1082,p_1_52,1_10_1871,Vice-Admiral
-1083,p_1_52,1872,Retired Vice-Admiral
-1084,p_1_52,1_8_1877,Retired Admiral
-1085,p_1_53,30_5_1850,Lieutenant
-1086,p_1_53,29_8_1854,Commander
-1087,p_1_53,9_7_1861,Captain
-1088,p_1_54,10_12_1852,Lieutenant
-1089,p_1_55,17_8_1860,Midshipman
-1090,p_1_55,19_10_1864,Sub-Lieutenant
-1091,p_1_55,21_1_1867,Lieutenant
-1092,p_1_55,23_6_1880,Commander
-1093,p_1_55,1_3_1886,Captain
-1094,p_1_55,3_1_1895,Retired Captain
-1095,p_1_55,10_8_1900,Retired Rear-Admiral
-1096,p_1_56,1833,Entered Navy
-1097,p_1_56,27_8_1844,Lieutenant
-1098,p_1_56,21_2_1851,Commander
-1099,p_1_56,2_5_1857,Captain
-1100,p_1_56,6_1874,Retired Captain
-1101,p_1_56,20_4_1875,Retired Rear Admiral
-1102,p_1_56,2_8_1879,Retired Vice Admiral
-1103,p_1_57,4_1839,Entered Navy
-1104,p_1_57,12_4_1845,Lieutenant
-1105,p_1_57,12_4_1851,Commander
-1106,p_1_57,29_8_1854,Captain
-1107,p_1_57,1_4_1870,Rear-Admiral
-1108,p_1_57,12_11_1876,Vice-Admiral
-1109,p_1_57,1_12_1881,Admiral
-1110,p_1_57,22_6_1886,Retired Admiral
-1111,p_1_58,29_8_1854,Lieutenant
-1112,p_1_58,6_8_1860,Commander
-1113,p_1_59,1_12_1829,Entered Navy
-1114,p_1_59,5_11_1840,Lieutenant
-1115,p_1_59,24_4_1846,Commander
-1116,p_1_59,7_4_1850,Captain
-1117,p_1_59,6_4_1866,Rear-Admiral
-1118,p_1_60,23_9_1844,Lieutenant
-1119,p_1_60,8_1_1855,Commander
-1120,p_1_60,11_10_1867,Captain
-1121,p_1_60,1_4_1870,Retired Captain
-1122,p_1_61,11_9_1820,Entered Navy
-1123,p_1_61,8_1_1836,Lieutenant
-1124,p_1_61,11_11_1844,Commander
-1125,p_1_61,1_5_1851,Captain
-1126,p_1_61,24_5_1867,Retired Rear-Admiral
-1127,p_1_62,31_10_1855,Lieutenant
-1128,p_1_62,29_7_1864,Commander
-1129,p_1_62,1_6_1869,Captain
-1130,p_1_62,12_4_1886,Rear-Admiral
-1131,p_1_63,21_2_1823,Entered Navy
-1132,p_1_63,12_6_1829,Lieutenant
-1133,p_1_63,20_10_1831,Commander
-1134,p_1_63,20_1_1836,Captain
-1135,p_1_63,19_3_1857,Rear-Admiral
-1136,p_1_63,24_9_1863,Vice-Admiral
-1137,p_1_63,18_10_1867,Admiral
-1138,p_1_63,22_1_1877,Admiral of the Fleet
-1139,p_1_64,1_10_1805,Entered Navy
-1140,p_1_64,20_7_1814,Lieutenant
-1141,p_1_64,19_9_1829,Commander
-1142,p_1_64,23_11_1841,Captain
-1143,p_1_64,12_4_1862,Retired Rear-Admiral
-1144,p_1_64,24_5_1867,Retired Vice-Admiral
-1145,p_1_64,30_7_1875,Retired Admiral
-1146,p_1_65,18_5_1807,Entered Navy
-1147,p_1_65,18_4_1814,Lieutenant
-1148,p_1_65,2_9_1843,Commander
-1149,p_1_66,9_1_1846,Lieutenant
-1150,p_1_66,13_11_1854,Commander
-1151,p_1_66,27_2_1856,Captain
-1152,p_1_67,2_1796,Entered Navy
-1153,p_1_67,17_6_1808,Lieutenant
-1154,p_1_67,25_7_1810,Commander
-1155,p_1_67,18_11_1814,Captain
-1156,p_1_67,1_10_1850,Rear-Admiral
-1157,p_1_67,18_6_1857,Vice-Admiral
-1158,p_1_67,27_11_1857,Retired Vice-Admiral
-1159,p_1_67,4_10_1862,Retired Admiral
-1160,p_1_68,3_4_1807,Entered Navy
-1161,p_1_68,28_2_1815,Lieutenant
-1162,p_1_68,1_5_1845,Commander
-1163,p_1_68,21_11_1857,Retired Captain
-1164,p_1_69,11_4_1803,Lieutenant
-1165,p_1_69,25_1_1805,Commander
-1166,p_1_69,13_12_1808,Captain
-1167,p_1_69,9_11_1846,Rear-Admiral
-1168,p_1_70,2_12_1823,Entered Navy
-1169,p_1_70,23_3_1835,Lieutenant
-1170,p_1_70,18_6_1841,Commander
-1171,p_1_70,23_12_1842,Captain
-1172,p_1_70,10_11_1862,Rear-Admiral
-1173,p_1_70,17_3_1869,Vice-Admiral
-1174,p_1_70,1871,Retired Vice-Admiral
-1175,p_1_70,30_7_1875,Retired Admiral
-1176,p_1_71,2_10_1850,Lieutenant
-1177,p_1_72,1846,Entered Navy
-1178,p_1_72,6_2_1855,Lieutenant
-1179,p_1_72,12_12_1863,Commander
-1180,p_1_72,4_4_1870,Captain
-1181,p_1_72,1_6_1886,Retired Captain
-1182,p_1_72,6_4_1887,Retired Rear-Admiral
-1183,p_1_72,9_8_1892,Retired Vice-Admiral
-1184,p_1_73,14_10_1847,Lieutenant
-1185,p_1_73,3_2_1855,Commander
-1186,p_1_74,26_6_1848,Lieutenant
-1187,p_1_74,11_3_1857,Commander
-1188,p_1_74,1_6_1869,Captain
-1189,p_1_74,15_6_1870,Retired Captain
-1190,p_1_75,19_2_1842,Entered Navy
-1191,p_1_75,13_12_1848,Lieutenant
-1192,p_1_75,29_9_1855,Commander
-1193,p_1_75,18_7_1859,Captain
-1194,p_1_75,12_11_1876,Rear-Admiral
-1195,p_1_75,19_1_1881,Vice-Admiral
-1196,p_1_75,12_4_1886,Admiral
-1197,p_1_75,14_2_1892,Admiral of the Fleet
-1198,p_1_75,13_2_1899,Retired Admiral of the Fleet
-1199,p_1_76,6_6_1831,Entered Navy
-1200,p_1_76,16_12_1839,Lieutenant
-1201,p_1_76,19_8_1842,Commander
-1202,p_1_76,22_10_1853,Captain
-1203,p_1_76,30_3_1866,Retired Captain
-1204,p_1_77,7_12_1832,Entered Navy
-1205,p_1_77,28_1_1842,Lieutenant
-1206,p_1_77,3_5_1853,Commander
-1207,p_1_77,5_2_1858,Captain
-1208,p_1_77,21_12_1871,Retired Captain
-1209,p_1_78,14_8_1845,Lieutenant
-1210,p_1_78,10_5_1856,Commander
-1211,p_1_78,23_6_1862,Captain
-1212,p_1_79,8_6_1841,Lieutenant
-1213,p_1_79,18_12_1852,Commander
-1214,p_1_80,25_5_1857,Lieutenant
-1215,p_1_80,4_8_1868,Commander
-1216,p_1_80,8_2_1884,Retired Captain
-1217,p_1_81,18_8_1833,Entered Navy
-1218,p_1_81,25_9_1843,Lieutenant
-1219,p_1_81,23_6_1847,Commander
-1220,p_1_81,29_4_1854,Captain
-1221,p_1_81,1_4_1870,Rear-Admiral
-1222,p_1_81,18_6_1876,Vice-Admiral
-1223,p_1_81,3_1_1881,Admiral
-1224,p_1_81,1_6_1885,Retired Admiral
-1225,p_1_82,1835,Entered Navy
-1226,p_1_82,4_5_1846,Lieutenant
-1227,p_1_82,20_2_1852,Commander
-1228,p_1_82,10_8_1857,Captain
-1229,p_1_82,20_4_1875,Rear-Admiral
-1230,p_1_82,2_8_1879,Vice-Admiral
-1231,p_1_82,7_4_1885,Admiral
-1232,p_1_82,15_7_1887,Retired Admiral
-1233,p_1_83,23_1_1802,Lieutenant
-1234,p_1_83,15_6_1814,Commander
-1235,p_1_84,30_11_1848,Lieutenant
-1236,p_1_84,20_4_1857,Commander
-1237,p_1_85,1_8_1805,Entered Navy
-1238,p_1_85,28_4_1812,Lieutenant
-1239,p_1_85,13_6_1815,Commander
-1240,p_1_85,23_7_1821,Captain
-1241,p_1_85,8_3_1852,Rear-Admiral
-1242,p_1_86,3_6_1856,Lieutenant
-1243,p_1_86,23_6_1859,Commander
-1244,p_1_86,11_4_1866,Captain
-1245,p_1_86,18_4_1872,Retired Captain
-1246,p_1_86,31_12_1882,Retired Rear-Admiral
-1247,p_1_86,15_12_1888,Retired Vice-Admiral
-1248,p_1_87,21_12_1806,Entered Navy
-1249,p_1_87,4_3_1815,Lieutenant
-1250,p_1_87,20_2_1836,Commander
-1251,p_1_87,1_8_1840,Captain
-1252,p_1_87,24_11_1858,Retired Rear-Admiral
-1253,p_1_88,7_11_1822,Entered Navy
-1254,p_1_88,22_9_1835,Lieutenant
-1255,p_1_88,8_10_1841,Commander
-1256,p_1_89,18_2_1858,Lieutenant
-1257,p_1_89,30_4_1861,Commander
-1258,p_1_89,1_4_1870,Retired Captain
-1259,p_1_90,26_9_1805,Entered Navy
-1260,p_1_90,19_7_1813,Lieutenant
-1261,p_1_90,26_12_1823,Commander
-1262,p_1_90,14_4_1828,Captain
-1263,p_1_91,1833,Entered Navy
-1264,p_1_91,30_11_1844,Lieutenant
-1265,p_1_91,13_11_1854,Commander
-1266,p_1_91,28_6_1859,Captain
-1267,p_1_92,4_6_1830,Entered Navy
-1268,p_1_92,26_8_1841,Lieutenant
-1269,p_1_92,12_10_1846,Commander
-1270,p_1_92,20_11_1854,Captain
-1271,p_1_93,10_10_1809,Entered Navy
-1272,p_1_93,19_5_1828,Lieutenant
-1273,p_1_93,18_4_1842,Commander
-1274,p_1_93,22_11_1856,Retired Captain
-1275,p_1_94,5_8_1848,Lieutenant
-1276,p_1_94,10_5_1856,Commander
-1277,p_1_94,15_7_1862,Captain
-1278,p_1_95,16_6_1825,Entered Navy
-1279,p_1_95,9_10_1840,Lieutenant
-1280,p_1_95,29_9_1855,Commander
-1281,p_1_95,31_3_1866,Retired Commander
-1282,p_1_95,29_9_1870,Retired Captain
-1283,p_1_96,26_6_1836,Entered Navy
-1284,p_1_96,28_6_1843,Lieutenant
-1285,p_1_96,10_1_1854,Commander
-1286,p_1_96,10_5_1856,Captain
-1287,p_1_96,11_1_1874,Retired Rear-Admiral
-1288,p_1_97,1_8_1814,Entered Navy
-1289,p_1_97,22_9_1826,Lieutenant
-1290,p_1_97,23_12_1842,Commander
-1291,p_1_97,10_5_1856,Captain
-1292,p_1_98,8_8_1854,Lieutenant
-1293,p_1_99,10_1_1826,Lieutenant
-1294,p_1_99,12_2_1858,Retired Commander
-1295,p_1_100,10_9_1849,Lieutenant
-1296,p_1_100,21_10_1854,Commander
-1297,p_1_100,21_9_1858,Captain
-1298,p_1_101,9_11_1846,Lieutenant
-1299,p_1_101,14_9_1854,Commander
-1300,p_1_102,7_1818,Entered Navy
-1301,p_1_102,4_10_1825,Lieutenant
-1302,p_1_102,5_1_1844,Commander
-1303,p_1_102,21_10_1852,Captain
-1304,p_1_103,7_2_1812,Lieutenant
-1305,p_1_103,1_10_1853,Retired Commander
-1306,p_1_104,16_2_1828,Entered Navy
-1307,p_1_104,23_11_1841,Lieutenant
-1308,p_1_104,22_10_1853,Commander
-1309,p_1_104,10_5_1856,Captain
-1310,p_1_104,11_6_1874,Retired Rear-Admiral
-1311,p_1_104,1_2_1879,Retired Vice-Admiral
-1312,p_1_104,27_3_1885,Retired Admiral
-1313,p_1_105,6_11_1831,Entered Navy
-1314,p_1_105,7_1_1842,Lieutenant
+55,p_0_12,4_10_1825,Lieutenant
+56,p_0_12,28_6_1838,Commander
+57,p_0_13,1_8_1822,Entered Navy
+58,p_0_13,24_2_1829,Lieutenant
+59,p_0_13,23_11_1841,Commander
+60,p_0_13,9_11_1846,Captain
+61,p_0_14,2_10_1805,Entered Navy
+62,p_0_14,2_3_1815,Lieutenant
+63,p_0_14,20_6_1838,Commander
+64,p_0_14,31_1_1842,Captain
+65,p_0_14,12_4_1862,Retired Rear-Admiral
+66,p_0_15,22_3_1856,Lieutenant
+67,p_0_16,17_9_1808,Entered Navy
+68,p_0_16,1_3_1823,Lieutenant
+69,p_0_16,25_2_1842,Commander
+70,p_0_16,1_11_1849,Captain
+71,p_0_16,6_4_1866,Retired Rear-Admiral
+72,p_0_16,30_4_1873,Retired Vice-Admiral
+73,p_0_16,21_3_1878,Retired Admiral
+74,p_0_17,8_3_1849,Lieutenant
+75,p_0_17,5_9_1859,Commander
+76,p_0_17,11_4_1866,Captain
+77,p_0_18,1847,Entered Navy
+78,p_0_18,3_11_1855,Lieutenant
+79,p_0_18,17_12_1861,Commander
+80,p_0_18,17_6_1870,Retired Captain
+81,p_0_19,13_1_1854,Lieutenant
+82,p_0_19,16_4_1862,Commander
+83,p_0_20,7_6_1859,Entered Navy
+84,p_0_20,12_9_1865,Lieutenant
+85,p_0_20,22_5_1872,Commander
+86,p_0_21,16_6_1824,Entered Navy
+87,p_0_21,12_3_1833,Lieutenant
+88,p_0_21,30_6_1838,Commander
+89,p_0_21,8_6_1841,Captain
+90,p_0_21,29_7_1861,Retired Rear-Admiral
+91,p_0_21,6_4_1866,Retired Vice-Admiral
+92,p_0_21,20_10_1872,Retired Admiral
+93,p_0_22,11_1805,Entered Navy
+94,p_0_22,16_5_1811,Lieutenant
+95,p_0_22,1_4_1852,Retired Commander
+96,p_0_23,2_4_1845,Lieutenant
+97,p_0_23,12_8_1853,Commander
+98,p_0_23,31_1_1861,Captain
+99,p_0_23,1875,Retired Captain
+100,p_0_23,1_4_1877,Retired Rear-Admiral
+101,p_0_23,6_5_1882,Retired Vice-Admiral
+102,p_0_24,3_10_1825,Lieutenant
+103,p_0_25,27_12_1838,Lieutenant
+104,p_0_25,1_10_1860,Retired Lieutenant
+105,p_0_25,1_7_1864,Retired Commander
+106,p_0_26,3_12_1845,Lieutenant
+107,p_0_26,16_5_1855,Commander
+108,p_0_26,6_8_1860,Captain
+109,p_0_27,1788,Entered Navy
+110,p_0_27,28_2_1800,Lieutenant
+111,p_0_27,1_11_1805,Commander
+112,p_0_27,11_1_1810,Captain
+113,p_0_27,9_11_1846,Rear-Admiral
+114,p_0_27,17_9_1853,Vice-Admiral
+115,p_0_28,7_1845,Entered Navy
+116,p_0_28,8_3_1854,Lieutenant
+117,p_0_28,1_4_1861,Commander
+118,p_0_28,15_4_1867,Captain
+119,p_0_28,30_3_1885,Retired Rear-Admiral
+120,p_0_29,13_12_1797,Lieutenant
+121,p_0_29,10_10_1804,Commander
+122,p_0_29,10_5_1810,Captain
+123,p_0_29,9_11_1846,Rear-Admiral
+124,p_0_30,11_2_1822,Entered Navy
+125,p_0_30,28_4_1830,Lieutenant
+126,p_0_30,23_11_1841,Commander
+127,p_0_30,11_11_1846,Captain
+128,p_0_31,8_4_1813,Entered Navy
+129,p_0_31,9_9_1822,Lieutenant
+130,p_0_31,26_5_1831,Commander
+131,p_0_31,28_6_1838,Captain
+132,p_0_31,28_11_1857,Rear-Admiral
+133,p_0_31,20_10_1864,Vice-Admiral
+134,p_0_32,30_6_1803,Entered Navy
+135,p_0_32,10_2_1815,Lieutenant
+136,p_0_32,6_2_1857,Retired Commander
+137,p_0_33,23_11_1841,Lieutenant
+138,p_0_33,22_11_1856,Commander
+139,p_0_33,1_1_1867,Retired Commander
+140,p_0_34,13_5_1823,Entered Navy
+141,p_0_34,15_2_1832,Lieutenant
+142,p_0_34,28_6_1838,Commander
+143,p_0_34,10_12_1845,Captain
+144,p_0_34,3_12_1863,Retired Rear-Admiral
+145,p_0_34,1_4_1873,Retired Vice-Admiral
+146,p_0_34,22_1_1877,Retired Admiral
+147,p_0_35,1834,Entered Navy
+148,p_0_35,27_8_1844,Lieutenant
+149,p_0_35,3_12_1851,Commander
+150,p_0_36,5_5_1827,Entered Navy
+151,p_0_36,18_10_1837,Lieutenant
+152,p_0_36,21_12_1841,Commander
+153,p_0_36,13_11_1845,Captain
+154,p_0_36,30_11_1863,Rear-Admiral
+155,p_0_36,1_4_1870,Vice-Admiral
+156,p_0_36,29_5_1873,Retired Vice-Admiral
+157,p_0_36,22_1_1877,Retired Admiral
+158,p_0_37,30_1_1812,Entered Navy
+159,p_0_37,20_11_1826,Lieutenant
+160,p_0_38,12_1845,Entered Navy
+161,p_0_38,28_2_1854,Lieutenant
+162,p_0_38,3_7_1857,Commander
+163,p_0_38,16_2_1864,Captain
+164,p_0_38,28_12_1879,Rear-Admiral
+165,p_0_38,18_1_1886,Vice-Admiral
+166,p_0_38,14_2_1892,Admiral
+167,p_0_38,16_9_1897,Retired Admiral
+168,p_0_39,23_8_1808,Entered Navy
+169,p_0_39,7_3_1815,Lieutenant
+170,p_0_39,6_7_1836,Commander
+171,p_0_39,9_11_1846,Captain
+172,p_0_40,7_6_1846,Lieutenant
+173,p_0_40,23_9_1850,Commander
+174,p_0_40,10_12_1866,Retired Captain
+175,p_0_41,2_8_1811,Entered Royal Naval Colle
+176,p_0_41,19_7_1820,Lieutenant
+177,p_0_41,22_2_1838,Commander
+178,p_0_41,10_7_1843,Captain
+179,p_0_41,30_1_1863,Retired Rear-Admiral
+180,p_0_41,26_5_1869,Retired Vice-Admiral
+181,p_0_41,30_7_1875,Retired Admiral
+182,p_0_42,1824,Entered Navy
+183,p_0_42,18_10_1839,Lieutenant
+184,p_0_42,8_5_1849,Commander
+185,p_0_43,25_10_1806,Entered Navy
+186,p_0_43,10_11_1813,Lieutenant
+187,p_0_43,23_11_1841,Commander
+188,p_0_43,9_1_1854,Retired Captain
+189,p_0_44,23_12_1850,Lieutenant
+190,p_0_44,3_11_1859,Commander
+191,p_0_45,3_11_1846,Lieutenant
+192,p_0_45,10_5_1856,Commander
+193,p_0_46,22_12_1826,Entered Navy
+194,p_0_46,28_6_1838,Lieutenant
+195,p_0_46,18_11_1845,Commander
+196,p_0_46,29_9_1850,Captain
+197,p_0_47,14_11_1812,Entered Navy
+198,p_0_47,1_7_1822,Lieutenant
+199,p_0_47,10_1_1837,Commander
+200,p_0_47,8_6_1841,Captain
+201,p_0_48,12_5_1797,Entered Navy
+202,p_0_48,7_1_1806,Lieutenant
+203,p_0_48,10_8_1814,Commander
+204,p_0_48,17_12_1816,Captain
+205,p_0_48,1_10_1846,Retired Captain
+206,p_0_48,8_7_1851,Retired Rear-Admiral
+207,p_0_48,22_8_1857,Retired Vice-Admiral
+208,p_0_49,8_1828,Entered Royal Naval Colle
+209,p_0_49,23_11_1841,Lieutenant
+210,p_0_49,5_1_1852,Commander
+211,p_0_49,2_5_1857,Captain
+212,p_0_49,13_4_1870,Retired Captain
+213,p_0_49,20_4_1875,Retired Rear-Admiral
+214,p_0_49,2_8_1879,Retired Vice-Admiral
+215,p_0_50,3_1_1827,Entered Navy
+216,p_0_50,26_10_1840,Lieutenant
+217,p_0_50,5_2_1851,Commander
+218,p_0_50,10_10_1855,Captain
+219,p_0_50,1_1_1874,Retired Rear-Admiral
+220,p_0_50,30_1_1879,Retired Vice-Admiral
+221,p_0_51,3_2_1855,Lieutenant
+222,p_0_51,24_6_1862,Commander
+223,p_0_51,14_8_1868,Captain
+224,p_0_51,1_1_1886,Rear-Admiral
+225,p_0_51,16_9_1891,Vice-Admiral
+226,p_0_51,28_12_1891,Retired Vice-Admiral
+227,p_0_51,23_8_1897,Retired Admiral
+228,p_0_52,14_2_1811,Entered Navy
+229,p_0_52,1_6_1826,Lieutenant
+230,p_0_52,28_6_1838,Commander
+231,p_0_52,20_6_1846,Captain
+232,p_0_52,9_2_1864,Retired Rear-Admiral
+233,p_0_52,14_7_1871,Retired Vice-Admiral
+234,p_0_52,1_8_1877,Retired Admiral
+235,p_0_53,18_5_1842,Lieutenant
+236,p_0_53,22_11_1856,Commander
+237,p_0_54,12_1865,Entered Navy
+238,p_0_54,8_4_1873,Lieutenant
+239,p_0_54,29_6_1883,Commander
+240,p_0_54,30_12_1889,Captain
+241,p_0_54,6_8_1903,Rear-Admiral
+242,p_0_54,26_5_1905,Retired Rear-Admiral
+243,p_0_54,16_2_1907,Retired Vice-Admiral
+244,p_0_54,12_4_1911,Retired Admiral
+245,p_0_55,2_3_1812,Entered Navy
+246,p_0_55,8_10_1824,Lieutenant
+247,p_0_55,28_6_1838,Commander
+248,p_0_55,9_11_1846,Captain
+249,p_0_55,5_9_1857,Retired Captain
+250,p_0_55,16_9_1864,Retired Rear-Admiral
+251,p_0_55,14_6_1871,Retired Vice-Admiral
+252,p_0_55,1_8_1877,Retired Admiral
+253,p_0_56,2_9_1831,Entered Navy
+254,p_0_56,8_10_1841,Lieutenant
+255,p_0_56,15_2_1848,Commander
+256,p_0_57,1844,Entered Navy
+257,p_0_57,28_2_1854,Lieutenant
+258,p_0_57,11_9_1865,Commander
+259,p_0_57,1_10_1873,Retired Captain
+260,p_0_58,22_6_1832,Entered Navy
+261,p_0_58,20_12_1838,Lieutenant
+262,p_0_58,3_5_1853,Commander
+263,p_0_59,9_11_1854,Lieutenant
+264,p_0_60,2_3_1858,Lieutenant
+265,p_0_60,14_9_1867,Commander
+266,p_0_60,2_8_1875,Captain
+267,p_0_61,19_4_1810,Entered Navy
+268,p_0_61,8_4_1818,Lieutenant
+269,p_0_61,8_7_1827,Commander
+270,p_0_61,8_7_1828,Captain
+271,p_0_61,7_2_1855,Rear-Admiral
+272,p_0_61,5_8_1861,Vice-Admiral
+273,p_0_61,5_5_1865,Admiral
+274,p_0_62,3_11_1801,Entered Navy
+275,p_0_62,2_1_1810,Lieutenant
+276,p_0_62,23_11_1841,Commander
+277,p_0_63,4_1845,Entered Navy
+278,p_0_63,25_10_1853,Lieutenant
+279,p_0_63,26_2_1858,Commander
+280,p_0_63,16_2_1864,Captain
+281,p_0_63,9_1_1880,Retired Rear-Admiral
+282,p_0_64,8_11_1829,Entered Navy
+283,p_0_64,27_6_1841,Lieutenant
+284,p_0_64,11_11_1846,Commander
+285,p_0_65,17_5_1830,Entered Navy
+286,p_0_65,8_10_1841,Lieutenant
+287,p_0_65,9_11_1846,Commander
+288,p_0_66,4_7_1810,Entered Navy
+289,p_0_66,22_12_1821,Lieutenant
+290,p_0_66,1851,Retired Lieutenant
+291,p_0_67,16_10_1783,Lieutenant
+292,p_0_67,28_6_1800,Commander
+293,p_0_67,10_2_1801,Captain
+294,p_0_68,28_4_1821,Entered Navy
+295,p_0_68,13_3_1832,Lieutenant
+296,p_0_68,15_11_1845,Commander
+297,p_0_69,23_11_1841,Lieutenant
+298,p_0_69,16_10_1848,Commander
+299,p_0_69,5_2_1858,Captain
+300,p_0_70,18_11_1846,Lieutenant
+301,p_0_70,30_8_1856,Commander
+302,p_0_70,15_4_1862,Captain
+303,p_0_70,31_3_1877,Retired Captain
+304,p_0_71,7_7_1806,Entered Navy
+305,p_0_71,10_3_1815,Lieutenant
+306,p_0_71,25_1_1822,Commander
+307,p_0_71,8_5_1827,Captain
+308,p_0_71,11_9_1854,Rear-Admiral
+309,p_0_72,21_7_1818,Lieutenant
+310,p_0_72,16_3_1829,Commander
+311,p_0_72,6_5_1841,Captain
+312,p_0_72,11_2_1861,Rear-Admiral
+313,p_0_72,2_4_1866,Vice-Admiral
+314,p_0_72,1866,Retired Vice-Admiral
+315,p_0_72,20_10_1872,Retired Admiral
+316,p_0_73,19_3_1830,Entered Navy
+317,p_0_73,1_11_1843,Lieutenant
+318,p_0_73,15_2_1848,Commander
+319,p_0_74,2_5_1812,Entered Navy
+320,p_0_74,9_11_1821,Lieutenant
+321,p_0_74,23_7_1830,Commander
+322,p_0_75,9_11_1854,Lieutenant
+323,p_0_76,3_1797,Entered Navy
+324,p_0_76,9_12_1803,Lieutenant
+325,p_0_76,15_6_1814,Commander
+326,p_0_76,16_9_1828,Captain
+327,p_0_76,2_5_1855,Rear-Admiral
+328,p_0_76,15_1_1862,Vice-Admiral
+329,p_0_76,2_11_1863,Retired Vice-Admiral
+330,p_0_76,12_9_1865,Retired Admiral
+331,p_0_77,6_6_1842,Lieutenant
+332,p_0_77,10_5_1856,Commander
+333,p_0_77,1_4_1870,Retired Commander
+334,p_0_78,23_5_1854,Lieutenant
+335,p_0_78,16_12_1865,Commander
+336,p_0_79,12_7_1849,Lieutenant
+337,p_0_80,6_1802,Entered Navy
+338,p_0_80,9_7_1808,Lieutenant
+339,p_0_80,19_12_1810,Commander
+340,p_0_80,7_6_1814,Captain
+341,p_0_80,30_10_1849,Rear-Admiral
+342,p_0_80,21_10_1856,Vice-Admiral
+343,p_0_80,15_1_1862,Admiral
+344,p_0_81,7_10_1820,Entered Navy
+345,p_0_81,28_8_1841,Lieutenant
+346,p_0_82,2_11_1853,Lieutenant
+347,p_0_82,30_1_1861,Commander
+348,p_0_83,5_11_1797,Entered Navy
+349,p_0_83,24_9_1806,Lieutenant
+350,p_0_83,3_8_1829,Commander
+351,p_0_83,4_2_1858,Retired Captain
+352,p_0_84,19_2_1842,Entered Navy
+353,p_0_84,13_12_1848,Lieutenant
+354,p_0_84,6_8_1860,Commander
+355,p_0_84,3_4_1868,Captain
+356,p_0_84,16_9_1876,Retired Captain
+357,p_0_85,1828,Entered Navy
+358,p_0_85,23_11_1841,Lieutenant
+359,p_0_85,6_9_1852,Commander
+360,p_0_85,21_7_1860,Captain
+361,p_0_85,1_4_1870,Retired Captain
+362,p_0_85,31_12_1876,Retired Rear-Admiral
+363,p_0_86,30_12_1813,Entered Navy
+364,p_0_86,3_1_1826,Lieutenant
+365,p_0_86,4_11_1840,Commander
+366,p_0_86,1_4_1856,Retired Captain
+367,p_0_87,23_10_1851,Lieutenant
+368,p_0_88,23_9_1820,Entered Navy
+369,p_0_88,28_7_1832,Lieutenant
+370,p_0_88,6_7_1841,Commander
+371,p_0_89,2_12_1830,Entered Navy
+372,p_0_89,16_7_1840,Lieutenant
+373,p_0_89,30_12_1842,Commander
+374,p_0_89,13_11_1850,Captain
+375,p_0_89,20_3_1867,Retired Rear-Admiral
+376,p_0_90,2_3_1825,Mate
+377,p_0_90,17_8_1831,Lieutenant
+378,p_0_90,3_7_1840,Commander
+379,p_0_90,1_4_1856,Retired Captain
+380,p_0_91,9_9_1812,Entered Navy
+381,p_0_91,7_11_1827,Lieutenant
+382,p_0_91,16_8_1841,Commander
+383,p_0_91,4_10_1843,Captain
+384,p_0_91,6_2_1863,Retired Rear-Admiral
+385,p_0_91,2_7_1869,Retired Vice-Admiral
+386,p_0_91,11_12_1875,Retired Admiral
+387,p_0_92,27_3_1826,Lieutenant
+388,p_0_93,25_5_1857,Lieutenant
+389,p_0_93,25_10_1867,Commander
+390,p_0_93,25_8_1877,Captain
+391,p_0_93,2_1890,Retired Captain
+392,p_0_94,6_12_1821,Entered Navy
+393,p_0_94,8_8_1828,Lieutenant
+394,p_0_94,22_11_1830,Commander
+395,p_0_94,28_6_1838,Captain
+396,p_0_95,22_7_1814,Entered Navy
+397,p_0_95,30_11_1821,Lieutenant
+398,p_0_95,1_12_1823,Commander
+399,p_0_95,28_4_1827,Captain
+400,p_0_96,4_1813,Entered Navy
+401,p_0_96,19_7_1823,Lieutenant
+402,p_0_96,15_1_1830,Commander
+403,p_0_96,6_5_1841,Captain
+404,p_0_96,4_6_1861,Retired Rear-Admiral
+405,p_0_96,2_4_1866,Retired Vice-Admiral
+406,p_0_96,20_10_1872,Retired Admiral
+407,p_0_97,1846,Entered Navy
+408,p_0_97,2_9_1854,Lieutenant
+409,p_0_97,26_6_1860,Commander
+410,p_0_97,14_9_1867,Captain
+411,p_0_98,8_2_1848,Entered Navy
+412,p_0_98,5_1_1856,Lieutenant
+413,p_0_98,26_6_1866,Commander
+414,p_0_98,26_6_1881,Retired Captain
+415,p_0_99,6_4_1827,Entered Royal Naval Colle
+416,p_0_99,28_6_1838,Lieutenant
+417,p_0_99,27_11_1846,Commander
+418,p_0_99,7_7_1868,Retired Captain
+419,p_0_100,25_6_1847,Lieutenant
+420,p_0_100,26_1_1855,Commander
+421,p_0_100,28_8_1861,Captain
+422,p_0_100,1_4_1870,Retired Captain
+423,p_0_101,31_5_1824,Lieutenant
+424,p_0_101,23_11_1841,Commander
+425,p_0_102,22_9_1855,Lieutenant
+426,p_0_102,1_3_1865,Commander
+427,p_0_102,2_9_1872,Captain
+428,p_0_102,21_4_1882,Retired Captain
+429,p_0_102,1_1_1889,Retired Rear-Admiral
+430,p_0_103,7_5_1827,Lieutenant
+431,p_0_104,21_6_1832,Entered Navy
+432,p_0_104,2_6_1843,Lieutenant
+433,p_0_104,16_4_1852,Commander
+434,p_0_104,25_3_1863,Captain
+435,p_0_104,5_11_1868,Retired Captain
+436,p_0_104,31_12_1878,Retired Rear-Admiral
+437,p_0_104,30_10_1884,Retired Vice-Admiral
+438,p_0_105,12_4_1836,Lieutenant
+439,p_0_105,15_5_1848,Commander
+440,p_0_105,22_11_1856,Captain
+441,p_0_105,22_8_1867,Retired Captain
+442,p_0_105,1_1_1875,Retired Rear-Admiral
+443,p_0_105,15_6_1879,Retired Vice-Admiral
+444,p_0_105,30_3_1885,Retired Admiral
+445,p_0_106,25_8_1805,Entered Navy
+446,p_0_106,30_12_1813,Lieutenant
+447,p_0_106,8_12_1829,Commander
+448,p_0_106,9_11_1846,Captain
+449,p_0_107,7_11_1826,Entered Navy
+450,p_0_107,11_6_1841,Lieutenant
+451,p_0_107,13_6_1849,Commander
+452,p_0_107,7_4_1855,Captain
+453,p_0_107,6_4_1873,Retired Rear-Admiral
+454,p_0_107,21_3_1878,Retired Vice-Admiral
+455,p_0_108,5_5_1821,Entered Navy
+456,p_0_108,15_8_1831,Lieutenant
+457,p_0_108,10_5_1839,Commander
+458,p_0_108,9_11_1846,Captain
+459,p_0_108,28_10_1864,Retired Rear-Admiral
+460,p_0_108,14_7_1871,Retired Vice-Admiral
+461,p_0_109,28_11_1863,Lieutenant
+462,p_0_109,1_9_1874,Commander
+463,p_0_109,30_6_1882,Captain
+464,p_0_109,10_5_1897,Rear-Admiral
+465,p_0_110,8_7_1848,Entered Navy
+466,p_0_110,22_9_1855,Lieutenant
+467,p_0_110,9_11_1863,Commander
+468,p_0_110,4_4_1870,Captain
+469,p_0_110,1_1_1887,Rear-Admiral
+470,p_0_110,25_7_1892,Vice-Admiral
+471,p_0_110,10_3_1894,Retired Vice-Admiral
+472,p_0_110,19_3_1898,Retired Admiral
+473,p_0_111,9_11_1846,Lieutenant
+474,p_0_111,21_11_1859,Commander
+475,p_0_111,11_4_1866,Captain
+476,p_0_111,9_1_1873,Retired Captain
+477,p_0_111,8_1_1883,Retired Rear-Admiral
+478,p_0_111,15_12_1888,Retired Vice-Admiral
+479,p_0_112,13_12_1821,Lieutenant
+480,p_0_112,11_2_1829,Commander
+481,p_0_112,23_11_1841,Captain
+482,p_0_112,12_4_1862,Retired Rear-Admiral
+483,p_0_112,24_5_1867,Retired Vice-Admiral
+484,p_0_112,30_7_1875,Retired Admiral
+485,p_0_113,4_6_1846,Entered Navy
+486,p_0_113,13_11_1854,Lieutenant
+487,p_0_113,11_4_1866,Commander
+488,p_0_113,11_4_1881,Retired Captain
+489,p_0_114,7_1800,Entered Navy
+490,p_0_114,26_8_1808,Lieutenant
+491,p_0_114,9_9_1822,Commander
+492,p_0_114,12_9_1827,Captain
+493,p_0_115,12_10_1831,Entered Navy
+494,p_0_115,10_5_1839,Lieutenant
+495,p_0_115,7_3_1842,Commander
+496,p_0_115,1_1_1863,Captain
+497,p_0_115,31_12_1878,Retired Rear-Admiral
+498,p_0_115,30_10_1884,Retired Vice-Admiral
+499,p_0_116,27_10_1847,Lieutenant
+500,p_0_116,13_11_1854,Commander
+501,p_0_116,31_1_1861,Captain
+502,p_0_117,1852,Entered Navy
+503,p_0_117,19_5_1859,Lieutenant
+504,p_0_117,26_6_1866,Commander
+505,p_0_117,29_5_1872,Captain
+506,p_0_117,19_6_1888,Rear-Admiral
+507,p_0_117,5_11_1894,Vice-Admiral
+508,p_0_117,26_10_1899,Admiral
+509,p_0_117,21_1_1903,Retired Admiral
+510,p_0_118,5_1803,Entered Navy
+511,p_0_118,7_2_1815,Lieutenant
+512,p_0_118,17_1_1845,Commander
+513,p_0_119,9_9_1796,Entered Navy
+514,p_0_119,30_8_1803,Lieutenant
+515,p_0_119,22_1_1806,Commander
+516,p_0_119,13_10_1807,Captain
+517,p_0_119,23_11_1841,Rear-Admiral
+518,p_0_119,8_3_1852,Vice-Admiral
+519,p_0_119,28_11_1857,Admiral
+520,p_0_119,15_1_1869,Admiral of the Fleet
+521,p_0_120,2_12_1830,Entered Navy
+522,p_0_120,19_4_1840,Lieutenant
+523,p_0_120,27_9_1851,Commander
+524,p_0_120,10_5_1856,Captain
+525,p_0_121,14_4_1855,Lieutenant
+526,p_0_121,6_8_1860,Commander
+527,p_0_121,11_4_1866,Captain
+528,p_0_121,17_2_1884,Retired Rear-Admiral
+529,p_0_122,1_7_1798,Entered Navy
+530,p_0_122,8_1_1807,Lieutenant
+531,p_0_122,1_3_1815,Commander
+532,p_0_122,23_6_1823,Captain
+533,p_0_122,5_3_1853,Rear-Admiral
+534,p_0_123,29_12_1827,Entered Navy
+535,p_0_123,4_11_1840,Lieutenant
+536,p_0_124,28_9_1825,Entered Navy
+537,p_0_124,23_11_1841,Lieutenant
+538,p_0_124,12_7_1850,Commander
+539,p_0_124,10_5_1856,Captain
+540,p_0_125,1_5_1796,Entered Navy
+541,p_0_125,14_1_1803,Lieutenant
+542,p_0_125,11_5_1815,Commander
+543,p_0_125,23_12_1842,Captain
+544,p_0_126,4_9_1823,Entered Navy
+545,p_0_126,5_10_1830,Lieutenant
+546,p_0_126,7_2_1842,Commander
+547,p_0_126,8_8_1857,Captain
+548,p_0_126,20_4_1875,Retired Rear-Admiral
+549,p_0_126,2_8_1879,Retired Vice-Admiral
+550,p_0_127,20_4_1855,Lieutenant
+551,p_0_127,16_12_1865,Commander
+552,p_0_127,6_9_1878,Retired Captain
+553,p_0_128,20_9_1843,Lieutenant
+554,p_0_128,1_4_1870,Retired Commander
+555,p_0_129,13_8_1845,Lieutenant
+556,p_0_130,9_2_1846,Lieutenant
+557,p_0_130,14_5_1853,Commander
+558,p_0_130,17_10_1857,Captain
+559,p_0_130,30_7_1875,Rear-Admiral
+560,p_0_130,9_1_1880,Vice-Admiral
+561,p_0_130,1_6_1885,Admiral
+562,p_0_130,1_7_1885,Retired Admiral
+563,p_0_131,10_3_1806,Entered Navy
+564,p_0_131,18_2_1815,Lieutenant
+565,p_0_132,5_3_1805,Entered Navy
+566,p_0_132,5_2_1813,Lieutenant
+567,p_0_132,28_9_1824,Commander
+568,p_0_132,14_8_1827,Captain
+569,p_0_133,15_3_1865,Lieutenant
+570,p_0_133,18_3_1876,Commander
+571,p_0_133,8_4_1881,Captain
+572,p_0_133,10_10_1896,Rear-Admiral
+573,p_0_133,7_12_1901,Vice-Admiral
+574,p_0_134,25_2_1852,Lieutenant
+575,p_0_134,16_4_1862,Commander
+576,p_0_134,3_4_1868,Captain
+577,p_0_135,7_2_1826,Entered Navy
+578,p_0_135,8_11_1841,Lieutenant
+579,p_0_136,23_12_1845,Lieutenant
+580,p_0_136,5_2_1858,Commander
+581,p_0_136,9_5_1863,Captain
+582,p_0_136,31_12_1878,Rear-Admiral
+583,p_0_136,30_10_1884,Vice-Admiral
+584,p_0_136,14_7_1889,Admiral
+585,p_0_136,1890,Retired Admiral
+586,p_0_137,1794,Entered Navy
+587,p_0_137,3_8_1805,Lieutenant
+588,p_0_137,13_10_1807,Commander
+589,p_0_137,7_6_1814,Captain
+590,p_0_137,15_9_1849,Rear-Admiral
+591,p_0_138,1848,Entered Navy
+592,p_0_138,5_1_1856,Lieutenant
+593,p_0_138,3_6_1866,Commander
+594,p_0_138,27_4_1875,Captain
+595,p_0_138,21_8_1889,Retired Captain
+596,p_0_138,1896,Retired Rear-Admiral
+597,p_0_139,19_4_1854,Lieutenant
+598,p_0_139,16_4_1862,Commander
+599,p_0_140,23_11_1841,Lieutenant
+600,p_0_141,3_12_1852,Lieutenant
+601,p_0_141,25_3_1863,Commander
+602,p_0_142,9_12_1845,Lieutenant
+603,p_0_142,9_7_1861,Commander
+604,p_0_142,1_4_1870,Retired Commander
+605,p_0_142,9_7_1876,Retired Captain
+606,p_0_143,27_11_1854,Lieutenant
+607,p_0_143,24_6_1862,Commander
+608,p_0_143,16_10_1868,Captain
+609,p_0_143,1_1_1886,Rear-Admiral
+610,p_0_143,28_12_1891,Vice-Admiral
+611,p_0_143,5_11_1894,Retired Vice-Admiral
+612,p_0_143,23_8_1897,Retired Admiral
+613,p_0_144,11_1819,Entered Navy
+614,p_0_144,11_8_1827,Lieutenant
+615,p_0_144,11_1_1837,Commander
+616,p_0_144,9_11_1846,Captain
+617,p_0_145,31_3_1845,Entered Navy
+618,p_0_145,30_1_1861,Commander
+619,p_0_145,4_4_1870,Captain
+620,p_0_145,26_9_1876,Retired Captain
+621,p_0_145,1_1_1887,Retired Rear-Admiral
+622,p_0_146,6_4_1820,Entered Navy
+623,p_0_146,30_4_1827,Lieutenant
+624,p_0_146,22_2_1841,Commander
+625,p_0_146,27_6_1846,Captain
+626,p_0_146,9_2_1864,Retired Rear-Admiral
+627,p_0_146,14_7_1871,Retired Vice-Admiral
+628,p_0_146,1_8_1877,Retired Admiral
+629,p_0_147,25_11_1854,Lieutenant
+630,p_0_147,13_12_1859,Commander
+631,p_0_148,9_2_1815,Entered Navy
+632,p_0_148,12_5_1827,Lieutenant
+633,p_0_148,7_3_1842,Commander
+634,p_0_148,30_11_1850,Captain
+635,p_0_148,20_3_1867,Retired Rear-Admiral
+636,p_0_149,16_8_1825,Entered Navy
+637,p_0_149,29_6_1833,Lieutenant
+638,p_0_149,4_11_1840,Commander
+639,p_0_149,18_12_1845,Captain
+640,p_0_149,3_12_1863,Retired Rear-Admiral
+641,p_0_149,1_4_1870,Retired Vice-Admiral
+642,p_0_149,22_1_1877,Retired Admiral
+643,p_0_150,1835,Entered Navy
+644,p_0_150,1_9_1845,Lieutenant
+645,p_0_150,10_5_1856,Commander
+646,p_0_150,10_5_1871,Retired Captain
+647,p_0_151,26_11_1859,Lieutenant
+648,p_0_151,16_8_1869,Commander
+649,p_0_151,14_8_1878,Captain
+650,p_0_152,5_11_1855,Lieutenant
+651,p_0_152,12_12_1863,Commander
+652,p_0_153,11_6_1852,Lieutenant
+653,p_0_153,9_1_1856,Commander
+654,p_0_153,15_4_1862,Captain
+655,p_0_154,11_1817,Entered Navy
+656,p_0_154,8_4_1825,Lieutenant
+657,p_0_154,20_2_1830,Commander
+658,p_0_154,22_11_1832,Captain
+659,p_0_155,1_11_1815,Lieutenant
+660,p_0_155,23_3_1835,Commander
+661,p_0_156,3_6_1819,Entered Navy
+662,p_0_156,17_4_1827,Lieutenant
+663,p_0_156,11_8_1841,Commander
+664,p_0_157,3_10_1820,Entered Royal Naval Colle
+665,p_0_157,20_10_1829,Lieutenant
+666,p_0_157,4_11_1840,Commander
+667,p_0_158,1849,Entered Navy
+668,p_0_158,27_5_1857,Lieutenant
+669,p_0_158,16_9_1862,Commander
+670,p_0_158,4_12_1868,Captain
+671,p_0_158,1_10_1873,Retired Captain
+672,p_0_158,9_3_1886,Retired Rear-Admiral
+673,p_0_159,1_3_1820,Entered Navy
+674,p_0_159,15_3_1828,Lieutenant
+675,p_0_159,23_11_1841,Commander
+676,p_0_160,28_2_1854,Lieutenant
+677,p_0_160,11_9_1860,Commander
+678,p_0_160,11_4_1866,Captain
+679,p_0_161,9_11_1855,Mate
+680,p_0_161,17_12_1857,Lieutenant
+681,p_0_161,9_4_1866,Commander
+682,p_0_161,18_9_1873,Captain
+683,p_0_162,1803,Entered Navy
+684,p_0_162,5_1_1810,Lieutenant
+685,p_0_162,27_5_1814,Commander
+686,p_0_162,16_11_1821,Captain
+687,p_0_162,30_7_1852,Rear-Admiral
+688,p_0_162,2_10_1857,Vice-Admiral
+689,p_0_162,27_4_1863,Admiral
+690,p_0_163,9_1859,Entered Navy
+691,p_0_163,13_2_1866,Lieutenant
+692,p_0_163,1_10_1874,Commander
+693,p_0_163,29_6_1883,Captain
+694,p_0_163,7_6_1894,Rear Admiral
+695,p_0_164,5_3_1852,Lieutenant
+696,p_0_164,3_4_1855,Commander
+697,p_0_164,15_4_1862,Captain
+698,p_0_164,1_10_1873,Retired Captain
+699,p_0_164,31_12_1877,Retired Rear-Admiral
+700,p_0_165,10_8_1859,Lieutenant
+701,p_0_165,26_5_1871,Commander
+702,p_0_166,12_4_1860,Mate
+703,p_0_166,22_5_1861,Lieutenant
+704,p_0_166,30_1_1873,Retired Commander
+705,p_0_167,6_12_1847,Lieutenant
+706,p_0_167,6_8_1860,Commander
+707,p_0_167,11_4_1866,Captain
+708,p_0_168,12_8_1852,Entered Navy
+709,p_0_168,28_6_1859,Lieutenant
+710,p_0_168,18_6_1866,Commander
+711,p_0_168,22_1_1877,Captain
+712,p_0_168,1_1_1892,Rear-Admiral
+713,p_0_169,8_1817,Entered Royal Naval College
+714,p_0_169,17_4_1827,Lieutenant
+715,p_0_169,4_5_1836,Commander
+716,p_0_169,6_11_1845,Captain
+717,p_0_169,14_11_1863,Rear-Admiral
+718,p_0_169,1_4_1870,Retired Vice-Admiral
+719,p_0_169,22_1_1877,Retired Admiral
+720,p_0_170,1845,Entered Navy
+721,p_0_170,11_1_1854,Lieutenant
+722,p_0_170,27_2_1856,Commander
+723,p_0_170,15_4_1862,Captain
+724,p_0_171,10_4_1855,Lieutenant
+725,p_0_171,10_6_1863,Commander
+726,p_0_171,10_12_1869,Captain
+727,p_0_171,1_1_1887,Rear-Admiral
+728,p_0_171,26_3_1892,Vice-Admiral
+729,p_0_171,11_12_1897,Admiral
+730,p_0_171,30_6_1899,Retired Admiral
+731,p_0_172,6_9_1852,Lieutenant
+732,p_0_173,1_1_1855,Lieutenant
+733,p_0_173,1_1_1863,Commander
+734,p_0_174,22_1_1812,Lieutenant
+735,p_0_174,26_8_1829,Commander
+736,p_0_174,28_6_1838,Captain
+737,p_0_174,2_10_1857,Rear-Admiral
+738,p_0_174,28_3_1864,Vice-Admiral
+739,p_0_174,11_11_1864,Retired Vice-Admiral
+740,p_0_174,10_9_1869,Retired Admiral
+741,p_0_175,13_11_1854,Lieutenant
+742,p_0_175,16_4_1862,Commander
+743,p_0_176,8_9_1828,Lieutenant
+744,p_0_176,22_11_1844,Commander
+745,p_0_177,28_6_1838,Lieutenant
+746,p_0_177,22_11_1848,Commander
+747,p_0_178,17_5_1849,Lieutenant
+748,p_0_178,9_8_1854,Commander
+749,p_0_179,11_11_1848,Lieutenant
+750,p_0_179,25_3_1863,Commander
+751,p_0_179,1_10_1873,Retired Captain
+752,p_0_180,9_1790,Entered Royal Naval Acade
+753,p_0_180,7_3_1797,Lieutenant
+754,p_0_180,22_10_1810,Commander
+755,p_0_180,20_9_1815,Captain
+756,p_0_180,1_10_1846,Retired Captain
+757,p_0_181,1847,Entered Navy
+758,p_0_181,11_1_1854,Lieutenant
+759,p_0_181,10_5_1856,Commander
+760,p_0_181,15_5_1861,Captain
+761,p_0_182,8_1856,Entered Navy
+762,p_0_182,9_11_1864,Lieutenant
+763,p_0_182,9_8_1877,Commander
+764,p_0_182,31_12_1883,Captain
+765,p_0_183,28_6_1838,Lieutenant
+766,p_0_183,9_11_1846,Commander
+767,p_0_183,13_11_1854,Captain
+768,p_0_184,6_1_1807,Entered Navy
+769,p_0_184,4_7_1814,Lieutenant
+770,p_0_184,24_12_1829,Commander
+771,p_0_184,10_12_1835,Captain
+772,p_0_185,2_9_1808,Entered Navy
+773,p_0_185,10_11_1824,Lieutenant
+774,p_0_185,28_6_1838,Commander
+775,p_0_185,9_11_1846,Captain
+776,p_0_185,16_9_1864,Retired Rear-Admiral
+777,p_0_186,15_12_1823,Entered Navy
+778,p_0_186,15_1_1838,Lieutenant
+779,p_0_186,23_8_1865,Retired Commander
+780,p_0_187,10_2_1792,Entered Navy
+781,p_0_187,20_2_1805,Lieutenant
+782,p_0_187,5_10_1814,Commander
+783,p_0_187,9_11_1846,Captain
+784,p_0_187,15_6_1864,Retired Rear-Admiral
+785,p_0_188,19_10_1849,Lieutenant
+786,p_0_188,31_1_1861,Commander
+787,p_0_189,13_11_1850,Lieutenant
+788,p_0_189,1_4_1861,Commander
+789,p_0_189,18_5_1870,Retired Captain
+790,p_0_190,14_7_1804,Entered Navy
+791,p_0_190,16_8_1811,Lieutenant
+792,p_0_190,26_12_1822,Commander
+793,p_0_190,3_7_1840,Captain
+794,p_0_191,27_3_1846,Lieutenant
+795,p_0_191,9_7_1854,Commander
+796,p_0_191,1_1_1869,Captain
+797,p_0_191,15_6_1870,Retired Captain
+798,p_0_192,20_6_1807,Entered Navy
+799,p_0_192,29_1_1822,Lieutenant
+800,p_0_192,1_10_1860,Retired Commander
+801,p_0_193,26_1_1855,Lieutenant
+802,p_0_194,28_3_1821,Entered Navy
+803,p_0_194,5_1_1830,Lieutenant
+804,p_0_194,7_3_1832,Commander
+805,p_0_194,23_11_1841,Captain
+806,p_0_195,5_2_1804,Entered Navy
+807,p_0_195,10_12_1808,Lieutenant
+808,p_0_195,9_11_1846,Commander
+809,p_0_196,6_1_1829,Lieutenant
+810,p_0_196,10_1_1837,Commander
+811,p_0_197,18_5_1827,Entered Navy
+812,p_0_197,17_11_1834,Lieutenant
+813,p_0_197,9_11_1846,Commander
+814,p_0_197,1_7_1864,Retired Captain
+815,p_0_198,3_1798,Entered Navy
+816,p_0_198,5_5_1804,Lieutenant
+817,p_0_198,12_12_1809,Commander
+818,p_0_198,9_3_1814,Captain
+819,p_0_198,1_10_1846,Retired Captain
+820,p_0_198,3_3_1849,Retired Rear-Admiral
+821,p_0_198,31_1_1856,Retired Vice-Admiral
+822,p_0_199,10_9_1846,Lieutenant
+823,p_0_199,10_5_1856,Commander
+824,p_0_199,15_5_1861,Captain
+825,p_0_200,11_1817,Entered Navy
+826,p_0_200,6_4_1825,Lieutenant
+827,p_0_200,20_9_1836,Commander
+828,p_0_201,1841,Entered Navy
+829,p_0_201,12_6_1849,Lieutenant
+830,p_0_201,10_5_1856,Commander
+831,p_0_201,15_5_1861,Captain
+832,p_0_201,5_8_1877,Retired Rear-Admiral
+833,p_1_0,12_8_1824,Entered Navy
+834,p_1_0,28_6_1838,Lieutenant
+835,p_1_0,7_3_1842,Commander
+836,p_1_0,11_10_1847,Captain
+837,p_1_0,2_12_1865,Retired Rear-Admiral
+838,p_1_0,2_11_1871,Retired Vice-Admiral
+839,p_1_0,1_8_1877,Retired Admiral
+840,p_1_1,22_4_1828,Entered Navy
+841,p_1_1,26_11_1841,Lieutenant
+842,p_1_1,23_12_1847,Commander
+843,p_1_1,12_8_1853,Captain
+844,p_1_2,13_2_1853,Mate
+845,p_1_2,13_11_1854,Lieutenant
+846,p_1_2,11_9_1865,Commander
+847,p_1_3,13_11_1806,Entered Navy
+848,p_1_3,25_2_1815,Lieutenant
+849,p_1_3,1_1_1829,Commander
+850,p_1_3,1851,Retired Captain
+851,p_1_4,1844,Entered Navy
+852,p_1_4,25_5_1852,Lieutenant
+853,p_1_4,26_2_1858,Commander
+854,p_1_4,25_3_1863,Captain
+855,p_1_5,24_1_1838,Lieutenant
+856,p_1_5,9_11_1846,Commander
+857,p_1_5,10_6_1853,Captain
+858,p_1_6,1829,Entered Navy
+859,p_1_6,11_5_1837,Lieutenant
+860,p_1_6,27_4_1846,Commander
+861,p_1_6,13_9_1854,Captain
+862,p_1_6,1_4_1870,Rear-Admiral
+863,p_1_7,4_3_1858,Lieutenant
+864,p_1_7,19_7_1866,Commander
+865,p_1_7,18??,Captain
+866,p_1_8,25_5_1852,Lieutenant
+867,p_1_8,1_4_1858,Commander
+868,p_1_9,1_6_1799,Entered Navy
+869,p_1_9,17_6_1807,Lieutenant
+870,p_1_9,28_11_1820,Commander
+871,p_1_9,22_10_1827,Captain
+872,p_1_10,1848,Entered Navy
+873,p_1_10,23_10_1849,Lieutenant
+874,p_1_10,7_12_1855,Commander
+875,p_1_10,19_9_1865,Captain
+876,p_1_10,1_4_1870,Retired Captain
+877,p_1_10,30_12_1878,Retired Rear-Admiral
+878,p_1_11,10_11_1816,Entered Navy
+879,p_1_11,1_7_1823,Lieutenant
+880,p_1_11,28_6_1838,Commander
+881,p_1_11,9_11_1846,Captain
+882,p_1_11,16_9_1864,Retired Rear-Admiral
+883,p_1_11,14_7_1871,Retired Vice-Admiral
+884,p_1_11,1_8_1877,Retired Admiral
+885,p_1_12,6_12_1822,Entered Navy
+886,p_1_12,14_10_1832,Lieutenant
+887,p_1_12,3_11_1842,Commander
+888,p_1_13,22_6_1832,Entered Navy
+889,p_1_13,8_6_1841,Lieutenant
+890,p_1_13,9_11_1846,Commander
+891,p_1_14,1842,Entered Navy
+892,p_1_14,2_6_1851,Lieutenant
+893,p_1_14,9_7_1861,Commander
+894,p_1_14,16_12_1870,Captain
+895,p_1_14,1_8_1873,Retired Captain
+896,p_1_15,21_4_1832,Lieutenant
+897,p_1_15,28_6_1838,Commander
+898,p_1_15,10_6_1845,Captain
+899,p_1_15,27_4_1863,Rear-Admiral
+900,p_1_15,21_1_1870,Vice-Admiral
+901,p_1_15,1873,Retired Vice-Admiral
+902,p_1_15,18_6_1876,Retired Admiral
+903,p_1_16,15_10_1813,Entered Navy
+904,p_1_16,10_8_1824,Lieutenant
+905,p_1_16,30_4_1827,Commander
+906,p_1_16,2_7_1846,Captain
+907,p_1_17,1847,Entered Navy
+908,p_1_17,22_9_1854,Lieutenant
+909,p_1_17,16_6_1859,Commander
+910,p_1_17,11_4_1866,Captain
+911,p_1_17,29_12_1882,Rear-Admiral
+912,p_1_17,8_11_1888,Vice-Admiral
+913,p_1_17,28_5_1894,Admiral
+914,p_1_17,11_3_1896,Retired Admiral
+915,p_1_18,10_1852,Entered Navy
+916,p_1_18,11_2_1860,Lieutenant
+917,p_1_18,29_12_1871,Commander
+918,p_1_18,31_10_1879,Captain
+919,p_1_18,6_7_1889,Retired Rear Admiral
+920,p_1_18,1_1_1901,Retired Vice Admiral
+921,p_1_18,16_6_1904,Retired Admiral
+922,p_1_19,26_3_1811,Entered Navy
+923,p_1_19,12_9_1821,Lieutenant
+924,p_1_19,9_11_1846,Commander
+925,p_1_20,20_5_1802,Entered Navy
+926,p_1_20,9_2_1815,Lieutenant
+927,p_1_21,1844,Entered Navy
+928,p_1_21,2_10_1850,Mate
+929,p_1_21,22_10_1853,Lieutenant
+930,p_1_21,24_6_1862,Commander
+931,p_1_21,1_6_1869,Captain
+932,p_1_21,9_3_1886,Retired Rear-Admiral
+933,p_1_22,18_4_1806,Lieutenant
+934,p_1_22,14_7_1815,Commander
+935,p_1_22,25_4_1831,Captain
+936,p_1_22,31_1_1856,Rear-Admiral
+937,p_1_22,6_2_1863,Vice-Admiral
+938,p_1_22,20_11_1866,Retired Admiral
+939,p_1_23,10_8_1820,Entered Navy
+940,p_1_23,13_12_1830,Lieutenant
+941,p_1_23,10_12_1835,Commander
+942,p_1_23,1_4_1856,Retired Captain
+943,p_1_24,1843,Entered Navy
+944,p_1_24,19_8_1850,Lieutenant
+945,p_1_24,17_9_1858,Commander
+946,p_1_24,11_4_1866,Captain
+947,p_1_24,30_12_1882,Rear-Admiral
+948,p_1_24,27_12_1886,Retired Rear-Admiral
+949,p_1_24,18_11_1888,Retired Vice-Admiral
+950,p_1_24,28_5_1894,Retired Admiral
+951,p_1_25,1848,Lieutenant
+952,p_1_25,29_9_1855,Commander
+953,p_1_25,5_3_1863,Captain
+954,p_1_25,30_12_1878,Retired Rear-Admiral
+955,p_1_25,30_10_1884,Retired Vice-Admiral
+956,p_1_26,3_2_1855,Lieutenant
+957,p_1_27,4_5_1846,Lieutenant
+958,p_1_27,15_5_1861,Commander
+959,p_1_28,8_1832,Entered Navy
+960,p_1_28,14_6_1841,Lieutenant
+961,p_1_28,30_1_1845,Commander
+962,p_1_28,5_6_1848,Captain
+963,p_1_28,2_4_1866,Rear-Admiral
+964,p_1_28,20_10_1872,Vice-Admiral
+965,p_1_28,16_9_1877,Admiral
+966,p_1_28,27_10_1884,Retired Admiral
+967,p_1_29,25_10_1800,Entered Royal Naval Colle
+968,p_1_29,5_11_1806,Lieutenant
+969,p_1_29,28_5_1813,Commander
+970,p_1_29,25_7_1825,Captain
+971,p_1_29,12_1_1854,Rear-Admiral
+972,p_1_29,24_11_1858,Vice-Admiral
+973,p_1_29,3_12_1863,Admiral
+974,p_1_30,10_12_1852,Lieutenant
+975,p_1_30,26_1_1855,Commander
+976,p_1_30,23_1_1869,Retired Commander
+977,p_1_30,26_1_1870,Retired Captain
+978,p_1_31,13_11_1854,Lieutenant
+979,p_1_31,11_9_1865,Commander
+980,p_1_31,1_10_1873,Retired Captain
+981,p_1_32,5_8_1827,Entered Navy
+982,p_1_32,15_11_1834,Lieutenant
+983,p_1_32,24_3_1845,Commander
+984,p_1_32,6_4_1853,Captain
+985,p_1_32,17_3_1869,Retired Rear-Admiral
+986,p_1_32,30_7_1875,Retired Vice-Admiral
+987,p_1_32,2_8_1879,Retired Admiral
+988,p_1_33,4_11_1840,Lieutenant
+989,p_1_33,22_10_1844,Commander
+990,p_1_33,21_2_1856,Captain
+991,p_1_33,19_1_1874,Rear-Admiral
+992,p_1_34,15_1_1850,Lieutenant
+993,p_1_34,20_8_1854,Commander
+994,p_1_35,1800,Lieutenant
+995,p_1_35,6_6_1804,Commander
+996,p_1_35,12_8_1812,Captain
+997,p_1_36,29_8_1823,Entered Navy
+998,p_1_36,16_12_1829,Lieutenant
+999,p_1_36,8_10_1841,Commander
+1000,p_1_36,9_11_1846,Captain
+1001,p_1_37,2_11_1841,Entered Navy
+1002,p_1_37,11_11_1848,Lieutenant
+1003,p_1_37,17_6_1859,Commander
+1004,p_1_37,11_4_1866,Captain
+1005,p_1_37,1_1_1881,Retired Captain
+1006,p_1_37,31_12_1882,Retired Rear-Admiral
+1007,p_1_37,15_12_1888,Retired Vice-Admiral
+1008,p_1_38,7_6_1827,Entered Navy
+1009,p_1_38,19_1_1838,Lieutenant
+1010,p_1_38,5_11_1840,Commander
+1011,p_1_38,1_1_1855,Captain
+1012,p_1_39,1846,Entered Navy
+1013,p_1_39,6_3_1854,Lieutenant
+1014,p_1_39,16_4_1862,Commander
+1015,p_1_39,16_4_1868,Captain
+1016,p_1_39,1_1_1886,Rear-Admiral
+1017,p_1_39,27_8_1891,Retired Rear-Admiral
+1018,p_1_39,16_9_1891,Retired Vice-Admiral
+1019,p_1_39,23_8_1897,Retired Admiral
+1020,p_1_40,11_12_1850,Lieutenant
+1021,p_1_41,2_10_1850,Lieutenant
+1022,p_1_41,4_1_1864,Commander
+1023,p_1_41,1_10_1873,Retired Captain
+1024,p_1_42,1841,Entered Navy
+1025,p_1_42,8_3_1849,Lieutenant
+1026,p_1_42,9_8_1858,Commander
+1027,p_1_42,9_3_1863,Captain
+1028,p_1_42,31_12_1878,Retired Rear-Admiral
+1029,p_1_42,30_10_1884,Retired Vice-Admiral
+1030,p_1_42,1889,Retired Admiral
+1031,p_1_43,13_4_1810,Entered Navy
+1032,p_1_43,9_9_1820,Lieutenant
+1033,p_1_43,22_10_1827,Commander
+1034,p_1_43,23_11_1841,Captain
+1035,p_1_44,16_4_1861,Lieutenant
+1036,p_1_44,8_12_1868,Commander
+1037,p_1_44,7_1_1878,Captain
+1038,p_1_44,1_1_1893,Rear-Admiral
+1039,p_1_44,30_6_1899,Vice-Admiral
+1040,p_1_44,11_7_1899,Retired Vice-Admiral
+1041,p_1_46,5_1_1856,Lieutenant
+1042,p_1_47,28_2_1810,Entered Navy
+1043,p_1_47,4_2_1821,Lieutenant
+1044,p_1_47,4_11_1840,Commander
+1045,p_1_47,23_12_1847,Captain
+1046,p_1_47,2_12_1865,Retired Rear-Admiral
+1047,p_1_48,2_1827,Entered Royal Naval Colle
+1048,p_1_48,12_11_1834,Lieutenant
+1049,p_1_48,3_6_1840,Commander
+1050,p_1_49,24_6_1781,Entered navy
+1051,p_1_49,6_7_1797,Lieutenant
+1052,p_1_49,22_10_1805,Commander
+1053,p_1_49,4_2_1808,Captain
+1054,p_1_50,1_5_1847,Lieutenant
+1055,p_1_50,3_6_1865,Commander
+1056,p_1_51,12_1852,Entered Navy
+1057,p_1_51,18_7_1859,Lieutenant
+1058,p_1_51,4_4_1870,Commander
+1059,p_1_51,27_2_1879,Captain
+1060,p_1_51,10_3_1894,Rear-Admiral
+1061,p_1_51,19_7_1899,Retired Rear-Admiral
+1062,p_1_51,1_1_1901,Retired Vice-Admiral
+1063,p_1_52,24_2_1829,Entered Navy
+1064,p_1_52,7_5_1838,Lieutenant
+1065,p_1_52,7_3_1842,Commander
+1066,p_1_52,18_8_1847,Captain
+1067,p_1_52,12_9_1865,Rear-Admiral
+1068,p_1_52,1_10_1871,Vice-Admiral
+1069,p_1_52,1872,Retired Vice-Admiral
+1070,p_1_52,1_8_1877,Retired Admiral
+1071,p_1_53,30_5_1850,Lieutenant
+1072,p_1_53,29_8_1854,Commander
+1073,p_1_53,9_7_1861,Captain
+1074,p_1_54,10_12_1852,Lieutenant
+1075,p_1_55,17_8_1860,Midshipman
+1076,p_1_55,19_10_1864,Sub-Lieutenant
+1077,p_1_55,21_1_1867,Lieutenant
+1078,p_1_55,23_6_1880,Commander
+1079,p_1_55,1_3_1886,Captain
+1080,p_1_55,3_1_1895,Retired Captain
+1081,p_1_55,10_8_1900,Retired Rear-Admiral
+1082,p_1_56,1833,Entered Navy
+1083,p_1_56,27_8_1844,Lieutenant
+1084,p_1_56,21_2_1851,Commander
+1085,p_1_56,2_5_1857,Captain
+1086,p_1_56,6_1874,Retired Captain
+1087,p_1_56,20_4_1875,Retired Rear Admiral
+1088,p_1_56,2_8_1879,Retired Vice Admiral
+1089,p_1_57,4_1839,Entered Navy
+1090,p_1_57,12_4_1845,Lieutenant
+1091,p_1_57,12_4_1851,Commander
+1092,p_1_57,29_8_1854,Captain
+1093,p_1_57,1_4_1870,Rear-Admiral
+1094,p_1_57,12_11_1876,Vice-Admiral
+1095,p_1_57,1_12_1881,Admiral
+1096,p_1_57,22_6_1886,Retired Admiral
+1097,p_1_58,29_8_1854,Lieutenant
+1098,p_1_58,6_8_1860,Commander
+1099,p_1_59,1_12_1829,Entered Navy
+1100,p_1_59,5_11_1840,Lieutenant
+1101,p_1_59,24_4_1846,Commander
+1102,p_1_59,7_4_1850,Captain
+1103,p_1_59,6_4_1866,Rear-Admiral
+1104,p_1_60,23_9_1844,Lieutenant
+1105,p_1_60,8_1_1855,Commander
+1106,p_1_60,11_10_1867,Captain
+1107,p_1_60,1_4_1870,Retired Captain
+1108,p_1_61,11_9_1820,Entered Navy
+1109,p_1_61,8_1_1836,Lieutenant
+1110,p_1_61,11_11_1844,Commander
+1111,p_1_61,1_5_1851,Captain
+1112,p_1_61,24_5_1867,Retired Rear-Admiral
+1113,p_1_62,31_10_1855,Lieutenant
+1114,p_1_62,29_7_1864,Commander
+1115,p_1_62,1_6_1869,Captain
+1116,p_1_62,12_4_1886,Rear-Admiral
+1117,p_1_63,21_2_1823,Entered Navy
+1118,p_1_63,12_6_1829,Lieutenant
+1119,p_1_63,20_10_1831,Commander
+1120,p_1_63,20_1_1836,Captain
+1121,p_1_63,19_3_1857,Rear-Admiral
+1122,p_1_63,24_9_1863,Vice-Admiral
+1123,p_1_63,18_10_1867,Admiral
+1124,p_1_63,22_1_1877,Admiral of the Fleet
+1125,p_1_64,1_10_1805,Entered Navy
+1126,p_1_64,20_7_1814,Lieutenant
+1127,p_1_64,19_9_1829,Commander
+1128,p_1_64,23_11_1841,Captain
+1129,p_1_64,12_4_1862,Retired Rear-Admiral
+1130,p_1_64,24_5_1867,Retired Vice-Admiral
+1131,p_1_64,30_7_1875,Retired Admiral
+1132,p_1_65,18_5_1807,Entered Navy
+1133,p_1_65,18_4_1814,Lieutenant
+1134,p_1_65,2_9_1843,Commander
+1135,p_1_66,9_1_1846,Lieutenant
+1136,p_1_66,13_11_1854,Commander
+1137,p_1_66,27_2_1856,Captain
+1138,p_1_67,2_1796,Entered Navy
+1139,p_1_67,17_6_1808,Lieutenant
+1140,p_1_67,25_7_1810,Commander
+1141,p_1_67,18_11_1814,Captain
+1142,p_1_67,1_10_1850,Rear-Admiral
+1143,p_1_67,18_6_1857,Vice-Admiral
+1144,p_1_67,27_11_1857,Retired Vice-Admiral
+1145,p_1_67,4_10_1862,Retired Admiral
+1146,p_1_68,3_4_1807,Entered Navy
+1147,p_1_68,28_2_1815,Lieutenant
+1148,p_1_68,1_5_1845,Commander
+1149,p_1_68,21_11_1857,Retired Captain
+1150,p_1_69,11_4_1803,Lieutenant
+1151,p_1_69,25_1_1805,Commander
+1152,p_1_69,13_12_1808,Captain
+1153,p_1_69,9_11_1846,Rear-Admiral
+1154,p_1_70,2_12_1823,Entered Navy
+1155,p_1_70,23_3_1835,Lieutenant
+1156,p_1_70,18_6_1841,Commander
+1157,p_1_70,23_12_1842,Captain
+1158,p_1_70,10_11_1862,Rear-Admiral
+1159,p_1_70,17_3_1869,Vice-Admiral
+1160,p_1_70,1871,Retired Vice-Admiral
+1161,p_1_70,30_7_1875,Retired Admiral
+1162,p_1_71,2_10_1850,Lieutenant
+1163,p_1_72,1846,Entered Navy
+1164,p_1_72,6_2_1855,Lieutenant
+1165,p_1_72,12_12_1863,Commander
+1166,p_1_72,4_4_1870,Captain
+1167,p_1_72,1_6_1886,Retired Captain
+1168,p_1_72,6_4_1887,Retired Rear-Admiral
+1169,p_1_72,9_8_1892,Retired Vice-Admiral
+1170,p_1_73,14_10_1847,Lieutenant
+1171,p_1_73,3_2_1855,Commander
+1172,p_1_74,26_6_1848,Lieutenant
+1173,p_1_74,11_3_1857,Commander
+1174,p_1_74,1_6_1869,Captain
+1175,p_1_74,15_6_1870,Retired Captain
+1176,p_1_75,19_2_1842,Entered Navy
+1177,p_1_75,13_12_1848,Lieutenant
+1178,p_1_75,29_9_1855,Commander
+1179,p_1_75,18_7_1859,Captain
+1180,p_1_75,12_11_1876,Rear-Admiral
+1181,p_1_75,19_1_1881,Vice-Admiral
+1182,p_1_75,12_4_1886,Admiral
+1183,p_1_75,14_2_1892,Admiral of the Fleet
+1184,p_1_75,13_2_1899,Retired Admiral of the Fleet
+1185,p_1_76,6_6_1831,Entered Navy
+1186,p_1_76,16_12_1839,Lieutenant
+1187,p_1_76,19_8_1842,Commander
+1188,p_1_76,22_10_1853,Captain
+1189,p_1_76,30_3_1866,Retired Captain
+1190,p_1_77,7_12_1832,Entered Navy
+1191,p_1_77,28_1_1842,Lieutenant
+1192,p_1_77,3_5_1853,Commander
+1193,p_1_77,5_2_1858,Captain
+1194,p_1_77,21_12_1871,Retired Captain
+1195,p_1_78,14_8_1845,Lieutenant
+1196,p_1_78,10_5_1856,Commander
+1197,p_1_78,23_6_1862,Captain
+1198,p_1_79,8_6_1841,Lieutenant
+1199,p_1_79,18_12_1852,Commander
+1200,p_1_80,25_5_1857,Lieutenant
+1201,p_1_80,4_8_1868,Commander
+1202,p_1_80,8_2_1884,Retired Captain
+1203,p_1_81,18_8_1833,Entered Navy
+1204,p_1_81,25_9_1843,Lieutenant
+1205,p_1_81,23_6_1847,Commander
+1206,p_1_81,29_4_1854,Captain
+1207,p_1_81,1_4_1870,Rear-Admiral
+1208,p_1_81,18_6_1876,Vice-Admiral
+1209,p_1_81,3_1_1881,Admiral
+1210,p_1_81,1_6_1885,Retired Admiral
+1211,p_1_82,1835,Entered Navy
+1212,p_1_82,4_5_1846,Lieutenant
+1213,p_1_82,20_2_1852,Commander
+1214,p_1_82,10_8_1857,Captain
+1215,p_1_82,20_4_1875,Rear-Admiral
+1216,p_1_82,2_8_1879,Vice-Admiral
+1217,p_1_82,7_4_1885,Admiral
+1218,p_1_82,15_7_1887,Retired Admiral
+1219,p_1_83,23_1_1802,Lieutenant
+1220,p_1_83,15_6_1814,Commander
+1221,p_1_84,30_11_1848,Lieutenant
+1222,p_1_84,20_4_1857,Commander
+1223,p_1_85,1_8_1805,Entered Navy
+1224,p_1_85,28_4_1812,Lieutenant
+1225,p_1_85,13_6_1815,Commander
+1226,p_1_85,23_7_1821,Captain
+1227,p_1_85,8_3_1852,Rear-Admiral
+1228,p_1_86,3_6_1856,Lieutenant
+1229,p_1_86,23_6_1859,Commander
+1230,p_1_86,11_4_1866,Captain
+1231,p_1_86,18_4_1872,Retired Captain
+1232,p_1_86,31_12_1882,Retired Rear-Admiral
+1233,p_1_86,15_12_1888,Retired Vice-Admiral
+1234,p_1_87,21_12_1806,Entered Navy
+1235,p_1_87,4_3_1815,Lieutenant
+1236,p_1_87,20_2_1836,Commander
+1237,p_1_87,1_8_1840,Captain
+1238,p_1_87,24_11_1858,Retired Rear-Admiral
+1239,p_1_88,7_11_1822,Entered Navy
+1240,p_1_88,22_9_1835,Lieutenant
+1241,p_1_88,8_10_1841,Commander
+1242,p_1_89,18_2_1858,Lieutenant
+1243,p_1_89,30_4_1861,Commander
+1244,p_1_89,1_4_1870,Retired Captain
+1245,p_1_90,26_9_1805,Entered Navy
+1246,p_1_90,19_7_1813,Lieutenant
+1247,p_1_90,26_12_1823,Commander
+1248,p_1_90,14_4_1828,Captain
+1249,p_1_91,1833,Entered Navy
+1250,p_1_91,30_11_1844,Lieutenant
+1251,p_1_91,13_11_1854,Commander
+1252,p_1_91,28_6_1859,Captain
+1253,p_1_92,4_6_1830,Entered Navy
+1254,p_1_92,26_8_1841,Lieutenant
+1255,p_1_92,12_10_1846,Commander
+1256,p_1_92,20_11_1854,Captain
+1257,p_1_93,10_10_1809,Entered Navy
+1258,p_1_93,19_5_1828,Lieutenant
+1259,p_1_93,18_4_1842,Commander
+1260,p_1_93,22_11_1856,Retired Captain
+1261,p_1_94,5_8_1848,Lieutenant
+1262,p_1_94,10_5_1856,Commander
+1263,p_1_94,15_7_1862,Captain
+1264,p_1_95,16_6_1825,Entered Navy
+1265,p_1_95,9_10_1840,Lieutenant
+1266,p_1_95,29_9_1855,Commander
+1267,p_1_95,31_3_1866,Retired Commander
+1268,p_1_95,29_9_1870,Retired Captain
+1269,p_1_96,26_6_1836,Entered Navy
+1270,p_1_96,28_6_1843,Lieutenant
+1271,p_1_96,10_1_1854,Commander
+1272,p_1_96,10_5_1856,Captain
+1273,p_1_96,11_1_1874,Retired Rear-Admiral
+1274,p_1_97,1_8_1814,Entered Navy
+1275,p_1_97,22_9_1826,Lieutenant
+1276,p_1_97,23_12_1842,Commander
+1277,p_1_97,10_5_1856,Captain
+1278,p_1_98,8_8_1854,Lieutenant
+1279,p_1_99,10_1_1826,Lieutenant
+1280,p_1_99,12_2_1858,Retired Commander
+1281,p_1_100,10_9_1849,Lieutenant
+1282,p_1_100,21_10_1854,Commander
+1283,p_1_100,21_9_1858,Captain
+1284,p_1_101,9_11_1846,Lieutenant
+1285,p_1_101,14_9_1854,Commander
+1286,p_1_102,7_1818,Entered Navy
+1287,p_1_102,4_10_1825,Lieutenant
+1288,p_1_102,5_1_1844,Commander
+1289,p_1_102,21_10_1852,Captain
+1290,p_1_103,7_2_1812,Lieutenant
+1291,p_1_103,1_10_1853,Retired Commander
+1292,p_1_104,16_2_1828,Entered Navy
+1293,p_1_104,23_11_1841,Lieutenant
+1294,p_1_104,22_10_1853,Commander
+1295,p_1_104,10_5_1856,Captain
+1296,p_1_104,11_6_1874,Retired Rear-Admiral
+1297,p_1_104,1_2_1879,Retired Vice-Admiral
+1298,p_1_104,27_3_1885,Retired Admiral
+1299,p_1_105,6_11_1831,Entered Navy
+1300,p_1_105,7_1_1842,Lieutenant
 1315,p_1_105,20_7_1850,Commander
 1316,p_1_105,26_7_1856,Captain
 1317,p_1_105,1_4_1870,Retired Captain
@@ -1853,12 +1839,6 @@
 1851,p_1_222,15_6_1864,Rear-Admiral
 1852,p_1_222,1_4_1866,Retired Rear-Admiral
 1853,p_1_222,14_7_1871,Retired Vice-Admiral
-1854,p_1_223,24_2_1863,Lieutenant
-1855,p_1_223,23_2_1866,Captain (from Lieutenant)
-1856,p_1_223,28_12_1878,Rear-Admiral
-1857,p_1_223,30_11_1882,Vice-Admiral
-1858,p_1_223,18_10_1887,Admiral
-1859,p_1_223,3_6_1893,Admiral of the Fleet
 1860,p_1_224,5_9_1822,Entered Navy
 1861,p_1_224,23_2_1829,Lieutenant
 1862,p_1_224,23_11_1841,Commander
@@ -2378,14 +2358,6 @@
 2376,p_2_85,4_3_1831,Lieutenant
 2377,p_2_85,22_2_1838,Commander
 2378,p_2_85,8_6_1841,Captain
-2379,p_2_86,17_11_1845,Entered Navy
-2380,p_2_86,12_9_1852,Lieutenant
-2381,p_2_86,26_2_1858,Commander
-2382,p_2_86,22_7_1859,Captain
-2383,p_2_86,31_12_1876,Rear-Admiral
-2384,p_2_86,26_7_1881,Vice-Admiral
-2385,p_2_86,2_6_1886,Admiral
-2386,p_2_86,22_2_1895,Admiral of the Fleet
 2387,p_2_87,28_2_1821,Entered Navy
 2388,p_2_87,15_12_1827,Lieutenant
 2389,p_2_87,4_11_1840,Commander
@@ -2402,14 +2374,6 @@
 2400,p_2_89,1_4_1870,Retired Rear-Admiral
 2401,p_2_89,14_7_1871,Retired Vice-Admiral
 2402,p_2_89,1_8_1877,Retired Admiral
-2403,p_2_90,1848,Entered Navy
-2404,p_2_90,18_12_1854,Lieutenant
-2405,p_2_90,10_8_1857,Commander
-2406,p_2_90,13_12_1859,Captain
-2407,p_2_90,9_4_1866,Retired Captain
-2408,p_2_90,30_12_1876,Retired Rear-Admiral
-2409,p_2_90,23_11_1881,Retired Vice-Admiral
-2410,p_2_90,24_5_1887,Retired Admiral
 2411,p_2_91,2_10_1829,Entered Navy
 2412,p_2_91,21_9_1842,Lieutenant
 2413,p_2_92,4_12_1841,Entered Navy
