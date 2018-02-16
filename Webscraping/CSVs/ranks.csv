@@ -20,7 +20,7 @@
 18,p_0_3,24_7_1871,Captain
 19,p_0_3,1_1_1888,Rear-Admiral
 20,p_0_4,28_4_1843,Lieutenant
-21,p_0_4,23_8_1854,Commander1)
+21,p_0_4,23_8_1854,Commander
 22,p_0_4,1_4_1870,Retired Captain
 23,p_0_5,4_4_1822,Entered Navy
 24,p_0_5,10_7_1832,Lieutenant
@@ -39,9 +39,9 @@
 37,p_0_7,22_1_1824,Entered Navy
 38,p_0_7,7_3_1842,Lieutenant
 39,p_0_7,11_10_1851,Commander
-40,p_0_7,31_7_1860,Retired Captain1)
-41,p_0_7,31_12_1876,Retired Rear Admiral
-42,p_0_7,23_11_1881,Retired Vice Admiral
+40,p_0_7,31_7_1860,Retired Captain
+41,p_0_7,31_12_1876,Retired Rear-Admiral
+42,p_0_7,23_11_1881,Retired Vice-Admiral
 43,p_0_7,24_5_1887,Retired Admiral
 44,p_0_8,27_9_1805,Entered Navy
 45,p_0_8,4_2_1815,Lieutenant
@@ -174,7 +174,7 @@
 172,p_0_40,7_6_1846,Lieutenant
 173,p_0_40,23_9_1850,Commander
 174,p_0_40,10_12_1866,Retired Captain
-175,p_0_41,2_8_1811,Entered Royal Naval Colle
+175,p_0_41,2_8_1811,Entered Royal Naval College
 176,p_0_41,19_7_1820,Lieutenant
 177,p_0_41,22_2_1838,Commander
 178,p_0_41,10_7_1843,Captain
@@ -207,7 +207,7 @@
 205,p_0_48,1_10_1846,Retired Captain
 206,p_0_48,8_7_1851,Retired Rear-Admiral
 207,p_0_48,22_8_1857,Retired Vice-Admiral
-208,p_0_49,8_1828,Entered Royal Naval Colle
+208,p_0_49,8_1828,Entered Royal Naval College
 209,p_0_49,23_11_1841,Lieutenant
 210,p_0_49,5_1_1852,Commander
 211,p_0_49,2_5_1857,Captain
@@ -414,7 +414,7 @@
 412,p_0_98,5_1_1856,Lieutenant
 413,p_0_98,26_6_1866,Commander
 414,p_0_98,26_6_1881,Retired Captain
-415,p_0_99,6_4_1827,Entered Royal Naval Colle
+415,p_0_99,6_4_1827,Entered Royal Naval College
 416,p_0_99,28_6_1838,Lieutenant
 417,p_0_99,27_11_1846,Commander
 418,p_0_99,7_7_1868,Retired Captain
@@ -663,7 +663,7 @@
 661,p_0_156,3_6_1819,Entered Navy
 662,p_0_156,17_4_1827,Lieutenant
 663,p_0_156,11_8_1841,Commander
-664,p_0_157,3_10_1820,Entered Royal Naval Colle
+664,p_0_157,3_10_1820,Entered Royal Naval College
 665,p_0_157,20_10_1829,Lieutenant
 666,p_0_157,4_11_1840,Commander
 667,p_0_158,1849,Entered Navy
@@ -693,7 +693,7 @@
 691,p_0_163,13_2_1866,Lieutenant
 692,p_0_163,1_10_1874,Commander
 693,p_0_163,29_6_1883,Captain
-694,p_0_163,7_6_1894,Rear Admiral
+694,p_0_163,7_6_1894,Rear-Admiral
 695,p_0_164,5_3_1852,Lieutenant
 696,p_0_164,3_4_1855,Commander
 697,p_0_164,15_4_1862,Captain
@@ -751,7 +751,7 @@
 749,p_0_179,11_11_1848,Lieutenant
 750,p_0_179,25_3_1863,Commander
 751,p_0_179,1_10_1873,Retired Captain
-752,p_0_180,9_1790,Entered Royal Naval Acade
+752,p_0_180,9_1790,Entered Royal Naval College
 753,p_0_180,7_3_1797,Lieutenant
 754,p_0_180,22_10_1810,Commander
 755,p_0_180,20_9_1815,Captain
@@ -918,8 +918,8 @@
 916,p_1_18,11_2_1860,Lieutenant
 917,p_1_18,29_12_1871,Commander
 918,p_1_18,31_10_1879,Captain
-919,p_1_18,6_7_1889,Retired Rear Admiral
-920,p_1_18,1_1_1901,Retired Vice Admiral
+919,p_1_18,6_7_1889,Retired Rear-Admiral
+920,p_1_18,1_1_1901,Retired Vice-Admiral
 921,p_1_18,16_6_1904,Retired Admiral
 922,p_1_19,26_3_1811,Entered Navy
 923,p_1_19,12_9_1821,Lieutenant
@@ -966,7 +966,7 @@
 964,p_1_28,20_10_1872,Vice-Admiral
 965,p_1_28,16_9_1877,Admiral
 966,p_1_28,27_10_1884,Retired Admiral
-967,p_1_29,25_10_1800,Entered Royal Naval Colle
+967,p_1_29,25_10_1800,Entered Royal Naval College
 968,p_1_29,5_11_1806,Lieutenant
 969,p_1_29,28_5_1813,Commander
 970,p_1_29,25_7_1825,Captain
@@ -1046,7 +1046,7 @@
 1044,p_1_47,4_11_1840,Commander
 1045,p_1_47,23_12_1847,Captain
 1046,p_1_47,2_12_1865,Retired Rear-Admiral
-1047,p_1_48,2_1827,Entered Royal Naval Colle
+1047,p_1_48,2_1827,Entered Royal Naval College
 1048,p_1_48,12_11_1834,Lieutenant
 1049,p_1_48,3_6_1840,Commander
 1050,p_1_49,24_6_1781,Entered navy
@@ -1086,8 +1086,8 @@
 1084,p_1_56,21_2_1851,Commander
 1085,p_1_56,2_5_1857,Captain
 1086,p_1_56,6_1874,Retired Captain
-1087,p_1_56,20_4_1875,Retired Rear Admiral
-1088,p_1_56,2_8_1879,Retired Vice Admiral
+1087,p_1_56,20_4_1875,Retired Rear-Admiral
+1088,p_1_56,2_8_1879,Retired Vice-Admiral
 1089,p_1_57,4_1839,Entered Navy
 1090,p_1_57,12_4_1845,Lieutenant
 1091,p_1_57,12_4_1851,Commander
@@ -1346,7 +1346,7 @@
 1358,p_1_116,4_4_1870,Captain
 1359,p_1_116,7_4_1887,Rear-Admiral
 1360,p_1_116,9_8_1892,Retired Vice-Admiral
-1361,p_1_117,1_1831,Entered Royal Naval Colle
+1361,p_1_117,1_1831,Entered Royal Naval College
 1362,p_1_117,4_4_1837,Mate
 1363,p_1_117,28_9_1840,Lieutenant
 1364,p_1_117,9_11_1846,Commander
@@ -1391,7 +1391,7 @@
 1403,p_1_125,8_3_1854,Lieutenant
 1404,p_1_125,9_5_1863,Commander
 1405,p_1_125,1_6_1869,Captain
-1406,p_1_126,3_8_1826,Entered Royal Naval Colle
+1406,p_1_126,3_8_1826,Entered Royal Naval College
 1407,p_1_126,21_2_1837,Lieutenant
 1408,p_1_126,8_6_1841,Commander
 1409,p_1_126,1_11_1849,Captain
@@ -1564,7 +1564,7 @@
 1576,p_1_167,6_2_1858,Retired Commander
 1577,p_1_168,18_10_1839,Lieutenant
 1578,p_1_168,23_12_1847,Commander
-1579,p_1_169,1_8_1811,Entered Royal Naval Colle
+1579,p_1_169,1_8_1811,Entered Royal Naval College
 1580,p_1_169,15_10_1822,Lieutenant
 1581,p_1_169,4_3_1829,Commander
 1582,p_1_169,10_1_1837,Captain
@@ -1626,8 +1626,8 @@
 1638,p_1_180,23_5_1862,Lieutenant
 1639,p_1_180,1_5_1872,Commander
 1640,p_1_180,20_4_1880,Captain
-1641,p_1_180,20_6_1895,Rear Admiral
-1642,p_1_180,24_5_1901,Vice Admiral
+1641,p_1_180,20_6_1895,Rear-Admiral
+1642,p_1_180,24_5_1901,Vice-Admiral
 1643,p_1_180,2_3_1905,Admiral
 1644,p_1_181,22_9_1855,Lieutenant
 1645,p_1_181,18_11_1862,Commander
@@ -1680,7 +1680,7 @@
 1692,p_1_192,21_3_1835,Captain
 1693,p_1_192,14_2_1857,Retired Rear-Admiral
 1694,p_1_192,12_9_1863,Retired Vice-Admiral
-1695,p_1_193,1829,Entered Royal Naval Colle
+1695,p_1_193,1829,Entered Royal Naval College
 1696,p_1_193,8_6_1841,Lieutenant
 1697,p_1_193,12_1_1846,Commander
 1698,p_1_193,1_7_1864,Retired Captain
@@ -1788,11 +1788,11 @@
 1800,p_1_212,3_2_1855,Lieutenant
 1801,p_1_212,11_4_1866,Commander
 1802,p_1_212,1_10_1873,Retired Captain
-1803,p_1_213,5_11_1818,Entered Royal Naval Colle
+1803,p_1_213,5_11_1818,Entered Royal Naval College
 1804,p_1_213,28_10_1831,Lieutenant
 1805,p_1_213,20_6_1844,Commander
 1806,p_1_213,1_7_1864,Retired Captain
-1807,p_1_214,7_8_1828,Entered Royal Naval Colle
+1807,p_1_214,7_8_1828,Entered Royal Naval College
 1808,p_1_214,3_7_1840,Lieutenant
 1809,p_1_214,28_2_1847,Commander
 1810,p_1_214,28_4_1854,Captain
@@ -1831,7 +1831,7 @@
 1843,p_1_221,22_11_1830,Lieutenant
 1844,p_1_221,13_4_1836,Commander
 1845,p_1_221,23_9_1844,Captain
-1846,p_1_222,5_1821,Entered Royal Naval Colle
+1846,p_1_222,5_1821,Entered Royal Naval College
 1847,p_1_222,3_6_1828,Lieutenant
 1848,p_1_222,10_1_1837,Commander
 1849,p_1_222,9_11_1846,Captain
@@ -1854,7 +1854,7 @@
 1872,p_1_225,2_4_1866,Retired Rear-Admiral
 1873,p_1_226,21_3_1861,Lieutenant
 1874,p_1_226,2_11_1874,Commander
-1875,p_1_226,18_11_1882,Captain1)
+1875,p_1_226,18_11_1882,Captain
 1876,p_1_226,9_9_1887,Retired Captain
 1877,p_1_227,17_5_1849,Lieutenant
 1878,p_1_227,10_5_1856,Commander
@@ -1882,7 +1882,7 @@
 1900,p_1_231,23_12_1830,Entered Navy
 1901,p_1_231,23_11_1841,Lieutenant
 1902,p_1_231,25_5_1852,Commander
-1903,p_1_232,4_6_1812,Entered Royal Naval Colle
+1903,p_1_232,4_6_1812,Entered Royal Naval College
 1904,p_1_232,10_7_1822,Lieutenant
 1905,p_1_232,21_1_1835,Commander
 1906,p_1_232,27_6_1838,Captain
@@ -1926,11 +1926,11 @@
 1944,p_1_239,1_4_1870,Retired Captain
 1945,p_1_240,17_2_1864,Sub-Lieutenant
 1946,p_1_240,14_2_1867,Discharged
-1947,p_1_240,19_9_1867,Re-entered (application f
+1947,p_1_240,19_9_1867,Re-entered
 1948,p_1_240,3_4_1868,Lieutenant
 1949,p_1_240,12_6_1871,Retired
 1950,p_1_240,26_3_1872,Re-entered
-1951,p_1_240,3_5_1900,Pensioned2)
+1951,p_1_240,3_5_1900,Pensioned
 1952,p_1_241,1852,Entered Navy
 1953,p_1_241,28_6_1859,Lieutenant
 1954,p_1_241,4_8_1862,Commander
@@ -2139,8 +2139,8 @@
 2157,p_2_36,5_9_1859,Lieutenant
 2158,p_2_36,13_2_1866,Commander
 2159,p_2_36,6_2_1872,Captain
-2160,p_2_36,14_5_1888,Rear Admiral
-2161,p_2_36,7_6_1894,Retired Vice Admiral
+2160,p_2_36,14_5_1888,Rear-Admiral
+2161,p_2_36,7_6_1894,Retired Vice-Admiral
 2162,p_2_37,4_1793,Entered Navy
 2163,p_2_37,26_9_1809,Lieutenant
 2164,p_2_37,17_9_1816,Commander
@@ -2216,7 +2216,7 @@
 2234,p_2_54,6_8_1852,Captain
 2235,p_2_54,1_7_1867,Retired Captain
 2236,p_2_54,1_9_1867,Retired Rear-Admiral
-2237,p_2_55,10_8_1810,Entered Royal Naval Colle
+2237,p_2_55,10_8_1810,Entered Royal Naval College
 2238,p_2_55,26_3_1819,Lieutenant
 2239,p_2_55,26_4_1825,Commander
 2240,p_2_55,23_11_1841,Captain
@@ -2241,7 +2241,7 @@
 2259,p_2_59,1_1_1813,Lieutenant
 2260,p_2_59,22_2_1831,Commander
 2261,p_2_59,23_11_1841,Captain
-2262,p_2_60,7_2_1809,Entered Royal Naval Colle
+2262,p_2_60,7_2_1809,Entered Royal Naval College
 2263,p_2_60,5_9_1816,Lieutenant
 2264,p_2_60,22_7_1826,Commander
 2265,p_2_60,23_11_1841,Captain
@@ -2276,14 +2276,14 @@
 2294,p_2_65,30_8_1890,Vice-Admiral
 2295,p_2_65,10_10_1896,Admiral
 2296,p_2_65,15_6_1901,Retired Admiral
-2297,p_2_66,5_6_1823,Entered Royal Naval Colle
+2297,p_2_66,5_6_1823,Entered Royal Naval College
 2298,p_2_66,25_10_1829,Lieutenant
 2299,p_2_66,22_12_1836,Commander
 2300,p_2_66,26_2_1842,Captain
 2301,p_2_67,7_5_1838,Lieutenant
 2302,p_2_67,9_11_1846,Commander
 2303,p_2_67,13_11_1854,Captain
-2304,p_2_68,6_12_1821,Entered Royal Naval Colle
+2304,p_2_68,6_12_1821,Entered Royal Naval College
 2305,p_2_68,29_7_1831,Lieutenant
 2306,p_2_68,4_11_1840,Commander
 2307,p_2_68,1_5_1848,Captain
@@ -2444,7 +2444,7 @@
 2478,p_2_108,10_8_1861,Commander
 2479,p_2_108,16_4_1868,Captain
 2480,p_2_108,5_7_1885,Rear-Admiral
-2481,p_2_108,18_9_1891,Retired Vice Admiral
+2481,p_2_108,18_9_1891,Retired Vice-Admiral
 2482,p_2_109,29_4_1830,Entered Navy
 2483,p_2_109,28_1_1842,Lieutenant
 2484,p_2_109,17_4_1854,Commander
@@ -2588,7 +2588,7 @@
 2622,p_3_7,30_7_1875,Vice-Admiral
 2623,p_3_7,2_8_1879,Admiral
 2624,p_3_7,1881,Retired Admiral
-2625,p_3_8,1_2_1821,Entered Royal Naval Colle
+2625,p_3_8,1_2_1821,Entered Royal Naval College
 2626,p_3_8,16_10_1830,Lieutenant
 2627,p_3_8,23_11_1841,Commander
 2628,p_3_9,5_1_1856,Lieutenant
@@ -2627,7 +2627,7 @@
 2661,p_3_15,17_2_1884,Vice-Admiral
 2662,p_3_15,18_10_1887,Admiral
 2663,p_3_15,28_5_1894,Retired Admiral
-2664,p_3_16,4_1817,Entered Royal Naval Colle
+2664,p_3_16,4_1817,Entered Royal Naval College
 2665,p_3_16,1_12_1823,Lieutenant
 2666,p_3_16,17_11_1826,Commander
 2667,p_3_16,9_8_1828,Captain
@@ -2681,7 +2681,7 @@
 2715,p_3_27,7_4_1885,Vice-Admiral
 2716,p_3_27,1888,Retired Vice-Admiral
 2717,p_3_27,6_8_1890,Retired Admiral
-2718,p_3_28,4_2_1813,Entered Royal Navy Colleg
+2718,p_3_28,4_2_1813,Entered Royal Naval College
 2719,p_3_28,14_8_1819,Lieutenant
 2720,p_3_28,18_5_1822,Commander
 2721,p_3_28,6_6_1825,Captain
@@ -2697,7 +2697,7 @@
 2731,p_3_31,10_1_1837,Commander
 2732,p_3_32,27_11_1805,Entered Navy
 2733,p_3_32,1_2_1815,Lieutenant
-2734,p_3_33,6_9_1821,Entered Royal Navy Colleg
+2734,p_3_33,6_9_1821,Entered Royal Naval College
 2735,p_3_33,28_2_1828,Lieutenant
 2736,p_3_33,21_11_1833,Commander
 2737,p_3_33,23_11_1841,Captain
@@ -2802,7 +2802,7 @@
 2836,p_3_53,17_6_1814,Commander
 2837,p_3_53,7_12_1818,Captain
 2838,p_3_53,7_9_1851,Rear-Admiral
-2839,p_3_54,1_1817,Entered Royal Naval Colle
+2839,p_3_54,1_1817,Entered Royal Naval College
 2840,p_3_54,12_11_1829,Lieutenant
 2841,p_3_54,6_5_1841,Commander
 2842,p_3_54,21_8_1849,Captain
@@ -2853,7 +2853,7 @@
 2887,p_3_62,9_4_1826,Entered Navy
 2888,p_3_62,4_11_1840,Lieutenant
 2889,p_3_62,28_12_1850,Commander
-2890,p_3_63,9_1830,Entered Royal Naval Colle
+2890,p_3_63,9_1830,Entered Royal Naval College
 2891,p_3_63,23_12_1840,Lieutenant
 2892,p_3_63,3_8_1847,Commander
 2893,p_3_63,13_11_1854,Captain
@@ -2886,8 +2886,8 @@
 2920,p_3_70,11_9_1866,Lieutenant
 2921,p_3_70,31_12_1879,Commander
 2922,p_3_70,1_1_1886,Captain
-2923,p_3_70,15_6_1901,Rear Admiral
-2924,p_3_70,22_7_1905,Vice Admiral
+2923,p_3_70,15_6_1901,Rear-Admiral
+2924,p_3_70,22_7_1905,Vice-Admiral
 2925,p_3_70,2_12_1908,Admiral
 2926,p_3_70,1_1_1910,Retired Admiral
 2927,p_3_71,1835,Entered Navy
@@ -2937,7 +2937,7 @@
 2971,p_3_79,6_4_1887,Retired Rear-Admiral
 2972,p_3_79,24_5_1887,Retired Vice-Admiral
 2973,p_3_79,5_4_1892,Retired Admiral
-2974,p_3_80,4_8_1831,Entered Royal Naval Colle
+2974,p_3_80,4_8_1831,Entered Royal Naval College
 2975,p_3_80,2_3_1844,Lieutenant
 2976,p_3_81,16_5_1811,Lieutenant
 2977,p_3_81,7_7_1828,Commander
@@ -3106,7 +3106,7 @@
 3140,p_3_117,20_11_1830,Lieutenant
 3141,p_3_117,26_10_1840,Commander
 3142,p_3_117,24_7_1845,Captain
-3143,p_3_118,1_8_1820,Entered the Royal Naval C
+3143,p_3_118,1_8_1820,Entered Royal Naval College
 3144,p_3_118,9_3_1827,Lieutenant
 3145,p_3_118,26_2_1830,Commander
 3146,p_3_118,28_6_1838,Captain
@@ -3152,7 +3152,7 @@
 3186,p_3_124,9_11_1846,Rear-Admiral
 3187,p_3_124,21_1_1854,Vice-Admiral
 3188,p_3_124,25_6_1858,Admiral
-3189,p_3_125,1_12_1825,Entered Royal Naval Colle
+3189,p_3_125,1_12_1825,Entered Royal Naval College
 3190,p_3_125,9_9_1833,Lieutenant
 3191,p_3_125,23_11_1841,Commander
 3192,p_3_125,9_11_1846,Captain
@@ -3267,7 +3267,7 @@
 3301,p_3_151,14_12_1828,Entered Navy
 3302,p_3_151,23_11_1841,Lieutenant
 3303,p_3_151,9_11_1846,Commander
-3304,p_3_152,6_10_1832,Entered Royal Naval Colle
+3304,p_3_152,6_10_1832,Entered Royal Naval College
 3305,p_3_152,21_9_1842,Lieutenant
 3306,p_3_152,18_11_1845,Commander
 3307,p_3_152,7_10_1853,Captain
@@ -3342,7 +3342,7 @@
 3376,p_3_173,19_6_1826,Entered Navy
 3377,p_3_173,26_10_1840,Lieutenant
 3378,p_3_173,27_1_1847,Commander
-3379,p_3_174,8_1805,Entered Royal Naval Colle
+3379,p_3_174,8_1805,Entered Royal Naval College
 3380,p_3_174,27_5_1813,Lieutenant
 3381,p_3_175,13_6_1823,Entered Navy
 3382,p_3_175,28_2_1832,Lieutenant
@@ -3460,7 +3460,7 @@
 3494,p_3_199,9_5_1863,Commander
 3495,p_3_199,29_12_1871,Captain
 3496,p_3_199,1_10_1873,Retired Captain
-3497,p_3_199,1_1_1888,Retired Rear Admiral
+3497,p_3_199,1_1_1888,Retired Rear-Admiral
 3498,p_3_200,25_7_1847,Lieutenant
 3499,p_3_200,2_11_1854,Commander
 3500,p_3_200,31_1_1861,Captain
@@ -3476,7 +3476,7 @@
 3510,p_3_204,28_11_1863,Lieutenant
 3511,p_3_204,1_11_1875,Commander
 3512,p_3_204,30_6_1884,Captain
-3513,p_3_205,5_11_1823,Entered Royal Naval Colle
+3513,p_3_205,5_11_1823,Entered Royal Naval College
 3514,p_3_205,15_2_1837,Lieutenant
 3515,p_3_205,31_5_1845,Commander
 3516,p_3_205,1_1_1856,Captain
@@ -3524,7 +3524,7 @@
 3558,p_3_215,6_8_1855,Lieutenant
 3559,p_3_215,11_4_1866,Commander
 3560,p_3_215,13_10_1876,Captain
-3561,p_3_216,1_6_1833,Entered Royal Naval Colle
+3561,p_3_216,1_6_1833,Entered Royal Naval College
 3562,p_3_216,8_10_1841,Lieutenant
 3563,p_3_216,13_11_1854,Commander
 3564,p_3_216,1_2_1856,Captain
@@ -3585,7 +3585,7 @@
 3619,p_3_227,19_5_1859,Lieutenant
 3620,p_3_227,3_4_1868,Commander
 3621,p_3_227,9_8_1877,Captain
-3622,p_3_228,8_2_1822,Entered Royal Naval Colle
+3622,p_3_228,8_2_1822,Entered Royal Naval College
 3623,p_3_228,15_1_1830,Lieutenant
 3624,p_3_228,8_8_1834,Commander
 3625,p_3_228,28_8_1841,Captain
@@ -3638,7 +3638,7 @@
 3672,p_3_238,10_11_1842,Lieutenant
 3673,p_3_238,15_12_1852,Commander
 3674,p_3_238,18_1_1855,Captain
-3675,p_4_0,4_11_1823,Entered Royal Navy Colleg
+3675,p_4_0,4_11_1823,Entered Royal Naval College
 3676,p_4_0,21_3_1835,Lieutenant
 3677,p_4_0,23_12_1842,Commander
 3678,p_4_0,16_10_1856,Captain
@@ -3682,7 +3682,7 @@
 3716,p_4_11,18_9_1867,Sub-Lieutenant
 3717,p_4_11,16_7_1870,Lieutenant
 3718,p_4_11,20_6_1877,Retired Commander
-3719,p_4_12,11_1826,Entered Royal Naval Colle
+3719,p_4_12,11_1826,Entered Royal Naval College
 3720,p_4_12,15_12_1834,Lieutenant
 3721,p_4_12,9_11_1846,Commander
 3722,p_4_13,19_6_1829,Entered Navy
@@ -3857,7 +3857,7 @@
 3891,p_4_51,13_12_1859,Commander
 3892,p_4_51,16_10_1868,Captain
 3893,p_4_51,1_1_1886,Retired Rear-Admiral
-3894,p_4_52,1833,Entered Royal Naval Colle
+3894,p_4_52,1833,Entered Royal Naval College
 3895,p_4_52,6_5_1841,Lieutenant
 3896,p_4_52,29_9_1850,Commander
 3897,p_4_52,11_3_1857,Captain
@@ -4011,7 +4011,7 @@
 4045,p_4_84,24_6_1862,Commander
 4046,p_4_84,25_10_1867,Captain
 4047,p_4_84,1_10_1873,Retired Captain
-4048,p_4_84,1_6_1885,Retired Rear Admiral
+4048,p_4_84,1_6_1885,Retired Rear-Admiral
 4049,p_4_85,22_9_1816,Entered Navy
 4050,p_4_85,16_5_1823,Lieutenant
 4051,p_4_85,30_4_1827,Commander
@@ -4050,7 +4050,7 @@
 4084,p_4_94,29_9_1855,Commander
 4085,p_4_94,1_1_1865,Captain
 4086,p_4_94,7_3_1866,Retired Captain
-4087,p_4_95,1822,Entered Royal Naval Colle
+4087,p_4_95,1822,Entered Royal Naval College
 4088,p_4_95,10_1_1837,Lieutenant
 4089,p_4_95,9_11_1846,Commander
 4090,p_4_96,20_4_1855,Lieutenant
@@ -4079,11 +4079,11 @@
 4113,p_4_102,1_4_1870,Retired Captain
 4114,p_4_102,1_8_1877,Retired Rear-Admiral
 4115,p_4_103,3_2_1855,Lieutenant
-4116,p_4_104,3_4_1812,Entered Royal Naval Colle
+4116,p_4_104,3_4_1812,Entered Royal Naval College
 4117,p_4_104,17_3_1821,Lieutenant
 4118,p_4_104,24_4_1824,Commander
 4119,p_4_104,19_4_1828,Captain
-4120,p_4_105,8_10_1816,Entered Royal Naval Colle
+4120,p_4_105,8_10_1816,Entered Royal Naval College
 4121,p_4_105,20_3_1823,Lieutenant
 4122,p_4_105,8_4_1825,Commander
 4123,p_4_105,28_4_1827,Captain
@@ -4271,7 +4271,7 @@
 4305,p_4_141,16_5_1854,Lieutenant
 4306,p_4_141,16_4_1862,Commander
 4307,p_4_141,1_10_1873,Retired Captain
-4308,p_4_142,27_4_1800,Entered Royal Naval Acade
+4308,p_4_142,27_4_1800,Entered Royal Naval College
 4309,p_4_142,29_5_1807,Lieutenant
 4310,p_4_142,16_9_1816,Commander
 4311,p_4_142,22_2_1830,Captain
@@ -4311,7 +4311,7 @@
 4345,p_4_149,18_9_1865,Lieutenant
 4346,p_4_149,1_4_1888,Retired Commander
 4347,p_4_150,8_10_1841,Lieutenant
-4348,p_4_152,8_2_1817,Entered Royal Naval Colle
+4348,p_4_152,8_2_1817,Entered Royal Naval College
 4349,p_4_152,8_9_1827,Lieutenant
 4350,p_4_152,25_11_1830,Commander
 4351,p_4_152,30_1_1839,Captain
@@ -4327,7 +4327,7 @@
 4361,p_4_155,30_8_1811,Entered Navy
 4362,p_4_155,10_12_1824,Lieutenant
 4363,p_4_155,28_1_1842,Commander
-4364,p_4_156,1803,Entered Royal Naval Acade
+4364,p_4_156,1803,Entered Royal Naval College
 4365,p_4_156,9_10_1809,Lieutenant
 4366,p_4_156,31_5_1814,Commander
 4367,p_4_156,29_11_1820,Captain
@@ -4346,7 +4346,7 @@
 4380,p_4_158,8_4_1880,Retired Rear-Admiral
 4381,p_4_158,8_7_1884,Retired Vice-Admiral
 4382,p_4_158,15_12_1888,Retired Admiral
-4383,p_4_159,7_10_1819,Entered Royal Naval Colle
+4383,p_4_159,7_10_1819,Entered Royal Naval College
 4384,p_4_159,30_8_1828,Lieutenant
 4385,p_4_159,28_6_1838,Commander
 4386,p_4_159,2_7_1846,Captain
@@ -4399,8 +4399,8 @@
 4433,p_4_169,15_5_1858,Lieutenant
 4434,p_4_169,6_2_1866,Commander
 4435,p_4_169,13_2_1873,Captain
-4436,p_4_169,1_1_1889,Rear Admiral
-4437,p_4_169,20_6_1895,Vice Admiral
+4436,p_4_169,1_1_1889,Rear-Admiral
+4437,p_4_169,20_6_1895,Vice-Admiral
 4438,p_4_169,13_3_1901,Admiral
 4439,p_4_170,21_12_1799,Entered Navy
 4440,p_4_170,10_4_1806,Lieutenant
@@ -4466,7 +4466,7 @@
 4500,p_4_183,21_2_1815,Lieutenant
 4501,p_4_183,1860,Retired Lieutenant
 4502,p_4_183,31_1_1862,Retired Commander
-4503,p_4_184,5_2_1818,Entered Royal Naval Colle
+4503,p_4_184,5_2_1818,Entered Royal Naval College
 4504,p_4_184,4_2_1826,Lieutenant
 4505,p_4_184,25_8_1828,Commander
 4506,p_4_184,10_1_1837,Captain
@@ -4623,7 +4623,7 @@
 4657,p_4_219,2_10_1808,Entered Navy
 4658,p_4_219,2_11_1815,Lieutenant
 4659,p_4_219,1_10_1860,Retired Commander
-4660,p_4_220,2_1835,Entered Royal Naval Colle
+4660,p_4_220,2_1835,Entered Royal Naval College
 4661,p_4_220,12_12_1845,Lieutenant
 4662,p_4_220,10_5_1856,Commander
 4663,p_4_220,23_6_1862,Captain
@@ -4653,9 +4653,9 @@
 4687,p_4_226,20_10_1872,Retired Rear-Admiral
 4688,p_4_226,9_3_1879,Retired Vice-Admiral
 4689,p_4_226,27_10_1884,Retired Admiral
-4690,p_4_227,1_8_1814,Entered Royal Naval Colle
+4690,p_4_227,1_8_1814,Entered Royal Naval College
 4691,p_4_227,25_8_1829,Lieutenant
-4692,p_4_227,7_1830,Student at the Royal Nava
+4692,p_4_227,7_1830,Entered Royal Naval College
 4693,p_4_227,23_11_1841,Commander
 4694,p_4_227,1_1_1852,Captain
 4695,p_4_227,24_5_1867,Retired Rear-Admiral
@@ -4815,7 +4815,7 @@
 4849,p_5_26,2_8_1850,Lieutenant
 4850,p_5_26,18_8_1855,Commander
 4851,p_5_26,6_8_1860,Captain
-4852,p_5_27,7_8_1817,Entered Royal Naval Colle
+4852,p_5_27,7_8_1817,Entered Royal Naval College
 4853,p_5_27,16_3_1824,Lieutenant
 4854,p_5_27,17_9_1828,Commander
 4855,p_5_27,24_5_1831,Captain
@@ -5301,7 +5301,7 @@
 5335,p_5_140,9_6_1882,Rear-Admiral
 5336,p_5_140,15_10_1888,Vice-Admiral
 5337,p_5_140,1_9_1893,Admiral
-5338,p_5_140,29_11_1898,Admiral of the Fleet1)
+5338,p_5_140,29_11_1898,Admiral of the Fleet
 5339,p_5_141,3_11_1832,Entered Navy
 5340,p_5_141,12_7_1842,Lieutenant
 5341,p_5_141,18_11_1845,Commander
@@ -5316,7 +5316,7 @@
 5350,p_5_143,16_9_1816,Commander
 5351,p_5_143,17_9_1828,Captain
 5352,p_5_143,6_6_1855,Rear-Admiral
-5353,p_5_143,12_4_1862,Retired Vice Admiral
+5353,p_5_143,12_4_1862,Retired Vice-Admiral
 5354,p_5_143,12_9_1865,Retired Admiral
 5355,p_5_144,6_6_1834,Lieutenant
 5356,p_5_144,9_5_1839,Commander
@@ -5458,7 +5458,7 @@
 5492,p_5_181,17_12_1857,Lieutenant
 5493,p_5_181,4_8_1868,Commander
 5494,p_5_181,31_12_1876,Captain
-5495,p_5_181,18_9_1891,Retired Rear Admiral
+5495,p_5_181,18_9_1891,Retired Rear-Admiral
 5496,p_5_182,21_10_1829,Entered Navy
 5497,p_5_182,1_5_1839,Lieutenant
 5498,p_5_182,21_2_1856,Commander
@@ -5545,7 +5545,7 @@
 5579,p_6_6,22_9_1854,Commander
 5580,p_6_6,27_7_1858,Captain
 5581,p_6_7,24_2_1863,Lieutenant
-5582,p_6_7,23_2_1866,Captain (from Lieutenant)
+5582,p_6_7,23_2_1866,Captain
 5583,p_6_7,28_12_1878,Rear-Admiral
 5584,p_6_7,30_11_1882,Vice-Admiral
 5585,p_6_7,18_10_1887,Admiral
@@ -5556,7 +5556,7 @@
 5590,p_6_8,10_7_1851,Captain
 5591,p_6_8,24_5_1867,Retired Rear-Admiral
 5592,p_6_8,29_5_1873,Retired Vice-Admiral
-5593,p_6_9,15_12_1817,Entered Royal Naval Colle
+5593,p_6_9,15_12_1817,Entered Royal Naval College
 5594,p_6_9,11_9_1827,Lieutenant
 5595,p_6_9,8_6_1841,Commander
 5596,p_6_9,8_1_1851,Captain
@@ -5660,7 +5660,7 @@
 5694,p_6_28,1_11_1860,Vice-Admiral
 5695,p_6_28,5_3_1864,Admiral
 5696,p_6_28,1870,Retired Admiral
-5697,p_6_29,1827,Entered Royal Naval Colle
+5697,p_6_29,1827,Entered Royal Naval College
 5698,p_6_29,28_6_1838,Lieutenant
 5699,p_6_29,27_6_1846,Commander
 5700,p_6_29,25_2_1853,Captain
@@ -5755,7 +5755,7 @@
 5789,p_6_48,9_9_1828,Commander
 5790,p_6_49,9_11_1846,Lieutenant
 5791,p_6_49,11_8_1856,Commander
-5792,p_6_50,1_1823,Entered Royal Naval Colle
+5792,p_6_50,1_1823,Entered Royal Naval College
 5793,p_6_50,7_1_1834,Lieutenant
 5794,p_6_50,23_12_1842,Commander
 5795,p_6_50,22_5_1866,Retired Captain
@@ -5858,7 +5858,7 @@
 5892,p_6_74,28_4_1878,Rear-Admiral
 5893,p_6_74,7_7_1884,Vice-Admiral
 5894,p_6_74,19_6_1888,Admiral
-5895,p_6_75,2_2_1826,Entered Royal Naval Colle
+5895,p_6_75,2_2_1826,Entered Royal Naval College
 5896,p_6_75,10_1_1840,Lieutenant
 5897,p_6_75,24_6_1842,Commander
 5898,p_6_76,3_10_1835,Lieutenant
@@ -5922,7 +5922,7 @@
 5956,p_6_89,5_1_1858,Retired Rear-Admiral
 5957,p_6_89,10_2_1865,Retired Vice-Admiral
 5958,p_6_89,27_2_1870,Retired Admiral
-5959,p_6_90,5_8_1824,Entered Royal Naval Colle
+5959,p_6_90,5_8_1824,Entered Royal Naval College
 5960,p_6_90,14_5_1831,Lieutenant
 5961,p_6_90,26_3_1839,Commander
 5962,p_6_90,23_9_1844,Captain
@@ -5990,7 +5990,6 @@
 6024,p_6_103,20_4_1855,Lieutenant
 6025,p_6_104,30_7_1808,Entered Navy
 6026,p_6_104,19_9_1815,Lieutenant
-6027,p_6_104,8_1_1822,"Married Elizabeth, daught"
 6028,p_6_104,19_7_1843,Commander
 6029,p_6_104,9_2_1859,Retired Captain
 6030,p_6_105,29_4_1835,Entered Navy
@@ -6033,7 +6032,7 @@
 6067,p_6_112,6_10_1832,Lieutenant
 6068,p_6_112,23_11_1841,Commander
 6069,p_6_112,5_2_1858,Retired Captain
-6070,p_6_113,6_2_1823,Entered Royal Naval Colle
+6070,p_6_113,6_2_1823,Entered Royal Naval College
 6071,p_6_113,12_12_1831,Lieutenant
 6072,p_6_113,20_7_1841,Commander
 6073,p_6_113,26_4_1857,Captain
@@ -6064,7 +6063,7 @@
 6098,p_6_117,2_4_1866,Vice-Admiral
 6099,p_6_117,25_1_1871,Retired Vice-Admiral
 6100,p_6_117,14_7_1871,Retired Admiral
-6101,p_6_118,12_1826,Entered Royal Naval Colle
+6101,p_6_118,12_1826,Entered Royal Naval College
 6102,p_6_118,28_6_1838,Lieutenant
 6103,p_6_118,9_11_1846,Commander
 6104,p_6_118,29_9_1855,Captain
@@ -6113,7 +6112,7 @@
 6147,p_6_128,19_7_1823,Lieutenant
 6148,p_6_128,27_5_1830,Commander
 6149,p_6_128,6_12_1844,Captain
-6150,p_6_129,4_9_1823,Entered Royal Naval Colle
+6150,p_6_129,4_9_1823,Entered Royal Naval College
 6151,p_6_129,3_4_1830,Lieutenant
 6152,p_6_129,14_5_1841,Commander
 6153,p_6_129,18_11_1845,Captain
@@ -6185,7 +6184,7 @@
 6219,p_6_144,15_2_1848,Lieutenant
 6220,p_6_144,6_8_1860,Commander
 6221,p_6_144,20_5_1873,Retired Captain
-6222,p_6_145,19_8_1815,Entered Royal Naval Colle
+6222,p_6_145,19_8_1815,Entered Royal Naval College
 6223,p_6_145,7_1_1823,Lieutenant
 6224,p_6_145,13_4_1827,Commander
 6225,p_6_145,25_11_1830,Captain
@@ -6323,7 +6322,7 @@
 6357,p_6_175,4_4_1870,Captain
 6358,p_6_175,15_7_1877,Retired Captain
 6359,p_6_175,1_1_1887,Retired Rear-Admiral
-6360,p_6_176,16_11_1815,Entered Royal Naval Colle
+6360,p_6_176,16_11_1815,Entered Royal Naval College
 6361,p_6_176,3_1820,Midshipman
 6362,p_6_176,9_1_1823,Lieutenant
 6363,p_6_176,20_2_1826,Commander
@@ -6399,15 +6398,15 @@
 6433,p_7_2,6_11_1860,Lieutenant
 6434,p_7_2,29_12_1871,Commander
 6435,p_7_2,25_3_1878,Captain
-6436,p_7_2,23_6_1893,Rear Admiral
-6437,p_7_2,26_10_1899,Vice Admiral
+6436,p_7_2,23_6_1893,Rear-Admiral
+6437,p_7_2,26_10_1899,Vice-Admiral
 6438,p_7_2,16_6_1904,Retired Admiral
 6439,p_7_3,2_8_1837,Entered Navy
 6440,p_7_3,16_9_1842,Lieutenant
 6441,p_7_3,23_10_1849,Commander
 6442,p_7_3,9_1_1856,Captain
-6443,p_7_3,20_7_1873,Retired Rear Admiral
-6444,p_7_3,1_2_1879,Retired Vice Admiral
+6443,p_7_3,20_7_1873,Retired Rear-Admiral
+6444,p_7_3,1_2_1879,Retired Vice-Admiral
 6445,p_7_4,3_2_1832,Entered Navy
 6446,p_7_4,23_12_1842,Lieutenant
 6447,p_7_4,7_1_1847,Commander
@@ -6423,7 +6422,7 @@
 6457,p_7_6,9_3_1878,Retired Rear-Admiral
 6458,p_7_6,8_7_1884,Retired Vice-Admiral
 6459,p_7_6,15_12_1888,Retired Admiral
-6460,p_7_7,2_1851,Naval cadet
+6460,p_7_7,2_1851,Entered Royal Naval College
 6461,p_7_7,1853,Midshipman
 6462,p_7_7,7_4_1857,Mate
 6463,p_7_7,22_3_1858,Lieutenant
@@ -6437,7 +6436,7 @@
 6471,p_7_9,13_11_1854,Commander
 6472,p_7_9,21_7_1860,Captain
 6473,p_7_10,3_2_1855,Lieutenant
-6474,p_7_11,22_5_1807,Entered Royal Naval Colle
+6474,p_7_11,22_5_1807,Entered Royal Naval College
 6475,p_7_11,6_2_1815,Lieutenant
 6476,p_7_11,15_5_1823,Commander
 6477,p_7_11,4_10_1825,Captain
@@ -6499,7 +6498,7 @@
 6533,p_7_21,10_9_1857,Vice-Admiral
 6534,p_7_21,26_2_1858,Retired Vice-Admiral
 6535,p_7_21,27_4_1863,Retired Admiral
-6536,p_7_22,7_11_1816,Entered Royal Naval Colle
+6536,p_7_22,7_11_1816,Entered Royal Naval College
 6537,p_7_22,22_7_1822,Lieutenant
 6538,p_7_22,28_6_1838,Commander
 6539,p_7_22,9_11_1846,Captain
@@ -6522,7 +6521,7 @@
 6556,p_7_26,25_7_1864,Captain
 6557,p_7_26,23_7_1880,Rear-Admiral
 6558,p_7_26,7_7_1886,Vice-Admiral
-6559,p_7_27,1_6_1820,Entered Royal Naval Colle
+6559,p_7_27,1_6_1820,Entered Royal Naval College
 6560,p_7_27,18_9_1828,Lieutenant
 6561,p_7_27,6_6_1838,Commander
 6562,p_7_27,24_7_1845,Captain
@@ -6614,7 +6613,7 @@
 6648,p_7_51,15_3_1865,Lieutenant
 6649,p_7_51,2_3_1872,Commander
 6650,p_7_51,29_1_1880,Captain
-6651,p_7_52,20_11_1816,Entered Royal Naval Colle
+6651,p_7_52,20_11_1816,Entered Royal Naval College
 6652,p_7_52,24_7_1825,Lieutenant
 6653,p_7_52,23_11_1841,Commander
 6654,p_7_52,9_11_1846,Captain
@@ -6733,8 +6732,8 @@
 6767,p_7_80,11_9_1865,Commander
 6768,p_7_80,2_9_1872,Captain
 6769,p_7_80,22_2_1888,Retired Captain
-6770,p_7_80,1_1_1889,Retired Rear Admiral
-6771,p_7_80,9_12_1894,Retired Vice Admiral
+6770,p_7_80,1_1_1889,Retired Rear-Admiral
+6771,p_7_80,9_12_1894,Retired Vice-Admiral
 6772,p_7_81,8_1_1828,Entered Navy
 6773,p_7_81,9_5_1839,Lieutenant
 6774,p_7_81,20_9_1843,Commander
@@ -6770,7 +6769,7 @@
 6804,p_7_90,7_3_1867,Lieutenant
 6805,p_7_90,8_7_1871,Commander
 6806,p_7_90,30_6_1882,Captain
-6807,p_7_91,6_9_1827,Entered Royal Naval Colle
+6807,p_7_91,6_9_1827,Entered Royal Naval College
 6808,p_7_91,28_6_1838,Lieutenant
 6809,p_7_91,7_2_1846,Commander
 6810,p_7_91,17_4_1854,Captain
@@ -6778,7 +6777,7 @@
 6812,p_7_91,1_4_1870,Retired Rear-Admiral
 6813,p_7_92,13_12_1845,Lieutenant
 6814,p_7_92,10_5_1856,Commander
-6815,p_7_93,6_3_1823,Entered Royal Naval Colle
+6815,p_7_93,6_3_1823,Entered Royal Naval College
 6816,p_7_93,8_6_1833,Lieutenant
 6817,p_7_93,30_7_1844,Commander
 6818,p_7_93,19_10_1854,Captain
@@ -6821,7 +6820,7 @@
 6855,p_7_105,3_6_1826,Lieutenant
 6856,p_7_105,28_6_1838,Commander
 6857,p_7_105,7_3_1842,Captain
-6858,p_7_106,2_1827,Entered Royal Naval Colle
+6858,p_7_106,2_1827,Entered Royal Naval College
 6859,p_7_106,6_2_1837,Lieutenant
 6860,p_7_107,24_6_1846,Lieutenant
 6861,p_7_107,8_1_1852,Commander
@@ -6889,7 +6888,7 @@
 6923,p_7_123,18??,Lieutenant
 6924,p_7_123,13_6_1815,Commander
 6925,p_7_123,22_7_1830,Captain
-6926,p_7_124,4_2_1813,Entered Royal Navy Colleg
+6926,p_7_124,4_2_1813,Entered Royal Naval College
 6927,p_7_124,14_8_1819,Lieutenant
 6928,p_7_124,18_5_1822,Commander
 6929,p_7_124,6_6_1825,Captain
