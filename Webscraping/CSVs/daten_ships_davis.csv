@@ -60,7 +60,7 @@ ShowShip.php?id=1044	r	Alfred	1819									Asia 1811
 ShowShip.php?id=2329		Algerine	1829	W	W	Brig-sloop	231	297	10	1844		
 ShowShip.php?id=1046		Algerine	1857	W	S	Gunboat	299		1	1894	13	
 		Algerine	1880	C	S	Gunvessel		835	3	1892		
-ShowShip.php?id=12		Algiers	1854	W	S	2nd rate, 2 decker	3340	4730	91	1870		11 converted to screw on stocks
+ShowShip.php?id=12		Algiers	1854	W	S	2nd rate, 2 decker	3340	4730	91	1870	11	Converted to screw on stocks
 ShowShip.php?id=1047	r	Algiers	1883								12	Anson 1860
 ShowShip.php?id=1048	r	Algiers	1915									Triumph 1870
 ShowShip.php?id=2381		Alligator	1787	W	W	6th rate	599		28	1814		
@@ -1533,7 +1533,7 @@ ShowShip.php?id=2158		Tartarus	1834	W	P	Gunvessel	523	560	2	1860
 ShowShip.php?id=2160		Teazer	1846	W	S	Gunvessel	296		2	1862		
 ShowShip.php?id=2161		Teazer	1868	C	S	Gunvessel	464	603	4	1887	467	
 ShowShip.php?id=2516		Tees	1817	W	W	6th rate	452		28	1872		1826.10 lent as church ship
-ShowShip.php?id=2536		Temeraire	1876	I	P	central-battery ironclad		8571	14	1921		1904.04 = Indus II t.s.
+ShowShip.php?id=2536		Temeraire	1876	I	S	central-battery ironclad		8571	14	1921		1904.04 = Indus II t.s.
 ShowShip.php?id=2162		Tenedos	1812	W	W	5th rate	1083		38	1875		1843 convict hulk
 ShowShip.php?id=183		Tenedos	1870	W	S	Sloop (1876: Corvette)	1275	1755	6	1887	468	
 ShowShip.php?id=2163	r	Tenedos	1904									Triumph 1870
