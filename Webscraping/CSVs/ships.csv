@@ -121,7 +121,7 @@ ShowShip.php?id=1087,118,,r,Atalanta,1878,,,,,,,,,Juno 1844
 ShowShip.php?id=1088,119,0,,Atalante,1860,I,S,Storeship,295,,,1870,,
 ShowShip.php?id=2495,120,0,,Atholl,1820,W,W,6th rate,503,,28,1863,,1832 troopship
 ShowShip.php?id=45,121,0,,Atlas,1860,W,S,2nd rate,3318,5260,91,1904,29,Not completed for sea. 1884 lent to Metropolitan Asylum Board
-ShowShip.php?id=1090,122,1,,Audacious,1869,I,S,Central battery ironclad,3774,6010,14,1927,30,1902 torpedo d.s. 1904 = Fisgard. 1906 t.s. 1914 = Imperiéuse repair ship
+ShowShip.php?id=1090,122,1,,Audacious,1869,I,S,Central battery ironclad,3774,6010,14,1927,30,1902 torpedo d.s. 1904 = Fisgard. 1906 t.s. 1914 = ImperiÃ©use repair ship
 ShowShip.php?id=2384,123,0,,Aurora,1809,W,W,Sloop,247,,14,18??,,1810.09 captured by France off Mauritius
 ShowShip.php?id=1091,124,0,,Aurora,1814,W,W,5th rate,1083,,38,1851,,1808 launched. 1814.02.26 captured as Clorinde (French). 1832 c.h.
 ShowShip.php?id=74,125,0,,Aurora,1861,W,S,Frigate,2558,3498,51,1881,,
@@ -624,7 +624,7 @@ ShowShip.php?id=84,621,0,,Forte,1858,W,S,Frigate,2364,3456,51,1905,185,1880 r.s.
 ShowShip.php?id=1474,622,,r,Forte,1890,,,,,,,,,Pembroke 1812
 ShowShip.php?id=190,623,1,,Forth,1833,W,W,5th rate,1215,1792,44,1883,,1856 mortar frigate 2 mortars. 1869 = Jupiter c.h.
 ShowShip.php?id=1475,624,,r,Fortitude,1833,,,,,,,,,Cumberland 1807
-ShowShip.php?id=2408,625,0,,Fortunée,1800,W,W,5th rate,921,,36,1818,,
+ShowShip.php?id=2408,625,0,,Fortun?e,1800,W,W,5th rate,921,,36,1818,,
 ShowShip.php?id=1476,626,0,,Forward,1855,W,S,Gunboat,232,,4,1869,186,1869 sold Esquimalt for mercentile service
 ShowShip.php?id=1477,627,0,,Foudroyant,1798,W,W,2nd rate,2062,,80,1897,,1820 guardship. 1862 t.s. 1897.06.16 wrecked near Blackpool
 ShowShip.php?id=1478,628,,r,Foudroyant,1897,,,,,,,,,Trincomalee 1817
@@ -781,7 +781,7 @@ ShowShip.php?id=1593,778,0,,Icarus,1814,W,W,Brig-sloop,234,,18,1861,,
 ShowShip.php?id=160,779,0,,Icarus,1858,W,S,Sloop,580,868,11,1875,246,
 ShowShip.php?id=1594,780,0,,Illustrious,1803,W,W,3rd rate,1746,,74,1868,,1854 gunnery ship
 ShowShip.php?id=1595,781,0,,Imaum,1836,W,W,3rd rate,1776,,76,1863,,
-ShowShip.php?id=87,782,0,,Immortalité,1859,W,S,Frigate,3058,3058,51,1883,,
+ShowShip.php?id=87,782,0,,Immortalit?,1859,W,S,Frigate,3058,3058,51,1883,,
 ShowShip.php?id=2416,783,0,,Imogene,1831,W,W,6th rate,660,,28,1840,,1840.09.19 burnt by accident at Plymouth
 ,784,1,,Imogene,1864,,,Coastguard vessel,,300,2,1903,,1884 = Argus
 ShowShip.php?id=1598,785,0,,Implacable,1805,W,W,3rd rate,1882,,74,1949,,1805.11.03 captured Duguay-Trouin (French). 1855 t.s. 1912 te be preserved. 1949.12.02 scuttled off the Owers
@@ -792,9 +792,9 @@ ShowShip.php?id=1602,789,,r,Impregnable III,1910,,,,,,,,,Black Prince 1861
 ShowShip.php?id=1603,790,,r,Impregnable III,1922,,,,,,,,,Ganges 1821
 ShowShip.php?id=1604,791,,r,Impregnable IV,1916,,,,,,,,,Circe 1827
 ShowShip.php?id=1605,792,,r,Impregnable IV,1919,,,,,,,,,Caroline 1882
-ShowShip.php?id=2519,793,1,,Impérieuse,1793,W,W,5th rate,1040,,40,1858,,1793.10.11 captured from the French. 1803.09.03 = Unité. 1832 h.s.
-ShowShip.php?id=70,794,0,,Impérieuse,1852,W,S,Frigate,2358,3345,51,1867,247,Converted to screw on stocks
-ShowShip.php?id=1597,795,,r,Impérieuse,1914,,,,,,,,,Audacious 1869
+ShowShip.php?id=2519,793,1,,ImpÃ©rieuse,1793,W,W,5th rate,1040,,40,1858,,1793.10.11 captured from the French. 1803.09.03 = UnitÃ©. 1832 h.s.
+ShowShip.php?id=70,794,0,,ImpÃ©rieuse,1852,W,S,Frigate,2358,3345,51,1867,247,Converted to screw on stocks
+ShowShip.php?id=1597,795,,r,ImpÃ©rieuse,1914,,,,,,,,,Audacious 1869
 ShowShip.php?id=1606,796,0,,Inconstant,1836,W,W,5th rate,1422,,36,1862,,
 ShowShip.php?id=1607,797,1,,Inconstant,1868,I,S,Unarmoured frigate,,5780,16,1956,249,Also ships book ADM 136/49. 1898 h.s. 1907 = Impregnable III. 1922 = Defiance IV. 1930 = Defiance II
 ShowShip.php?id=1608,798,0,,Indefatigable,1848,W,W,4th rate,2044,2626,50,1914,,1865 t.s.
@@ -1498,7 +1498,7 @@ ShowShip.php?id=2134,1495,,r,Sultan,1932,,,,,,,,,Sultan 1870
 ShowShip.php?id=2458,1496,0,,Superb,1798,W,W,3rd rate,1919,,74,1826,,
 ShowShip.php?id=2135,1497,0,,Superb,1842,W,W,2nd rate,2583,,80,1869,,
 ShowShip.php?id=2561,1498,0,,Superb,1875,I,S,Central battery ironclad,,9170,16,1906,,order by Turkey as Memduhie later Hamidieh+ADs- purchased while building during Rusina war scare
-ShowShip.php?id=2459,1499,0,,Superiéure,1803,W,W,Schooner,197,,14,1814,,1803.06.30 captured from French off San Domingo
+ShowShip.php?id=2459,1499,0,,Superi?ure,1803,W,W,Schooner,197,,14,1814,,1803.06.30 captured from French off San Domingo
 ShowShip.php?id=2137,1500,0,,Supply,1854,I,S,Storeship,638,1100,,1879,456,Purchased on stocks
 ,1501,0,,Surly,1855,W,W,Mortar vessel,117,,1,1863,,1855 = MV.9
 ,1502,0,,Surly,1856,W,S,Gunboat,232,,4,1869,457,
@@ -1613,7 +1613,7 @@ ShowShip.php?id=2222,1610,,r,Unicorn II,1939,,,,,,,,,Unicorn 1824
 ShowShip.php?id=2464,1611,0,,Union,1823,W,W,Schooner,85,,3,1828,,1828.05.17 wrecked in West Indies
 ShowShip.php?id=2465,1612,0,,Unique,1807,W,W,Gun-brig,183,,12,1809,,1807.09.23 captured from French in West Indies. 1809.05.31 burnt by French at Guadeloupe
 ,1613,0,,Unity,1788,W,W,Store vessel,142,,,1878,,18?? = YC.13
-ShowShip.php?id=2520,1614,,r,Unité,1803,,,,,,,,,Impérieuse 1793
+ShowShip.php?id=2520,1614,,r,UnitÃ©,1803,,,,,,,,,ImpÃ©rieuse 1793
 ShowShip.php?id=2224,1615,0,,Urgent,1837,W,P,Packet,561,,,1850,,
 ShowShip.php?id=2225,1616,0,,Urgent,1855,I,S,Troopship,,2801,2,1903,486,Laid down as Assaye purchased on stocks. 1876 d.s.
 ShowShip.php?id=2226,1617,1,,Valiant,1863,I,S,Broadside ironclad frigate,,6710,18,1956,487,1888 h.s. 1897 d.s. 1904 = Indus IV. 1916 = Valiant (old). 1919 = Valiant III. 1924 oil hulk
