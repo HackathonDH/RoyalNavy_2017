@@ -23,7 +23,7 @@ ShowShip.php?id=2508,18,1,Admiralty,1814,W,W,Yacht,115,,0,1870,,1830.07 = Plymou
 ShowShip.php?id=2509,18,2,Plymouth,1830,,,,,,,,,Admiralty 1814
 ShowShip.php?id=1017,21,0,Advice,1837,W,P,Packet,197,,1,1870,5,
 ShowShip.php?id=1018,22,0,Aeolus,1825,W,W,5th rate,1035,,46,1886,,1846 store ship. 1855 accommodation ship. 1861 lazarette
-ShowShip.php?id=2328,23,0,Aetna,1824,W,W,Bomb,375,,6,18??,,1826 survey vessel. 1846 sold Bristol Seamen''s Friendly Society.'
+ShowShip.php?id=2328,23,0,Aetna,1824,W,W,Bomb,375,,6,18??,,1826 survey vessel. 1846 sold Bristol Seamen's 'Friendly Society.'
 ,24,0,Aetna,1855,W,S,Floating battery,1469,,14,1855,,1855.05.03 caught fire on stocks and launched herself
 ,25,0,Aetna,1856,W,S,Floating battery,1558,,16,1873,6,1866 h.s. 1873 accidentally burnt
 ShowShip.php?id=138,27,0,Africa,1862,W,S,Sloop,669,913,,18??,7,1862.08 = China sold to Chinese Imperial Customs. 1865 resold to Egyptian government
@@ -896,7 +896,7 @@ ShowShip.php?id=1703,911,0,Lizard,1844,I,P,Gunvessel,340,505,3,1869,286,
 ,912,0,Llewellyn,1848,W,P,Packet,650,,,1850,,
 ShowShip.php?id=1705,913,0,Locust,1840,W,P,Gunvessel,283,470,1,1894,287,1869 tug
 ShowShip.php?id=26,914,0,London,1840,W,W,2nd rate,2590,4375,90,1884,288,1858 screw. 1874 h.s.
-ShowShip.php?id=1707,915,0,Lord Clyde,1864,W,S,Broadside ironclad,4067,7750,24,185,290,
+ShowShip.php?id=1707,915,0,Lord Clyde,1864,W,S,Broadside ironclad,4067,7750,24,1875,290,
 ShowShip.php?id=1708,916,0,Lord Warden,1865,W,S,Broadside ironclad,4080,7842,20,1889,,
 ShowShip.php?id=1709,917,0,Louisa,1855,W,S,Gunboat,232,,4,1867,289,
 ShowShip.php?id=1710,918,0,Lucifer,1837,W,P,Gunvessel,387,,2,1893,,
