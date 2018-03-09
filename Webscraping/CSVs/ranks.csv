@@ -98,7 +98,7 @@
 96,p_0_23,2_4_1845,Lieutenant
 97,p_0_23,12_8_1853,Commander
 98,p_0_23,31_1_1861,Captain
-99,p_0_23,1875,Retired
+99,p_0_23,28_11_1875,Retired
 100,p_0_23,1_4_1877,Retired Rear-Admiral
 101,p_0_23,6_5_1882,Retired Vice-Admiral
 102,p_0_24,3_10_1825,Lieutenant
@@ -314,7 +314,7 @@
 312,p_0_72,6_5_1841,Captain
 313,p_0_72,11_2_1861,Rear-Admiral
 314,p_0_72,2_4_1866,Vice-Admiral
-315,p_0_72,1866,Retired Vice-Admiral
+315,p_0_72,26_3_1866,Retired
 316,p_0_72,20_10_1872,Retired Admiral
 317,p_0_73,19_3_1830,Entered Navy
 318,p_0_73,1_11_1843,Lieutenant
@@ -851,7 +851,8 @@
 849,p_1_3,13_11_1806,Entered Navy
 850,p_1_3,25_2_1815,Lieutenant
 851,p_1_3,1_1_1829,Commander
-852,p_1_3,1851,Retired Captain
+,p_1_3,25_6_1851,Retired
+852,p_1_3,28_7_1851,Retired Captain
 853,p_1_4,1844,Entered Navy
 854,p_1_4,25_5_1852,Lieutenant
 855,p_1_4,26_2_1858,Commander
@@ -866,7 +867,7 @@
 864,p_1_6,1_4_1870,Rear-Admiral
 865,p_1_7,4_3_1858,Lieutenant
 866,p_1_7,19_7_1866,Commander
-867,p_1_7,18??,Captain
+867,p_1_7,1_1_1872,Captain
 868,p_1_8,25_5_1852,Lieutenant
 869,p_1_8,1_4_1858,Commander
 870,p_1_9,1_6_1799,Entered Navy
@@ -952,7 +953,8 @@
 950,p_1_24,27_12_1886,Retired
 951,p_1_24,18_11_1888,Retired Vice-Admiral
 952,p_1_24,28_5_1894,Retired Admiral
-953,p_1_25,1848,Lieutenant
+,p_1_25,10_4_1849,Mate
+953,p_1_25,23_12_1850,Lieutenant
 954,p_1_25,29_9_1855,Commander
 955,p_1_25,5_3_1863,Captain
 956,p_1_25,30_12_1878,Retired Rear-Admiral
@@ -2697,7 +2699,7 @@
 2695,p_3_28,3_12_1863,Retired Admiral
 2696,p_3_29,14_1_1857,Lieutenant
 2697,p_3_29,1_1_1867,Commander
-2698,p_3_29,2_1873,Captain
+2698,p_3_29,13_2_1873,Captain
 2699,p_3_30,30_12_1857,Lieutenant
 2700,p_3_30,4_8_1868,Commander
 2701,p_3_31,6_8_1814,Lieutenant
@@ -3359,8 +3361,8 @@
 3357,p_3_174,27_5_1813,Lieutenant
 3358,p_3_175,13_6_1823,Entered Navy
 3359,p_3_175,28_2_1832,Lieutenant
-3360,p_3_175,2_1841,Commander
-3361,p_3_175,9_1851,Captain
+3360,p_3_175,22_2_1841,Commander
+3361,p_3_175,18_9_1851,Captain
 3362,p_3_175,7_1864,Retired
 3363,p_3_175,24_5_1867,Retired Rear-Admiral
 3364,p_3_175,29_5_1873,Retired Vice-Admiral
@@ -5838,7 +5840,7 @@
 5836,p_6_64,3_2_1828,Commander
 5837,p_6_64,8_9_1829,Captain
 5838,p_6_65,1_10_1861,Lieutenant
-5839,p_6_65,18??,Commander
+5839,p_6_65,29_11_1872,Commander
 5840,p_6_66,17_8_1816,Entered Navy
 5841,p_6_66,25_3_1833,Lieutenant
 5842,p_6_66,20_6_1846,Commander
@@ -6944,7 +6946,7 @@
 6942,p_7_128,16_9_1864,Retired Rear-Admiral
 6943,p_7_128,14_7_1871,Retired Vice-Admiral
 6944,p_7_128,1_8_1877,Retired Admiral
-6945,p_7_129,1851,Lieutenant
+6945,p_7_129,11_4_1851,Lieutenant
 6946,p_7_129,22_3_1858,Commander
 6947,p_7_129,11_4_1866,Captain
 6948,p_7_130,11_5_1830,Entered Navy
