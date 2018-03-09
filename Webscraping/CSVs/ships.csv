@@ -208,7 +208,6 @@ ShowShip.php?id=1155,204,0,Boxer,1837,,P,Packet,159,,,1841,,
 ShowShip.php?id=1156,205,0,Boxer,1855,W,S,Gunboat,232,,3,1865,59,
 ,206,0,Boxer,1868,C,S,Gunvessel,,605,4,1887,60,
 ShowShip.php?id=1158,207,1,Boyne,1810,W,W,2nd rate,2155,,98,1861,,1834 = Excellent gunnery ship. 1859 = Queen Charlotte
-ShowShip.php?id=1420,207,2,Excellent,1834,,,,,,,,,Boyne 1810
 ShowShip.php?id=1938,207,3,Queen Charlotte,1859,,,,,,,,,Boyne 1810
 ShowShip.php?id=1159,208,0,Bramble,1822,W,W,Cutter,161,,10,1876,,1842 survey vessel. 1853 lent as diving-bell vessel. 1876 sold as lightship
 ShowShip.php?id=1160,209,0,Brave,1856,W,S,Gunboat,232,,4,1869,61,Never completed for sea
@@ -940,7 +939,6 @@ ShowShip.php?id=1737,952,0,Manly,1856,W,S,Gunboat,232,,4,1863,,
 ,954,0,Marianne,1858,W,W,Receiving ship,490,,,1867,,ex-slaver purchased
 ShowShip.php?id=1740,955,0,Mariner,1846,W,W,Brig,481,,16,1865,,
 ShowShip.php?id=2,957,1,Marlborough,1855,W,S,1st rate,3853,6065,131,1924,,1878 t.s. 1904 = Vernon II. Capsized in tow to breakers
-ShowShip.php?id=2237,957,2,Vernon II,1904,,,,,,,,,Marlborough 1855
 ShowShip.php?id=28,958,0,Mars,1848,W,W,2nd rate,2576,3482,80,1929,300,1855 screw. 1869 lent as t.s.
 ShowShip.php?id=2427,959,0,Martin,1817,W,W,Sloop,399,,18,1817,,1817.12.08 wrecked on west coast of Ireland
 ShowShip.php?id=1742,960,1,Martin,1850,W,W,Brig,481,,16,1907,,1890 = Kingfisher t.s.
@@ -1187,7 +1185,7 @@ ShowShip.php?id=1911,1201,0,Portland,1822,W,W,4th rate,1476,,52,1862,,Laid down 
 ShowShip.php?id=1912,1202,0,Portsmouth,1742,W,W,Yacht,83,,6,1869,,1794 rebuilt 102 bm
 ShowShip.php?id=1913,1203,0,Powerful,1826,W,W,2nd rate,2296,,84,1864,,1860 target
 ShowShip.php?id=1915,1205,1,President,1829,W,W,4th rate,1537,,52,1903,,1862 RNR drill ship. 1903 = Old President
-ShowShip.php?id=1831,1205,2,Old President,1903,,,,,,,,,President 1829
+ShowShip.php?id=1831,1205,3,Old President,1903,,,,,,,,,President 1829
 ShowShip.php?id=2523,1206,0,Primrose,1810,W,W,Brig-sloop,383,,18,1832,,
 ,1207,0,Primrose,1856,W,S,Gunboat,232,,4,1864,,
 ,1208,0,Prince Albert,1864,I,S,Coast defence turret ship,2537,3687,4,1899,371,
@@ -1221,7 +1219,6 @@ ShowShip.php?id=1935,1233,0,Quail,1830,W,W,Cutter,108,,4,1859,,To Liberian govt
 ShowShip.php?id=1936,1234,0,Quail,1856,W,S,Gunboat,232,,4,1861,379,
 ShowShip.php?id=36,1235,0,Queen,1839,W,W,1st rate,3104,,110,1871,380,Laid down as Royal Frederick. 1859 screw 86 guns 3249 bm
 ShowShip.php?id=1937,1236,1,Queen Charlotte,1810,W,W,1st rate,2289,,104,1892,,1859 = Excellent gunnery ship
-ShowShip.php?id=1421,1236,2,Excellent,1859,,,,,,,,,Queen Charlotte 1810
 ShowShip.php?id=1940,1238,0,Racehorse,1830,W,W,Sloop,438,,18,1901,,1860 c.h.
 ShowShip.php?id=1941,1239,0,Racehorse,1860,W,S,Gunvessel,695,877,3,1864,,1864.11.04 wrecked Chefoo (modern Yantai) China
 ShowShip.php?id=1942,1240,0,Racer,1833,W,W,Brig-sloop,431,,16,1852,,
@@ -1629,7 +1626,6 @@ ShowShip.php?id=2233,1624,0,Vengeance,1824,W,W,2nd rate,2284,,84,1897,,1861 r.s.
 ShowShip.php?id=2521,1625,0,Vengeur,1810,W,W,3rd rate,1765,,74,1843,,1824.02 r.s.
 ShowShip.php?id=2234,1626,0,Venus,1820,W,W,5th rate,1069,,46,1864,,1848-62 lent as t.s.
 ShowShip.php?id=2235,1627,1,Vernon,1832,W,W,4th rate,1832,2388,50,1923,,1876 torpedo school. 1886 = Actaeon
-ShowShip.php?id=1007,1627,2,Actaeon,1886,,,,,,,,,Vernon 1832
 ShowShip.php?id=2239,1631,0,Vestal,1833,W,W,6th rate,913,,26,1862,,
 ShowShip.php?id=184,1632,0,Vestal,1865,W,S,Sloop,1081,1597,4,1884,489,
 ShowShip.php?id=2240,1633,0,Vesuvius,1839,W,P,1st class sloop,970,1283,6,1866,490,
