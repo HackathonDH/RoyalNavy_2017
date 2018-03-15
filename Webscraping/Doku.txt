@@ -1,0 +1,73 @@
+Allgemeines:
+Encoding: UTF-8
+Filed-delimiter: ,
+quote-char: “
+Das Datumsformat lautet: d_m_yyyy
+Die mit * gekennzeichneten Attribute sind Optional
+
+names.csv
+Angehörige der Royal Navy
+-id: Personen ID. Primärschlüssel. Abschnitte 0_x bis 7_x wurden beim Hackathon erfasst, 8_x anhand von Originalakten
+-forename: Vornamen der Person
+-surname: Nachnamen der Person
+-*born: Geburtsdatum
+-*died: Sterbedatum
+-*link: Link zu Online-Quelle, z.B. p.davis
+
+ranks.csv
+Rangänderungen
+-order: Primärschlüssel. Fortlaufend, dient der Sortierung der Datensätze
+-PID: Fremdschlüssel aus nemas.csv
+-date: Datum der Rangänderung
+-rank: neuer Rang
+
+ships.csv
+Schiffe der Royal Navy. Primärschlüssel: [ID]_[Version]
+-*Link: Link zu Online-Quelle, z.B. p.davis
+-ID: ID des Schiffes als physisches Objekt
+-Version: Version des Schiffes; zählt Umbenennungen/Dienständerungen; 0 bedeutet, es sind keine weiteren Versionen des Schiffes erfasst
+-Shipname: Name des Schiffes
+-Launch: Jahr des Stapellaufs
+-*H.: Hüllmaterial. W = Wood, I = Iron, N = None, S = Steel, C = composite
+-*P.: Pantriebsart. W = Segel, S = Schraube, P = Schaufelrad, H = Hydraulik, N = None
+-*Type: Schiffstyp, Bewertung
+-*B.M.: builders measure in Tonnen
+-*Disp.: Verdrängung in Tonnen
+-*Guns: Zahl der Waffen zu Beginn des Dienstabschnittes
+-*Fate: Jahr der endgültigen Außerdienststellung/Zerstörung
+-*S.B.: ships book in PRO London: ADM 135/xxx
+-*Note: Weitere Agaben
+
+shore_est.csv
+Stationen mit abweichender Dienstform (Küstenstationen, Verwaltung,…)
+-LID: Primärschlüssel. ID des Land-Stationierungsortes
+-Station_name: Gebräuchliche Bezeichnung
+-Type: Kategorie der Station zur Klassifizierung der Art des Dort verrichteten Dienstes
+-*Established: Jahr der Einrichtung der Station
+-*Closed: Jahr der Schließung der Station
+-*Buildings: Zur Station gehörende Gebäude
+-*Coordinates: Koordinaten der Station
+
+shore_ships.csv
+Zuweisung von als Gebäude Genutzten Schiffen zu Landstationen
+-LID: Fremdschlüssel aus shore_est.csv
+-From: Beginn der Zugehörigkeit
+-To: Ende der Zugehörigkeit
+-Ship: Name des Schiffes während der Zugehörigkeit
+-SID: Fremdschlüssel aus ships.csv. Dort nur aufgelöst, wenn auf dem Schiff auch noch normaler Dienst möglich ist.
+
+stations.csv
+Stationierungen der Personen
+-Order: Primärschlüssel. Dient der Sortierung der Datensätze
+-PID: Fremdschlüssel aus names.csv
+-*Date_from: Beginn der Stationierung
+-*Date_to: Ende der Stationierung
+-Station_Name: Name der Station
+-SID: Fremdschlüssel aus ships.csv oder shore_est.csv. Die ID 0_0 verweißt auf ein noch nicht erfasstes Schiff, die ID 0 auf eine noch nicht erfasste Landstation.
+
+status.csv
+Vorübergehende rangähnliche Dienstformen, beschreibende Zusätze zu Stationierungen
+-PID: Fremdschlüssel aus names.csv
+-*From: Beginn des Zustandes
+-*To: Ende des Zustandes
+-Status: Bezeichnung des Zustandes
