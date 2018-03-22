@@ -1,4 +1,4 @@
-,id,forename,surname,born,died,link
+Order,PID,Forename,Surname,Born,Died,Link
 0,p_0_0,Charles,Adam,6_10_1780,19_9_1853,http://www.pdavis.nl/ShowBiog.php?id=1
 1,p_0_1,John,Adams,2_1798,17_12_1866,http://www.pdavis.nl/ShowBiog.php?id=114
 2,p_0_2,Richard,Adams,1835,26_2_1872,http://www.pdavis.nl/ShowBiog.php?id=1451

@@ -1,4 +1,4 @@
-ID,Station_Name,Type,Established,Closed,Buildings,Coordinates
+LID,Stationname,Type,Established,Closed,Buildings,Coordinates
 1,Aid-de-camp,Andere,,,,
 2,Sheerness Dockyard,Hafenverwaltung,1665,1960,,
 3,Chatham Dockyard,Hafenverwaltung,1567,1984,,
