@@ -1314,7 +1314,6 @@ Order,PID,Date,Rank
 1310,p_1_106,25_2_1858,Lieutenant
 1311,p_1_107,21_9_1798,Entered Navy
 1312,p_1_107,14_3_1807,Lieutenant
-1313,p_1_108,18??,Lieutenant
 1314,p_1_108,2_11_1814,Commander
 1315,p_1_109,1_1_1809,Entered Navy
 1316,p_1_109,9_1_1823,Lieutenant
@@ -1583,7 +1582,6 @@ Order,PID,Date,Rank
 1579,p_1_170,31_12_1879,Captain
 1580,p_1_170,30_5_1893,Retired
 1581,p_1_170,1_1_1895,Retired Rear-Admiral
-1582,p_1_170,????,Retired Vice-Admiral
 1583,p_1_171,21_3_1829,Entered Navy
 1584,p_1_171,15_3_1841,Lieutenant
 1585,p_1_171,6_2_1852,Commander
@@ -1883,7 +1881,6 @@ Order,PID,Date,Rank
 1879,p_1_229,27_10_1884,Retired Admiral
 1880,p_1_230,8_1_1836,Lieutenant
 1881,p_1_230,9_8_1844,Commander
-1882,p_1_230,18??,Retired
 1883,p_1_230,1_7_1864,Retired Captain
 1884,p_1_231,23_12_1830,Entered Navy
 1885,p_1_231,23_11_1841,Lieutenant
@@ -1974,7 +1971,6 @@ Order,PID,Date,Rank
 1970,p_1_249,5_6_1827,Lieutenant
 1971,p_1_249,10_1_1837,Commander
 1972,p_1_249,6_5_1841,Captain
-1973,p_2_0,18??,Lieutenant
 1974,p_2_0,6_9_1823,Commander
 1975,p_2_0,10_1_1837,Captain
 1976,p_2_1,7_12_1850,Entered Navy
@@ -2310,7 +2306,6 @@ Order,PID,Date,Rank
 2306,p_2_71,1_4_1824,Entered Navy
 2307,p_2_71,6_6_1834,Lieutenant
 2308,p_2_71,23_11_1841,Commander
-2309,p_2_71,18??,Retired
 2310,p_2_71,1_7_1864,Retired Captain
 2311,p_2_72,22_10_1823,Lieutenant
 2312,p_2_72,21_10_1827,Commander
@@ -2387,7 +2382,6 @@ Order,PID,Date,Rank
 2383,p_2_92,4_12_1841,Entered Navy
 2384,p_2_92,30_5_1848,Lieutenant
 2385,p_2_92,24_11_1862,Commander
-2386,p_2_92,18??,Retired
 2387,p_2_92,24_11_1877,Retired Captain
 2388,p_2_93,7_2_1852,Lieutenant
 2389,p_2_93,15_1_1855,Commander
@@ -2542,7 +2536,6 @@ Order,PID,Date,Rank
 2538,p_2_127,22_1_1855,Rear-Admiral
 2539,p_2_127,5_1_1861,Vice-Admiral
 2540,p_2_127,24_1_1865,Admiral
-2541,p_2_127,18??,Retired
 2542,p_2_128,17_2_1829,Lieutenant
 2543,p_2_128,3_9_1831,Commander
 2544,p_2_128,14_6_1834,Captain
@@ -2971,7 +2964,6 @@ Order,PID,Date,Rank
 2967,p_3_85,1_5_1875,Retired Rear-Admiral
 2968,p_3_85,15_6_1879,Retired Vice-Admiral
 2969,p_3_85,30_3_1885,Retired Admiral
-2970,p_3_86,18??,Lieutenant
 2971,p_3_86,8_11_1826,Commander
 2972,p_3_86,10_1_1837,Captain
 2973,p_3_87,22_4_1847,Entered Navy
@@ -4337,7 +4329,6 @@ Order,PID,Date,Rank
 4333,p_4_152,1_4_1870,Admiral
 4334,p_4_152,10_11_1876,Retired
 4335,p_4_152,10_6_1881,Retired Admiral of the Fleet
-4336,p_4_153,18??,Lieutenant
 4337,p_4_153,2_2_1836,Commander
 4338,p_4_154,9_4_1851,Lieutenant
 4339,p_4_154,10_5_1856,Commander
@@ -4920,7 +4911,6 @@ Order,PID,Date,Rank
 4916,p_5_46,22_4_1834,Lieutenant
 4917,p_5_46,10_11_1842,Commander
 4918,p_5_46,26_7_1856,Captain
-4919,p_5_46,18??,Retired
 4920,p_5_46,1_1_1875,Retired Rear-Admiral
 4921,p_5_46,15_6_1879,Retired Vice-Admiral
 4922,p_5_47,4_8_1825,Entered Navy
@@ -5021,7 +5011,6 @@ Order,PID,Date,Rank
 5017,p_5_71,8_1_1827,Entered Navy
 5018,p_5_71,3_7_1840,Lieutenant
 5019,p_5_71,7_12_1842,Commander
-5020,p_5_71,18??,Retired
 5021,p_5_71,1_7_1864,Retired Captain
 5022,p_5_72,6_9_1799,Entered Navy
 5023,p_5_72,20_8_1806,Lieutenant
@@ -5119,7 +5108,6 @@ Order,PID,Date,Rank
 5115,p_5_90,9_1_1880,Retired Admiral
 5116,p_5_91,23_11_1841,Lieutenant
 5117,p_5_91,30_8_1845,Commander
-5118,p_5_91,18??,Retired
 5119,p_5_91,1_7_1864,Retired Captain
 5120,p_5_92,1_1_1801,Entered Navy
 5121,p_5_92,28_9_1809,Lieutenant
@@ -5781,7 +5769,6 @@ Order,PID,Date,Rank
 5777,p_6_50,23_12_1842,Commander
 5778,p_6_50,22_5_1866,Retired Captain
 5779,p_6_51,20_3_1823,Lieutenant
-5780,p_6_51,183?,Commander
 5781,p_6_52,3_8_1815,Entered Navy
 5782,p_6_52,27_11_1827,Lieutenant
 5783,p_6_52,23_11_1841,Commander
@@ -5903,8 +5890,6 @@ Order,PID,Date,Rank
 5899,p_6_79,1_4_1870,Rear-Admiral
 5900,p_6_79,20_12_1871,Retired
 5901,p_6_79,22_1_1877,Retired Vice-Admiral
-5902,p_6_80,18??,Lieutenant
-5903,p_6_80,18??,Commander
 5904,p_6_80,4_8_1826,Captain
 5905,p_6_81,18_2_1810,Entered Navy
 5906,p_6_81,7_1_1820,Lieutenant
@@ -6386,7 +6371,6 @@ Order,PID,Date,Rank
 6382,p_6_183,9_2_1864,Vice-Admiral
 6383,p_6_183,19_10_1864,Retired
 6384,p_6_183,10_9_1869,Retired Admiral
-6385,p_6_184,18??,Lieutenant
 6386,p_6_184,9_12_1826,Commander
 6387,p_6_185,6_12_1813,Entered Navy
 6388,p_6_185,26_6_1826,Lieutenant
@@ -6918,7 +6902,6 @@ Order,PID,Date,Rank
 6914,p_7_122,30_1_1863,Rear-Admiral
 6915,p_7_122,29_5_1869,Vice-Admiral
 6916,p_7_122,30_7_1875,Admiral
-6917,p_7_123,18??,Lieutenant
 6918,p_7_123,13_6_1815,Commander
 6919,p_7_123,22_7_1830,Captain
 6920,p_7_124,4_2_1813,Entered Royal Naval College
