@@ -1,6 +1,6 @@
 LID,From,To,Ship,SID
-3,1873,1879,Pembroke,Pembroke (1812)
-3,1890,1905,Pembroke,Duncan (1859)
+3,1873,1879,Pembroke,1133_1
+3,1890,1905,Pembroke,492_2
 3,1905,1917,Pembroke,Trent (1877)
 3,1917,1920,Pembroke,Nymphe (1888)
 13,1897,1941,Tamar,1526_0
@@ -8,11 +8,11 @@ LID,From,To,Ship,SID
 21,1830,1835,Excellent,Excellent (1787)
 21,1834,1859,Excellent,207_2
 21,1859,1892,Excellent,1236_2
-24,1873,1879,Pembroke,Pembroke (1812)
-24,1890,1905,Pembroke,Duncan (1859)
+24,1873,1879,Pembroke,1133_1
+24,1890,1905,Pembroke,492_2
 24,1905,1917,Pembroke,Trent (1877)
 24,1917,1920,Pembroke,Nymphe (1888)
-24,1919,1923,Pembroke,Achilles (1863)
+24,1919,1923,Pembroke,6_5
 24,1922,1922,Pembroke,Prince Rupert (1915)
 26,1862,1903,President,1205_2
 26,1903,1911,President,Gannet (1875)
@@ -20,11 +20,11 @@ LID,From,To,Ship,SID
 26,1922,1982,President,Saxifrage (1918)
 27,1876,1886,Vernon,1627_2
 27,1886,1895,Actaeon,1627_3
-27,1876,1895,Ariadne,Ariadne (1859)
-27,1886,1895,Vernon,Donegal (1858)
+27,1876,1895,Ariadne,99_1
+27,1886,1895,Vernon,462_2
 27,1895,1923,VernonII,957_2
 27,1895,1904,Vernon I,1627_4
-27,1895,1923,Vernon I,Donegal (1858)
+27,1895,1923,Vernon I,462_3
 27,1904,1923,Vernon III,1676_2
 27,1904,1923,Vernon IV,1627_5
 28,1893,1896,Vivid,1661_0

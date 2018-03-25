@@ -23,10 +23,10 @@ ShowShip.php?id=2508,18,1,Admiralty,1814,W,W,Yacht,115,,0,1870,,1830.07 = Plymou
 ShowShip.php?id=2509,18,2,Plymouth,1830,,,,,,,,,Admiralty 1814
 ShowShip.php?id=1017,21,0,Advice,1837,W,P,Packet,197,,1,1870,5,
 ShowShip.php?id=1018,22,0,Aeolus,1825,W,W,5th rate,1035,,46,1886,,1846 store ship. 1855 accommodation ship. 1861 lazarette
-ShowShip.php?id=2328,23,0,Aetna,1824,W,W,Bomb,375,,6,18??,,1826 survey vessel. 1846 sold Bristol Seamen's 'Friendly Society.'
+ShowShip.php?id=2328,23,0,Aetna,1824,W,W,Bomb,375,,6,,,1826 survey vessel. 1846 sold Bristol Seamen's 'Friendly Society.'
 ,24,0,Aetna,1855,W,S,Floating battery,1469,,14,1855,,1855.05.03 caught fire on stocks and launched herself
 ,25,0,Aetna,1856,W,S,Floating battery,1558,,16,1873,6,1866 h.s. 1873 accidentally burnt
-ShowShip.php?id=138,27,0,Africa,1862,W,S,Sloop,669,913,,18??,7,1862.08 = China sold to Chinese Imperial Customs. 1865 resold to Egyptian government
+ShowShip.php?id=138,27,0,Africa,1862,W,S,Sloop,669,913,,,7,1862.08 = China sold to Chinese Imperial Customs. 1865 resold to Egyptian government
 ShowShip.php?id=1022,28,0,Africaine,1827,W,W,5th rate,1173,,46,1903,,1867 Trinity House hulk
 ShowShip.php?id=1024,29,0,African,1825,W,P,Gunvessel,295,487,2,1862,,Laid down as Dee. Later tug
 ,30,0,African,1865,I,S,Tug,36,41,0,1907,8,
@@ -70,7 +70,7 @@ ShowShip.php?id=1051,68,1,Ambuscade,1846,,,,,,,,,Amphion 1846
 ShowShip.php?id=68,68,2,Amphion,1846,W,S,Frigate,1474,2049,36,1864,,Ordered as sailer Ambuscade. Converted to screw on stocks
 ,69,0,Amelia,1856,W,S,Gunboat,232,284,4,1865,15,
 ShowShip.php?id=2372,71,0,America,1810,W,W,3rd rate,1741,,74,1867,0,1835 50 gun 4th rate. 1864 target
-ShowShip.php?id=1054,72,0,Amethyst,1844,W,W,6th rate,923,,26,18??,,Lent for use as cable vessel. 1869 then sold as cable vessel
+ShowShip.php?id=1054,72,0,Amethyst,1844,W,W,6th rate,923,,26,,,Lent for use as cable vessel. 1869 then sold as cable vessel
 ShowShip.php?id=100,73,0,Amethyst,1873,W,S,Corvette,1405,1970,14,1887,16,
 ShowShip.php?id=1055,75,0,Amphion,1883,S,S,2nd class cruiser,,4300,10,1906,,
 ShowShip.php?id=1056,76,0,Amphitrite,1816,W,W,5th rate,1064,,46,1875,,1846 24 gun 6th rate. 1862 lent to contractors at Plymouth
@@ -98,7 +98,7 @@ ShowShip.php?id=1072,96,0,Argus,1849,W,P,Sloop,981,1630,6,1881,,
 ShowShip.php?id=2488,98,0,Ariadne,1816,W,W,6th rate,511,,20,1841,,
 ShowShip.php?id=72,99,1,Ariadne,1859,W,S,Frigate,3214,4583,26,1922,,1880 part of Vernon torpedo t.s. 1884 t.s. 1905 = Actaeon
 ShowShip.php?id=1008,99,2,Actaeon,1905,,,,,,,,,Ariadne 1859
-ShowShip.php?id=1074,100,0,Ariel,1837,W,P,Packet,149,,1,18??,,
+ShowShip.php?id=1074,100,0,Ariel,1837,W,P,Packet,149,,1,,,
 ShowShip.php?id=142,101,0,Ariel,1854,W,S,Sloop,486,625,9,1865,22,
 ,102,0,Ariel,1873,C,S,Gunboat,295,436,4,1889,23,1877 Coastguard
 ShowShip.php?id=1076,103,0,Armada,1810,W,W,3rd rate,1749,,74,1863,,
@@ -124,7 +124,7 @@ ShowShip.php?id=45,121,0,Atlas,1860,W,S,2nd rate,3318,5260,91,1904,29,Not comple
 ShowShip.php?id=1090,122,1,Audacious,1869,I,S,Central battery ironclad,3774,6010,14,1927,30,1902 torpedo d.s. 1904 = Fisgard. 1906 t.s. 1914 = Imperiéuse repair ship
 ShowShip.php?id=1452,122,2,Fisgard,1904,,,,,,,,,Audacious 1869
 ShowShip.php?id=1597,122,3,Impérieuse,1914,,,,,,,,,Audacious 1869
-ShowShip.php?id=2384,123,0,Aurora,1809,W,W,Sloop,247,,14,18??,,1810.09 captured by France off Mauritius
+ShowShip.php?id=2384,123,0,Aurora,1809,W,W,Sloop,247,,14,,,1810.09 captured by France off Mauritius
 ShowShip.php?id=1091,124,0,Aurora,1814,W,W,5th rate,1083,,38,1851,,1808 launched. 1814.02.26 captured as Clorinde (French). 1832 c.h.
 ShowShip.php?id=74,125,0,Aurora,1861,W,S,Frigate,2558,3498,51,1881,,
 ShowShip.php?id=1092,126,0,Avenger,1845,W,P,Frigate,1444,,10,1847,,1847.12.20 wrecked on Sorelle Rocks off North Africa 246 drowned
@@ -150,7 +150,7 @@ ShowShip.php?id=2496,146,0,Barrosa,1812,W,W,5th rate,947,,36,1841,,1823 h.s.
 ShowShip.php?id=101,147,0,Barrosa,1860,W,S,Corvette,1700,2302,21,1877,38,
 ShowShip.php?id=2332,148,0,Basilisk,1822,W,W,Cutter,161,,6,1846,,
 ShowShip.php?id=1108,149,0,Basilisk,1848,W,P,1st class sloop,1031,1710,6,1882,,
-,151,0,Beacon,1855,W,W,Mortar vessel,117,,1,18??,,1855.10 = MV.16. 1862 dockyard lighter
+,151,0,Beacon,1855,W,W,Mortar vessel,117,,1,,,1855.10 = MV.16. 1862 dockyard lighter
 ,152,0,Beacon,1856,W,S,Gunboat,232,,4,1864,,
 ,153,0,Beacon,1867,C,S,Gunvessel,465,603,4,1888,39,
 ShowShip.php?id=1113,154,0,Beagle,1820,W,W,Brig-sloop,237,,10,1870,,1825 survey vessel. 1846 Customs w.v. 1863 = WV.7
@@ -179,7 +179,7 @@ ShowShip.php?id=1602,176,3,Impregnable III,1910,,,,,,,,,Black Prince 1861
 ShowShip.php?id=1134,178,0,Blanche,1819,W,W,5th rate,1074,,46,1865,,1852 h.s.
 ShowShip.php?id=102,179,0,Blanche,1867,W,S,Sloop (1876: Corvette),1268,1682,6,1886,47,
 ShowShip.php?id=1135,180,0,Blazer,1834,W,P,Sloop,527,,,1853,,1843 survey ship
-,181,0,Blazer,1855,W,W,Mortar vessel,117,,1,18??,,1855.10 = MV.3. 18??=YC.12. 1867 to Thames Conservancy Board
+,181,0,Blazer,1855,W,W,Mortar vessel,117,,1,,,1855.10 = MV.3. 18??=YC.12. 1867 to Thames Conservancy Board
 ShowShip.php?id=1137,182,0,Blazer,1856,W,S,Gunboat,232,,,1877,48,1868 = YC.29 steam-dredger
 ,183,0,Blazer,1870,I,S,Gunboat,,254,1,1919,49,1904 tender. 1914 gunboat
 ShowShip.php?id=60,184,0,Blenheim,1813,W,W,3rd rate,1747,,74,1865,50,1831 h.s. 1847 screw blockship 1822 bm 60 guns
@@ -306,7 +306,7 @@ ShowShip.php?id=2472,308,0,Cherub,1806,W,W,Sloop,424,,18,1820,,
 ShowShip.php?id=77,310,0,Chesapeake,1855,W,S,Frigate,2377,3334,51,1867,89,
 ,311,0,Chester,1861,I,S,Tank vessel,164,234,0,1925,90,
 ,312,0,Chichester,1843,W,W,4th rate,1468,,52,1889,,1866 lent as t.s.
-ShowShip.php?id=2391,313,0,Chiffonne,1801,W,W,5th rate,945,,36,18??,,1801.08.19 captured from French off Sychelles
+ShowShip.php?id=2391,313,0,Chiffonne,1801,W,W,5th rate,945,,36,,,1801.08.19 captured from French off Sychelles
 ShowShip.php?id=1237,314,0,Childers,1827,W,W,Brig-sloop,385,,16,1865,,
 ShowShip.php?id=1238,315,0,Chub,1855,W,S,Gunboat,212,,2,1869,91,
 ShowShip.php?id=2532,316,0,Circassian,1854,W,P,Vessel,170,,0,1856,,
@@ -455,8 +455,7 @@ ShowShip.php?id=2544,457,0,Discovery,1874,W,S,Vessel,556,1247,,1902,,
 ShowShip.php?id=1349,460,0,Dolphin,1836,W,W,Brigantine,319,,3,1894,,1861 Customs w.v.
 ShowShip.php?id=1350,461,0,Donegal,1798,W,W,3rd rate,1901,,76,1845,,1798.10.12 captured as Hoche (French)
 ShowShip.php?id=48,462,1,Donegal,1858,W,S,2nd rate,3245,5461,101,1925,,1886 = Vernon torpedo school
-ShowShip.php?id=2236,462,2,Vernon,1886,,,,,,,,,Donegal 1858
-ShowShip.php?id=2396,463,0,Doris,1808,W,W,5th Rate,870,,36,18??,,
+ShowShip.php?id=2396,463,0,Doris,1808,W,W,5th Rate,870,,36,,,
 ShowShip.php?id=81,464,0,Doris,1857,W,S,Frigate,2483,3677,32,1885,133,
 ShowShip.php?id=2397,465,0,Doterel,1808,W,W,Brig-sloop,387,,18,1848,,1827.04 hulk
 ShowShip.php?id=1351,466,0,Doterel,1837,W,P,Packet,237,,,1850,,
@@ -530,7 +529,7 @@ ShowShip.php?id=1412,544,0,Espiegle,1844,W,W,Brig,443,,12,1861,,
 ShowShip.php?id=1413,545,0,Espoir,1826,W,W,Brig-sloop,233,,10,1857,,
 ShowShip.php?id=1414,546,0,Espoir,1860,W,S,Gunvessel,428,570,5,1881,160,1869 = YC.19 dredger
 ShowShip.php?id=1415,547,0,Ethalion,1802,W,W,5th rate,996,,36,1877,,1823 h.s. 1835 lent as breakwater at Harwich
-,548,0,Euphrates,1834,,P,Gunboat,179,,,18??,,
+,548,0,Euphrates,1834,,P,Gunboat,179,,,,,
 ShowShip.php?id=1417,549,0,Euphrates,1866,I,S,Troopship,4173,6211,3,1894,161,
 ShowShip.php?id=189,550,0,Eurotas,1829,W,W,5th rate,1170,,46,1865,162,1856 mortar frigate 2 mortars
 ShowShip.php?id=1418,551,1,Euryalus,1803,W,W,5th rate,946,,36,1860,,1826 prison ship. 1859 = Africa
@@ -558,7 +557,7 @@ ShowShip.php?id=1433,573,0,Fantome,1873,C,S,Sloop,727,940,4,1889,,
 ShowShip.php?id=1436,576,1,Favourite,1829,W,W,Sloop,434,,18,1905,,1836 = Favorite. 1859 c.h. 18?? = C.3. 18?? = C.77
 ShowShip.php?id=1434,576,2,Favorite,1836,,,,,,,,,Favourite 1829
 ShowShip.php?id=2405,577,0,Fawn,1807,W,W,Sloop,424,,18,1818,,
-ShowShip.php?id=2342,578,0,Fawn,1840,W,W,Brigantine,169,,6,18??,,
+ShowShip.php?id=2342,578,0,Fawn,1840,W,W,Brigantine,169,,6,,,
 ShowShip.php?id=155,579,0,Fawn,1856,W,S,Sloop,751,1045,17,1884,169,
 ShowShip.php?id=1437,580,0,Fearless,1837,W,P,Survey vessel,165,,,1875,170,
 ,581,0,Fenella,1856,W,S,Gunboat,233,,2,1878,171,1867 steam-dredger
@@ -840,7 +839,7 @@ ShowShip.php?id=1087,849,3,Atalanta,1878,,,,,,,,,Juno 1844
 ShowShip.php?id=118,850,0,Juno,1867,W,S,Corvette,1462,2083,6,1887,263,
 ShowShip.php?id=1652,851,0,Jupiter,1813,W,W,4th rate,1173,,50,1870,,1837 troopship. 1846 c.h. 
 ,854,0,Kangaroo,1852,W,W,Brig,483,,12,1897,,Laid down as Dove. 1863 = WV.20 Coastguard
-,857,0,Kertch,1855,W,W,Schooner gunboat,94,,2,187?,,1860 = YC.1
+,857,0,Kertch,1855,W,W,Schooner gunboat,94,,2,,,1860 = YC.1
 ShowShip.php?id=1659,858,0,Kestrel,1846,W,W,Brigantine,200,,,1852,,
 ShowShip.php?id=1660,859,0,Kestrel,1856,W,S,Gunboat,233,,2,1866,265,1859.06.25 wrecked in action at Peiho forts China but salvaged and reentered service
 ,860,0,Kestrel,1872,C,S,Gunvessel,,610,4,1888,266,
@@ -904,7 +903,7 @@ ShowShip.php?id=1711,920,0,Lynx,1854,W,S,Gunvessel,477,,2,1862,,
 ,921,0,Lynx,1868,C,S,Gunvessel,464,584,4,1888,291,
 ShowShip.php?id=2348,922,0,Lyra,1821,W,W,Brig-sloop,235,,10,1845,,1823 tender. 1829 packet brig
 ShowShip.php?id=161,923,0,Lyra,1857,W,S,Sloop,488,653,9,1876,292,
-ShowShip.php?id=2424,924,0,Macedonian,1810,W,W,5th rate,1082,,38,18??,,1812.10.25 captured by Americans in the Altantic
+ShowShip.php?id=2424,924,0,Macedonian,1810,W,W,5th rate,1082,,38,,,1812.10.25 captured by Americans in the Altantic
 ShowShip.php?id=1713,925,0,Mackerel,1856,W,S,Gunboat,232,,4,1862,,
 ShowShip.php?id=1714,926,0,Madagascar,1822,W,W,5th rate,1167,,46,1863,,1853 harbour storeship
 ShowShip.php?id=1716,927,0,Maeander,1840,W,W,5th rate,1221,,44,1870,,1870.07 wrecked at Ascension
@@ -1015,7 +1014,7 @@ ShowShip.php?id=2432,1020,0,Montreal,1839,W,W,Schooner,,,,1848,,1839.10.18 purch
 ShowShip.php?id=1791,1025,0,Mulgrave,1812,W,W,3rd rate,1726,,74,1854,,1836 lazaretto. 1844 powder hulk
 ShowShip.php?id=1792,1026,0,Mullett,1860,W,S,Gunvessel,428,570,5,1872,,
 ShowShip.php?id=1793,1027,0,Musquito,1851,W,W,Brig,549,,16,1862,,Sold to Prussian navy
-ShowShip.php?id=2350,1028,0,Mutine,1825,W,W,Packet brig,231,,4,18??,,
+ShowShip.php?id=2350,1028,0,Mutine,1825,W,W,Packet brig,231,,4,,,
 ShowShip.php?id=1794,1029,0,Mutine,1844,W,W,Brig,428,,12,1848,,1848.12.21 wrecked in a gale near Venice (5 lost)
 ShowShip.php?id=162,1030,0,Mutine,1859,W,S,Sloop (1862: Corvette),882,1291,17,1870,316,
 ShowShip.php?id=2585,1031,0,Myrmidon,1813,W,W,6th rate,509,,20,1823,,
@@ -1317,7 +1316,7 @@ ShowShip.php?id=4,1330,0,Royal Albert,1854,W,S,1st rate,3726,5517,121,1884,406,
 ShowShip.php?id=2009,1331,0,Royal Alfred,1864,W,S,Central battery ironclad,4068,6707,18,1885,407,1874 h.s.
 ,1332,0,Royal Charlotte,1824,W,W,Yacht,202,,6,1832,,
 ,1333,0,Royal Escape,1792,W,W,Transport,110,,,1877,,1816? dockyard service. By 1866 = YC.4
-ShowShip.php?id=2341,1334,1,Royal George,1809,W,W,Sloop,340,,20,18??,,1814 = Niagara
+ShowShip.php?id=2341,1334,1,Royal George,1809,W,W,Sloop,340,,20,,,1814 = Niagara
 ShowShip.php?id=2351,1334,2,Niagara,1814,,,,,,,,,Royal George 1809
 ShowShip.php?id=2012,1335,0,Royal George,1817,W,W,Yacht,330,,,1905,,1843 h.s.
 ShowShip.php?id=5,1336,0,Royal George,1827,W,W,1st rate,2616,,120,1875,408,Laid down as Neptune. 1853 screw
@@ -1419,7 +1418,7 @@ ShowShip.php?id=2075,1427,0,Skylark,1855,W,S,Gunboat,232,,3,1906,,
 ShowShip.php?id=2076,1428,0,Slaney,1857,W,S,Gunboat,301,,3,1870,432,1870.05.09 wrecked in typhoon near Hong Kong
 ShowShip.php?id=2077,1429,0,Snake,1832,W,W,Brig-sloop,434,,16,1847,,1847.08.29 wrecked in Mozambique Channel
 ShowShip.php?id=2078,1430,0,Snake,1854,W,S,Gunvessel,477,,2,1864,433,
-,1431,0,Snake,1871,I,S,Gunboat,,254,1,19??,434,1907 = YC.15 dockyard cable lighter
+,1431,0,Snake,1871,I,S,Gunboat,,254,1,,434,1907 = YC.15 dockyard cable lighter
 ,1432,0,Snap,1847,,,Steam transport,,,,1848,,
 ShowShip.php?id=2081,1433,0,Snap,1855,W,S,Gunboat,232,,3,1868,435,1868 resold to Japanese navy as Katu Ten Kan
 ,1434,0,Snap,1872,I,S,Gunboat,,251,1,1909,436,
@@ -1684,7 +1683,7 @@ ShowShip.php?id=2285,1687,0,Waterwitch,1866,I,H,Armoured gunboat,,1205,4,1890,50
 ,1688,1,Wave,1856,W,S,Gunboat,232,,4,1891,,1879 hulked 1882 = Clinker
 ,1688,2,Clinker,1882,,,,,,,,,Wave 1856
 ShowShip.php?id=2288,1689,0,Weasel,1855,W,S,Gunboat,232,,3,1869,509,
-,1690,0,Weasel,1873,I,S,Gunboat,254,,1,19??,,1904 = C118 oil fuel lighter
+,1690,0,Weasel,1873,I,S,Gunboat,254,,1,,,1904 = C118 oil fuel lighter
 ShowShip.php?id=2364,1691,0,Weazle,1822,W,W,Brig-sloop,237,,10,1844,,
 ShowShip.php?id=2290,1692,1,Wellesley,1815,W,W,3rd rate,1746,,74,1940,,1854 guard ship. 1868 = Cornwall t.s. 1940.09.24 sunk in Thames by air attack
 ShowShip.php?id=1282,1692,2,Cornwallis,1868,,,,,,,,,Wellesley 1815
