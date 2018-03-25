@@ -4402,7 +4402,7 @@ Order,PID,Date,Rank
 4407,p_4_168,29_3_1842,Lieutenant
 4408,p_4_168,8_3_1848,Commander
 4409,p_4_168,14_3_1851,Captain
-4410,p_4_169,25_5_1801,Retired Admiral
+4410,p_4_168,25_5_1801,Retired Admiral
 4411,p_4_169,1850,Entered Navy
 4412,p_4_169,15_5_1858,Lieutenant
 4413,p_4_169,6_2_1866,Commander
@@ -7037,8 +7037,8 @@ Order,PID,Date,Rank
 7050,p_8_32,1_10_1873,Retired
 7051,p_8_32,5_7_1881,Retired Captain
 7052,p_8_33,23_11_1841,Lieutenant
-7053,p_8_34,4_2_1869,Midshipman
-7054,p_8_34,19_9_1864,Lieutenant
+7053,p_8_34,19_9_1864,Midshipman
+7054,p_8_34,4_2_1869,Lieutenant
 7055,p_8_36,15_4_1845,Mate
 7056,p_8_36,15_8_1846,Lieutenant
 7057,p_8_37,4_11_1840,Lieutenant
